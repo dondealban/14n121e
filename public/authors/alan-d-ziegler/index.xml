@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan D Ziegler | Don De Alban</title>
+    <link>/authors/alan-d-ziegler/</link>
+      <atom:link href="/authors/alan-d-ziegler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alan D Ziegler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Sat, 14 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Alan D Ziegler</title>
+      <link>/authors/alan-d-ziegler/</link>
+    </image>
+    
+    <item>
+      <title>Political transition and emergent forest‐conservation issues in Myanmar</title>
+      <link>/publication/2017-conserv-biol-horizon-scan/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-conserv-biol-horizon-scan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Untangling the proximate causes and underlying drivers of deforestation and forest degradation in Myanmar</title>
+      <link>/publication/2017-conserv-biol-causal-network/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-conserv-biol-causal-network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

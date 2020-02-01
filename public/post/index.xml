@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Don De Alban</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Sun, 11 Aug 2019 20:12:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Repos on GitHub.</title>
+      <link>/post/2019/08-11-repos-on-github/</link>
+      <pubDate>Sun, 11 Aug 2019 20:12:00 +0000</pubDate>
+      <guid>/post/2019/08-11-repos-on-github/</guid>
+      <description>&lt;p&gt;I have been sharing the coding materials and resources related to my research on my &lt;a href=&#34;https://github.com/dondealban&#34; target=&#34;_blank&#34;&gt;GitHub page&lt;/a&gt; but I have not had the chance to blog about these here at all, even briefly. And so, let me make this short introduction on my activities on GitHub, which does seem to show (and share) more of my research activity than in this blog. It&amp;rsquo;s just been about time too that I updated the &amp;lsquo;mugshot&amp;rsquo; on my GitHub page, which used to show an old (younger) photo of me, and now, more appropriately, shows a recent photo of me taken during the wedding of a dear colleague. Anyway&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_01.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First, the repositories that accompany some of my published papers, either those I have led or had the great opportunity to co-author. I put together these materials to supplement the published papers, thereby creating a backup of the materials used and developed through the study such as data, results, scripts, and figures. By doing this, I was aiming to encourage not just other scientists and researchers but also my future self to do better science by fostering research reproducibility and transparency. It also improves the overall impact of my own research. Some of these repositories include materials for my &lt;a href=&#34;https://github.com/dondealban/ms-remote-sens-2018&#34; target=&#34;_blank&#34;&gt;2018 Remote Sensing&lt;/a&gt; and &lt;a href=&#34;https://github.com/dondealban/ms-sustainability-2019&#34; target=&#34;_blank&#34;&gt;2019 Sustainability&lt;/a&gt; papers, as well as a &lt;a href=&#34;https://github.com/dondealban/ms-conserv-biol-2017&#34; target=&#34;_blank&#34;&gt;2017 Conservation Biology&lt;/a&gt; paper, all of which were done together with my lab members and principal investigator.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_02.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Second, I&amp;rsquo;ve created some repositories over the last couple of years for a lecture I gave at the ISPRS Student Consortium Summer School and Hackathon in 2018 where I shared about my land change research and ran a &lt;a href=&#34;https://github.com/dondealban/isprs-sc-summer-school&#34; target=&#34;_blank&#34;&gt;crash course on Google Earth Engine&lt;/a&gt;, and a short &lt;a href=&#34;https://github.com/dondealban/tutorial-qgis-maxent&#34; target=&#34;_blank&#34;&gt;tutorial on species distribution modeling using MaxEnt and R&lt;/a&gt; that I did for my labmates during a lab retreat in 2017.&lt;/p&gt;
+
+&lt;p&gt;Finally, I&amp;rsquo;ve also developed a couple of long how-to guides or tutorials while I was starting to learn some R packages in pursuit of my research ideas. There was one on the &lt;a href=&#34;https://github.com/dondealban/learning-stm&#34; target=&#34;_blank&#34;&gt;stm package&lt;/a&gt; on structural topic modeling for text data mining and automated content analysis; and the other on the &lt;a href=&#34;(https://github.com/dondealban/learning-intensity-analysis)&#34; target=&#34;_blank&#34;&gt;intensity analysis package&lt;/a&gt;, which has been a key component of my research on land use/cover change analysis.&lt;/p&gt;
+
+&lt;p&gt;Quite frankly, I am stoked to see that users on GitHub have found these repositories (and some others I have not mentioned) useful as indicated by the number of stars or forks (take the &lt;a href=&#34;https://github.com/dondealban/learning-stm&#34; target=&#34;_blank&#34;&gt;learning-stm&lt;/a&gt; repo, for example).&lt;/p&gt;
+
+&lt;p&gt;Please do watch my GitHub space for more updates on my research activities. If you find the materials and resources in any way helfpful, please &amp;lsquo;star&amp;rsquo; the repository page on GitHub, or cite the papers or accompanying repositories if you used them for your research. In case you want to contribute to the content in any of the repositories, please feel free to fork the repo and submit your pull request.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_03.png&#34; alt=&#34;png&#34; /&gt;
+&lt;img src=&#34;./image_04.png&#34; alt=&#34;png&#34; /&gt;
+&lt;img src=&#34;./image_05.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some impressions during the NASA SARI LCLUC science meeting.</title>
+      <link>/post/2019/07-25-some-impressions-nasa-sari-lcluc-science-meeting/</link>
+      <pubDate>Thu, 25 Jul 2019 22:12:00 +0000</pubDate>
+      <guid>/post/2019/07-25-some-impressions-nasa-sari-lcluc-science-meeting/</guid>
+      <description>&lt;p&gt;I had the opportunity to present a poster at the &lt;a href=&#34;http://lcluc.umd.edu/meetings/sari-searrin-meeting-and-training-malaysia-2019&#34; target=&#34;_blank&#34;&gt;international science meeting&lt;/a&gt; of the land cover / land use change (LCLUC) programme of NASA&amp;rsquo;s South/Southeast Asia Regional Initiative, held in Johor Bahru, Malaysia from 22nd to 24th of July 2019. My poster presentation was about our study on investigating land-cover regime shifts by integrating complementary analytical frameworks in the Tanintharyi Region, southern Myanmar, which was published earlier this year in a special issue of Sustainability journal (&lt;a href=&#34;https://www.mdpi.com/2071-1050/11/4/1139/htm&#34; target=&#34;_blank&#34;&gt;full paper here&lt;/a&gt;). I have not done a poster presentation in a very long while&amp;mdash;my last one was back in 2004, if my memory serves me right&amp;mdash;and so this time around it was an immensely gratifying experience, particularly seeing how other scientists were genuinely interested in what we found, how they thought of using the approaches and results of our study to build on their own work, as well as providing constructive feedback. Actually, I even won, to my utmost surprise, the 3rd best poster award out of about 50 posters presented during the meeting!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_01.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am starting to think I prefer doing poster presentations now better than oral presentations simply because the posters get to stay on display for the duration of the meeting and the people who engage and interact with you during poster sessions, in my opinion, are those who are really interested in your work or have the same research interests as you. In oral presentations, of which I&amp;rsquo;ve done much more frequently in the past, you would usually only have a short amount of time to present your study, and more often than not, hardly enough time is available at the end of your talk for questions or meaningful discussions with the audience. During the meeting&amp;rsquo;s plenary discussion, one of the main suggestions for future meetings was to have more poster presentations and less oral presentations, of which I am delighted about and of which I think should be the better way moving forward.&lt;/p&gt;
+
+&lt;p&gt;There were also some insightful and interesting talks during the oral keynote presentation sessions. Of note were talks by:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Thuy Le Toan (CESBIO, France) who presented about the BIOMASS Mission, the first ever P-band SAR sensor planned to be launched in space by 2022 to observe tropical forests. The BIOMASS mission is a truly exciting project because it will allow scientists to answer what the role of forests are in the global carbon cycle, and this time with less uncertainty in measurements by utilising SAR tomography; and&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jeffrey Fox (East-West Center, USA) who talked about his long-term research on the expansion of rubber (Hevea brasiliensis) and its implications for water, carbon, and livelihoods across montane mainland Southeast Asia. After his talk, it got me into thinking: with rubber prices currently really low, what would happen to existing rubber plantations? Would these rubber plantations be converted into other plantations with more lucrative agricultural commodities (like oil palm) so that the plantation owners/farmers can profit from their investments? If not, would it potentially open new frontier areas of deforestation to make way for other lucrative plantations that would then serve as an alternative source of income while at the same time keeping their rubber plantations (in wait until prices become more profitable again)?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finally, it was a pleasure meeting other remote sensing and land change scientists and learning about their research work in the region and elsewhere. Some of them I&amp;rsquo;ve met for the first time (like Xiaobo, Haemi, Prakhar, Garrett), and some who I met in the last science meeting (like Hoa, Arai, Sumalika), and then Thuy whom I&amp;rsquo;ve known before during the ALOS K&amp;amp;C science meetings in Japan as well as Jeff who came to visit our lab in Singapore.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_02.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MOTIVATE Learning.</title>
+      <link>/post/2018/08-03-motivate-learning/</link>
+      <pubDate>Fri, 03 Aug 2018 14:16:00 +0000</pubDate>
+      <guid>/post/2018/08-03-motivate-learning/</guid>
+      <description>&lt;p&gt;I am stoked to be one of the invited lecturers/visiting experts for next week&amp;rsquo;s &lt;a href=&#34;http://sc.isprs.org/events/motivate.html&#34; target=&#34;_blank&#34;&gt;MOTIVATE Learning&lt;/a&gt; activity, a collaborative project organised by the International Society for Photogrammetry and Remote Sensing Student Consortium (&lt;a href=&#34;http://sc.isprs.org/home.html&#34; target=&#34;_blank&#34;&gt;ISPRS SC&lt;/a&gt;), the Geoinformatics and Space Technology Development Agency (&lt;a href=&#34;http://www.gistda.or.th/main/en&#34; target=&#34;_blank&#34;&gt;GISTDA&lt;/a&gt;) of Thailand, and the ASEAN Research and Training Center for Space Technology and Applications (&lt;a href=&#34;http://artsa.gistda.or.th/about/&#34; target=&#34;_blank&#34;&gt;ARTSA&lt;/a&gt;), which will be held at the Space Krenovation Park in Chonburi, Thailand. MOTIVATE Learning aims to build the capacity of students and young professionals in the fields of remote sensing, photogrammetry, and spatial information sciences.&lt;/p&gt;
+
+&lt;p&gt;I will be participating in next week&amp;rsquo;s activity, the ISPRS Summer School and Hackathon, which intends to train participants with state-of-the-art geospatial technology through a week-long, fun-filled geekfest consisting of lectures, practical break-out sessions, and hackathon. Specifically, I will be delivering a series of presentations and hands-on exercises about &lt;strong&gt;&lt;em&gt;A Synergistic Approach on Mapping using Remote Sensing and GIS&lt;/em&gt;&lt;/strong&gt;, of which the official brief topic description is as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;With the evolution of technology, different kinds of satellite imageries are now being collected by various satellite missions. In the past, data scarcity used to be one of the major challenges, but in the present, the era of big data has arrived. How do we make use of different satellite imageries and is it possible to develop a robust synergistic approach on mapping using remote sensing and GIS? This topic aims to explore which satellite imageries can be used in addressing scientific and societal issues and to develop a potential methodology on how to improve results through a synergistic mapping approach.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hence, this will give me the opportunity to talk about my on-going research on understanding land-system change dynamics in Myanmar, specifically my recent &lt;a href=&#34;https://doi.org/10.3390/rs10020306&#34; target=&#34;_blank&#34;&gt;Remote Sensing paper&lt;/a&gt; on combining optical and radar data for land cover classification and change detection; and then, demonstrate a flavor of &lt;a href=&#34;https://earthengine.google.com/&#34; target=&#34;_blank&#34;&gt;Google Earth Engine&lt;/a&gt;&amp;rsquo;s many applications, particularly to land-system change studies (which then gives me a good platform to share my research on a newly-developed protocol for investigating land-system regime shifts); plus a bit about the research projects I have done over the years under the ALOS Kyoto &amp;amp; Carbon Initiative with my former teammates at Fauna &amp;amp; Flora International, mainly on the synergistic use of optical and radar data for land cover (and mangrove) mapping and monitoring in the Philippines.&lt;/p&gt;
+
+&lt;p&gt;Watch this space for more updates on next week&amp;rsquo;s Summer School activity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Designing maps for the color vision impaired.</title>
+      <link>/post/2017/09-16-designing-maps-color-vision-impaired/</link>
+      <pubDate>Sat, 16 Sep 2017 20:51:00 +0000</pubDate>
+      <guid>/post/2017/09-16-designing-maps-color-vision-impaired/</guid>
+      <description>&lt;p&gt;Cartography involves the drawing of maps, which in fact is both a science and an art. I&amp;rsquo;ve come to learn in the course of my years of study and professional experience that mapmaking is not as easy as it seems. Maps tell a story. And for maps to effectively tell that story, the mapmaker should think not only about the main subject of the map, but should also give due consideration to the various map elements such as their position and balance across the map, as well as the accuracy of the measurements, and the styling of these elements which involve, for example, the choice of colors, line weights, among other considerations.&lt;/p&gt;
+
+&lt;p&gt;To be honest, although I&amp;rsquo;ve been making maps for my entire professional career, I have never considered color vision impairment in the design of maps, at least those that I have made myself. (For instance, the green and red color scheme that I consistently use to depict forest loss and forest gain would be the same shade of gray for a person with color vision impairment.) I have always kept in mind the psychology of colors in maps to help get the message across to the users of these maps, thereby allowing them to better understand the story that the map intends to tell. But unfortunately, I have not put myself in the shoes of a person with color blindness and have given enough thought on how they would perceive and understand those maps. At least not yet.&lt;/p&gt;
+
+&lt;p&gt;The opportunity to rectify this finally came in the process of finalising a map figure for the final proof of our recently accepted paper for publication. A colleague of mine, G, suggested that we consider designing the color scheme of the figure to be more friendly for color blind people. It was a brilliant suggestion. I had not thought of it at first (yet again) and I welcomed it because it gave me the chance to learn and design maps for both people with normal vision and color vision impairments.&lt;/p&gt;
+
+&lt;p&gt;To implement this, luckily an app called &lt;a href=&#34;http://colororacle.org/&#34; target=&#34;_blank&#34;&gt;Color Oracle&lt;/a&gt; existed, which is a free color blindness simulator that can be used across computer platforms. It shows what people with common color vision impairments would see in real time, thus allowing a person to select appropriate colors in designing the color scheme of a material, website, or publication. Color Oracle basically applies a color filter over the full screen of your computer regardless of the software in use.&lt;/p&gt;
+
+&lt;p&gt;For example, the screenshots of the same portion of the map figure below was the result of the Color Oracle app showing me what a person with normal vision would see and what a color vision impaired person would see. Through these color filters, I then selected colors that would ensure the images can be read by people with normal vision and color blindness. It adds another layer of consideration in designing maps, even making it more challenging, but this ensures that the map can be read by and be accessible to the widest possible audience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_01.png&#34; alt=&#34;png&#34; /&gt;&lt;em&gt;Screenshots of the same portion of a map figure showing the colors that people with normal color vision would see (leftmost image) and the colors that people with color vision impairments would see, particularly those with deuteranopia (2nd from left), protanopia (3rd from left), and tritanopia (rightmost image).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For additional reading, visit the &lt;a href=&#34;http://colororacle.org/&#34; target=&#34;_blank&#34;&gt;Color Oracle&lt;/a&gt; website and read the papers by Jenny &amp;amp; Kelso (2007a, 2007b) to learn more about the design of information graphics and maps that are accessible for color-impaired readers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jenny, B., Kelso, N. V. (2007a). Designing maps for the color-vision impaired. &lt;em&gt;Bulletin of the Society of Cartographers&lt;/em&gt; SoC, &lt;strong&gt;41&lt;/strong&gt;, 9-12. [&lt;a href=&#34;http://colororacle.org/resources/2007_JennyKelso_DesigningMapsForTheColourVisionImpaired.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;Jenny, B., Kelso, N. V. (2007b). Color design for the color vision impaired. &lt;em&gt;Cartographic Perspectives&lt;/em&gt;, &lt;strong&gt;58&lt;/strong&gt;, 61-67. [&lt;a href=&#34;http://colororacle.org/resources/2007_JennyKelso_ColorDesign_lores.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

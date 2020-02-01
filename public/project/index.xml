@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Don De Alban</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Beyond Deforestation—Drivers and Predictions of Land Cover Change in Mainland Southeast Asia.</title>
+      <link>/project/05_beyond-deforestation/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/project/05_beyond-deforestation/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;BEYOND DEFORESTATION: DRIVERS AND PREDICTIONS OF LAND COVER CHANGE IN MAINLAND SOUTHEAST ASIA (2019–2021).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This project aims to go beyond simple deforestation analyses and inquire about the drivers of land cover change across Southeast Asia, which in turn should support the development of predictive, spatially explicit simulations of possible landscape transformations that are informed by policy-relevant scenarios in Southeast Asia. The specific objectives of this research are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Quantify annual land cover transitions for the 1992–2015 period in the mainland Southeast Asian region, identifying critical hotspots of land cover change;&lt;/li&gt;
+&lt;li&gt;Conduct multidisciplinary analyses to uncover the drivers of land cover change in a selection of land cover change hotspots; and&lt;/li&gt;
+&lt;li&gt;Develop spatially explicit forecasts of land cover change for those hotspots.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reconciling Agricultural Expansion and Forest Conservation in Myanmar.</title>
+      <link>/project/04_myanmar-tier2/</link>
+      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/04_myanmar-tier2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;RECONCILING AGRICULTURAL EXPANSION AND FOREST CONSERVATION IN THE NEW MYANMAR (2016-2019).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Myanmar’s rapid socio-economic transition presents a unique opportunity to study the influence of economic development on biodiversity conservation in the context of governance transformation. The overarching objective of this project is to understand and evaluate the drivers of land use change and deforestation in Myanmar, and to increase the resilience of protected areas to protect biodiversity in the face of rapid new pressures imposed by increased foreign direct investment. This project intends to combine local case studies, geospatial modelling tools, and policy analyses to inform the fluid policy context of Myanmar and generate novel insights for long-term conservation and management of biodiversity by improving land use planning, protected area management, and improving policy tools for environmental safeguarding. A spatially-explicit, hierarchical approach to this problem is pursued through the following three inter-related objectives:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Broad, country-wide analysis to evaluate land-use change scenarios based on present and future agricultural productivity, commodity prices and forest rents.&lt;/strong&gt; This objective is done by generating top-down, macro-economic land rent models that utilize national and global-level data and creating scenarios based on expected future economic opportunities.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Local, case-study analysis to understand how individual actors might behave when given new agricultural opportunities associated with increased investment.&lt;/strong&gt; This objective is achieved by developing bottom-up agent-based models integrating local perception data, to predict areas most vulnerable to deforestation and land use change surrounding a subset of priority protected areas.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Develop policy recommendations that reconcile increased international investment, new opportunities for livelihood improvement through agricultural expansion and intensification, with biodiversity conservation in Myanmar.&lt;/strong&gt; This objective includes the conduct of scenario analyses of the models constructed for 1) and 2) above, based on present conditions and potential policy options. This should lead to science-based policy recommendations related to infrastructure investment, agricultural expansion, protected area conservation and environmental safeguards based on realistic scenarios going forward.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conceptualising and Articulating the Drivers of Deforestation in Myanmar.</title>
+      <link>/project/03_myanmar-tier1/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/03_myanmar-tier1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;CONCEPTUALISING AND ARTICULATING THE DRIVERS OF DEFORESTATION IN THE NEW MYANMAR (2015–2018).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The project intends to develop a conceptual framework for Myanmar that distinguishes and identifies the various stakeholders, resources, and their relationships set within the dynamic policy landscape. Moreover, the project intends to develop a holistic, multi-disciplinary perspective on the emerging trends in Myanmar that are likely to have an impact on the forest-agriculture interface. The two specific objectives of the project are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;To develop a qualitative conceptual framework that identifies, describes, and links key
+stakeholders that influence forest conservation, agriculture, and natural resource extraction in Myanmar, and embeds those relationships within a socio-economic and policy context. The framework should describe the stakeholders, agents, and contextual factors that will later inform scenario analysis for a spatially-explicit, top-down, rent-based agriculture-forest model.&lt;/li&gt;
+&lt;li&gt;To conduct a horizon scan that identifies the highest priority threats and opportunities that Myanmar’s increased international engagement will have for forest conservation. This will lead to novel, interdisciplinary insights on how Myanmar’s new international engagement may lead to new physical outcomes, such as agricultural intensification, deforestation, or agroindustrial expansion.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ALOS Kyoto &amp; Carbon Initiative Phase 4.</title>
+      <link>/project/02_alos-kc-phase4/</link>
+      <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/project/02_alos-kc-phase4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;UTILISING L-BAND SAR DATA FOR NATURAL RESOURCE MANAGEMENT IN THE PHILIPPINES (2014–2019).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For ALOS K&amp;amp;C Phase 4, we intend to utilise JAXA ’s earth observation products, particularly ALOS/PALSAR-2, ALOS/PALSAR, and JERS-1 SAR data, to demonstrate the utility and viability of L-band SAR for natural resources management applications in the Philippines. We propose to utilise the data for the three thematic applications as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Land cover mapping and change detection.&lt;/strong&gt; We intend to assess the ability of spaceborne L-band SAR systems to support the generation of national baseline land cover and forest cover and change maps using a multi-level, hierarchical, land cover classification system.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;REDD+ and forest management.&lt;/strong&gt; Among the key activities to assess the potential of REDD+ initiatives is the credible baseline mapping of forest area changes, and estimation of forest biomass and carbon stocks, for which we intend to use JAXA’s L-band SAR datasets. Monitoring of forest area changes is also useful tool in order to assess the success of the forest protection and conservation.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Mangrove forest mapping and change monitoring.&lt;/strong&gt; We intend to utilise JAXA’s L-band SAR datasets to map the country’s mangrove cover extent and detect changes.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Similar to Phase 3, the ALOS K&amp;amp;C Philippines team is composed of representatives from Fauna &amp;amp; Flora International, Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH, and the Department of Geodetic Engineering of the University of the Philippines. Other collaborators include staff of the National Mapping and Resource Information Authority and the Forest Management Bureau of the Department of Environment and Natural Resources.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Acknowledgements.&lt;/em&gt; The ALOS K&amp;amp;C Philippines team acknowledges the following organisations/projects for their support in the implementation of the project: (1) the &lt;em&gt;Biodiversity and Watersheds Improved for Stronger Economy and Ecosystem Resilience (B+WISER) Program&lt;/em&gt; funded by the United States Agency for International Development; (2) the &lt;em&gt;Preparation of a National REDD+ Mechanism for Greenhouse Gas Reduction&lt;/em&gt; and &lt;em&gt;Conservation of Biodiversity in the Philippines (National REDD+ System) Project&lt;/em&gt;, and the Forest and Climate Protection Phase II (ForClim II) Project, both funded by the International Climate Initiative of the German Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety; and (3) the &lt;em&gt;Developing Capacities for Mapping and Monitoring of Philippine Mangroves using Synthetic Aperture Radar Data Project&lt;/em&gt; funded by the Philippine Tropical Forest Conservation Foundation. These projects are all implemented in partnership with the Department of Environment and Natural Resources.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ALOS Kyoto &amp; Carbon Initiative Phase 3.</title>
+      <link>/project/01_alos-kc-phase3/</link>
+      <pubDate>Sun, 28 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/project/01_alos-kc-phase3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;CLIMATE-RELEVANT MODERNISATION OF THE NATIONAL FOREST POLICY AND PILOTING REDD+ MEASURES IN THE PHILIPPINES (2011–2014).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Climate-relevant Modernisation of the National Forest Policy and Piloting REDD+ Measures in the Philippines.&lt;/p&gt;
+
+&lt;p&gt;The ALOS K&amp;amp;C Philippines team is composed of representatives from Fauna &amp;amp; Flora International, Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH, and the Department of Geodetic Engineering of the University of the Philippines. Other collaborators include staff of the National Mapping and Resource Information Authority and the Forest Management Bureau of the Department of Environment and Natural Resources. Under the ALOS K&amp;amp;C Initiative Phase 3, the Philippines project aimed to achieve the following:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Establishing baseline forest carbon stocks;&lt;/li&gt;
+&lt;li&gt;Piloting of forest carbon methods using ALOS/PALSAR data to monitor land cover changes; and&lt;/li&gt;
+&lt;li&gt;Determining deforestation rates using ALOS/PALSAR data.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The Philippines ALOS K&amp;amp;C Project intended to support the REDD+ readiness initiatives in three sub-national demonstration sites, including: (1) Southern Leyte province; (2) Victoria-Anepahan mountain range, province of Palawan; and (3) Gen Nakar municipality, province of Quezon.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Acknowledgements.&lt;/em&gt; The ALOS K&amp;amp;C Philippines team thank the following organisations for their support in the implementation of the project:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Palawan:&lt;/em&gt; Non-Timber Forest Products – Task Force; Environmental Legal Assistance Centre;, Institute for the Development of Educational and Ecological Alternatives; Nagkakaisang mga Tribu ng Palawan; Local Government of Quezon, Palawan; European Union; and International Union for the Conservation of Nature - Ecosystem Alliance.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Southern Leyte:&lt;/em&gt; German Federal Ministry for the Environment, Nature Conservation, Building, and Nuclear Safety; Protected Areas and Wildlife Bureau - Department of Environment and Natural Resources; United Nations Development Programme - Global Environment Facility; Food and Agriculture Organisation of the United Nations; UN-REDD Philippines Programme; Foundation for the Philippine Environment; and United States Agency for International Development.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cebu:&lt;/em&gt; Protected Areas and Wildlife Bureau - Department of Environment and Natural Resources; and United Nations Development Programme - Global Environment Facility.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Upper Marikina Watershed:&lt;/em&gt; Applied Geodesy and Space Technology Research Laboratory, Department of Geodetic Engineering, University of the Philippines; and Engineering Research and Development Technology - Department of Science and Technology.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Gen Nakar, Quezon:&lt;/em&gt; Team Energy Foundation; and European Union.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: Research study in Gen Nakar, Quezon REDD+ demonstration site was not completed since relevant permits (i.e., Certificate of Precondition) required for the conduct of the field data collection on forest carbon stock and biodiversity assessments were not secured.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

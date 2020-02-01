@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graham W Prescott | Don De Alban</title>
+    <link>/authors/graham-w-prescott/</link>
+      <atom:link href="/authors/graham-w-prescott/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graham W Prescott</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Graham W Prescott</title>
+      <link>/authors/graham-w-prescott/</link>
+    </image>
+    
+    <item>
+      <title>Integrating analytical frameworks to investigate land-cover regime shifts in dynamic landscapes</title>
+      <link>/publication/2019-sustainability/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-sustainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political transition and emergent forest‐conservation issues in Myanmar</title>
+      <link>/publication/2017-conserv-biol-horizon-scan/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-conserv-biol-horizon-scan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Untangling the proximate causes and underlying drivers of deforestation and forest degradation in Myanmar</title>
+      <link>/publication/2017-conserv-biol-causal-network/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-conserv-biol-causal-network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

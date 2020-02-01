@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel A Friess | Don De Alban</title>
+    <link>/authors/daniel-a-friess/</link>
+      <atom:link href="/authors/daniel-a-friess/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel A Friess</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Daniel A Friess</title>
+      <link>/authors/daniel-a-friess/</link>
+    </image>
+    
+    <item>
+      <title>Spatial relationships between above-ground biomass and bird species biodiversity in Palawan, Philippines</title>
+      <link>/publication/2017-plos-one/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-plos-one/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/github/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/google-earth-engine/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/maxent/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019/08-11-repos-on-github/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/reproducibility/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/research/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/resources/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rstudio/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/events/</loc>
+    <lastmod>2019-07-25T22:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lucc/</loc>
+    <lastmod>2019-07-25T22:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nasa/</loc>
+    <lastmod>2019-07-25T22:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scicomm/</loc>
+    <lastmod>2019-07-25T22:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/science-meeting/</loc>
+    <lastmod>2019-07-25T22:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019/07-25-some-impressions-nasa-sari-lcluc-science-meeting/</loc>
+    <lastmod>2019-07-25T22:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2019-nasa-lcluc/</loc>
+    <lastmod>2019-07-22T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/poster-session/</loc>
+    <lastmod>2019-07-22T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-07-22T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/05_beyond-deforestation/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cellular-automata/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deforestation/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/land-change/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/southeast-asia/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/spatial-modeling/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2019-mmr-tier2-presentation/</loc>
+    <lastmod>2019-04-09T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/01_glp-regime-shift-paper/</loc>
+    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
+    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/agricultural-plantation/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/armed-conflict/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aye-chan-maung/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/cheng-ling-lim/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/edward-l-webb/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/esa-cci-land-cover-dataset/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/graham-w-prescott/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-sustainability/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/johanness-jamaludin/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kevin-m-woods/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kyaw-thinn-latt/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/land-use/land-cover-change/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/myanmar/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pattern/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/process/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sustainable-development/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tanintharyi-region/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/isprs/</loc>
+    <lastmod>2018-08-09T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2018-isprs-sc/</loc>
+    <lastmod>2018-08-09T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lecture/</loc>
+    <lastmod>2018-08-09T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/summer-school/</loc>
+    <lastmod>2018-08-09T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018/08-03-motivate-learning/</loc>
+    <lastmod>2018-08-03T14:16:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/alos-2-palsar-2/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-remote-sens/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/grant-m-connette/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jers-1-sar/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/landsat/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/oil-palm/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/patrick-oswald/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rubber/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tropical-forest/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/angelica-kristina-v-monzon/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/biodiversity/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/birds/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bruno-vilela/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/conservation-science/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-a-friess/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ecosystems/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/forest-ecology/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/forests/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/minerva-singh/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rizza-karen-a-veridiano/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/roven-d-tumaneng/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-plos-one/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/species-diversity/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tropical-ecosystems/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/agriculture/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alan-d-ziegler/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alex-diment/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/antony-lynam/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/benjamin-mccarron/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/civil-war/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-aguirre/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-dapice/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dietrich-schmidt-vogt/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/felicia-lasmana/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/forestry/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/frank-momberg/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/governance/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/guy-williams/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/horizon-scan/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hugh-speechly/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/infrastructure/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jack-hurd/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jacob-phelps/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jake-brunner/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jefferson-fox/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-f-mccarthy/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/julia-fogerite/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/katherine-lajeunesse-connette/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kirk-talbott/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kyaw-min-thein/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/land-tenure/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/madhu-rao/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/martin-cosier/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/matthew-baird/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/maung-maung-than/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-zrust/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/myat-su-mon/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/oliver-springate-baginski/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-conserv-biol-horizon-scan/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/priority-setting/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-oberndorf/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-steinmetz/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-tizard/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/salai-cung-lian-thawng/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/saw-htun/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shwe-thein/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/than-myint/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thaung-naing-oo/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tint-lwin-thaung/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tony-whitten/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/trevor-wilson/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vicky-bowman/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/william-j-mcshea/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/william-j-sutherland/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/win-hlaing/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cartography/</loc>
+    <lastmod>2017-09-16T20:51:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/color-vision/</loc>
+    <lastmod>2017-09-16T20:51:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-visualisation/</loc>
+    <lastmod>2017-09-16T20:51:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017/09-16-designing-maps-color-vision-impaired/</loc>
+    <lastmod>2017-09-16T20:51:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/drawing-board/</loc>
+    <lastmod>2017-09-16T20:51:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/map-design/</loc>
+    <lastmod>2017-09-16T20:51:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/software/</loc>
+    <lastmod>2017-09-16T20:51:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/causal-network/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/conflict/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/democratisation/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/political-transition/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/system-dynamics/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-conserv-biol-causal-network/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/agricultural-expansion/</loc>
+    <lastmod>2016-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/forest-conservation/</loc>
+    <lastmod>2016-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/04_myanmar-tier2/</loc>
+    <lastmod>2016-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/03_myanmar-tier1/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/02_alos-kc-phase4/</loc>
+    <lastmod>2014-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jaxa-alos-kc/</loc>
+    <lastmod>2014-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/kyoto-carbon-initiative/</loc>
+    <lastmod>2014-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/land-cover-mapping/</loc>
+    <lastmod>2014-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mangrove-mapping/</loc>
+    <lastmod>2014-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/national-forest-monitoring-system/</loc>
+    <lastmod>2014-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/philippines/</loc>
+    <lastmod>2014-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/redd&#43;/</loc>
+    <lastmod>2014-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/01_alos-kc-phase3/</loc>
+    <lastmod>2014-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sub-national-demonstration-site/</loc>
+    <lastmod>2014-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/4/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andre-j-uychiaoco/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bernd-markus-liss/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/edmund-leo-rico/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/elina-vaananen/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/eugenio-diaz/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/julia-thorley/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lucy-goodman/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/matea-osti/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/oliver-coroza/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rebecca-mant/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stephen-woroniecki/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2014-unep-wcmc/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+</urlset>

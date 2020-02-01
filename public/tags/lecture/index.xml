@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lecture | Don De Alban</title>
+    <link>/tags/lecture/</link>
+      <atom:link href="/tags/lecture/index.xml" rel="self" type="application/rss+xml" />
+    <description>lecture</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Thu, 09 Aug 2018 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>lecture</title>
+      <link>/tags/lecture/</link>
+    </image>
+    
+    <item>
+      <title>ISPRS Summer School and Hackathon</title>
+      <link>/talk/2018-isprs-sc/</link>
+      <pubDate>Thu, 09 Aug 2018 08:00:00 +0000</pubDate>
+      <guid>/talk/2018-isprs-sc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOTIVATE Learning.</title>
+      <link>/post/2018/08-03-motivate-learning/</link>
+      <pubDate>Fri, 03 Aug 2018 14:16:00 +0000</pubDate>
+      <guid>/post/2018/08-03-motivate-learning/</guid>
+      <description>&lt;p&gt;I am stoked to be one of the invited lecturers/visiting experts for next week&amp;rsquo;s &lt;a href=&#34;http://sc.isprs.org/events/motivate.html&#34; target=&#34;_blank&#34;&gt;MOTIVATE Learning&lt;/a&gt; activity, a collaborative project organised by the International Society for Photogrammetry and Remote Sensing Student Consortium (&lt;a href=&#34;http://sc.isprs.org/home.html&#34; target=&#34;_blank&#34;&gt;ISPRS SC&lt;/a&gt;), the Geoinformatics and Space Technology Development Agency (&lt;a href=&#34;http://www.gistda.or.th/main/en&#34; target=&#34;_blank&#34;&gt;GISTDA&lt;/a&gt;) of Thailand, and the ASEAN Research and Training Center for Space Technology and Applications (&lt;a href=&#34;http://artsa.gistda.or.th/about/&#34; target=&#34;_blank&#34;&gt;ARTSA&lt;/a&gt;), which will be held at the Space Krenovation Park in Chonburi, Thailand. MOTIVATE Learning aims to build the capacity of students and young professionals in the fields of remote sensing, photogrammetry, and spatial information sciences.&lt;/p&gt;
+
+&lt;p&gt;I will be participating in next week&amp;rsquo;s activity, the ISPRS Summer School and Hackathon, which intends to train participants with state-of-the-art geospatial technology through a week-long, fun-filled geekfest consisting of lectures, practical break-out sessions, and hackathon. Specifically, I will be delivering a series of presentations and hands-on exercises about &lt;strong&gt;&lt;em&gt;A Synergistic Approach on Mapping using Remote Sensing and GIS&lt;/em&gt;&lt;/strong&gt;, of which the official brief topic description is as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;With the evolution of technology, different kinds of satellite imageries are now being collected by various satellite missions. In the past, data scarcity used to be one of the major challenges, but in the present, the era of big data has arrived. How do we make use of different satellite imageries and is it possible to develop a robust synergistic approach on mapping using remote sensing and GIS? This topic aims to explore which satellite imageries can be used in addressing scientific and societal issues and to develop a potential methodology on how to improve results through a synergistic mapping approach.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hence, this will give me the opportunity to talk about my on-going research on understanding land-system change dynamics in Myanmar, specifically my recent &lt;a href=&#34;https://doi.org/10.3390/rs10020306&#34; target=&#34;_blank&#34;&gt;Remote Sensing paper&lt;/a&gt; on combining optical and radar data for land cover classification and change detection; and then, demonstrate a flavor of &lt;a href=&#34;https://earthengine.google.com/&#34; target=&#34;_blank&#34;&gt;Google Earth Engine&lt;/a&gt;&amp;rsquo;s many applications, particularly to land-system change studies (which then gives me a good platform to share my research on a newly-developed protocol for investigating land-system regime shifts); plus a bit about the research projects I have done over the years under the ALOS Kyoto &amp;amp; Carbon Initiative with my former teammates at Fauna &amp;amp; Flora International, mainly on the synergistic use of optical and radar data for land cover (and mangrove) mapping and monitoring in the Philippines.&lt;/p&gt;
+
+&lt;p&gt;Watch this space for more updates on next week&amp;rsquo;s Summer School activity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

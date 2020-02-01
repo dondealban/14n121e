@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>process | Don De Alban</title>
+    <link>/tags/process/</link>
+      <atom:link href="/tags/process/index.xml" rel="self" type="application/rss+xml" />
+    <description>process</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>process</title>
+      <link>/tags/process/</link>
+    </image>
+    
+    <item>
+      <title>Integrating analytical frameworks to investigate land-cover regime shifts in dynamic landscapes</title>
+      <link>/publication/2019-sustainability/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-sustainability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

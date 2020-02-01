@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cellular automata | Don De Alban</title>
+    <link>/tags/cellular-automata/</link>
+      <atom:link href="/tags/cellular-automata/index.xml" rel="self" type="application/rss+xml" />
+    <description>cellular automata</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>cellular automata</title>
+      <link>/tags/cellular-automata/</link>
+    </image>
+    
+    <item>
+      <title>Beyond Deforestation—Drivers and Predictions of Land Cover Change in Mainland Southeast Asia.</title>
+      <link>/project/05_beyond-deforestation/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/project/05_beyond-deforestation/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;BEYOND DEFORESTATION: DRIVERS AND PREDICTIONS OF LAND COVER CHANGE IN MAINLAND SOUTHEAST ASIA (2019–2021).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This project aims to go beyond simple deforestation analyses and inquire about the drivers of land cover change across Southeast Asia, which in turn should support the development of predictive, spatially explicit simulations of possible landscape transformations that are informed by policy-relevant scenarios in Southeast Asia. The specific objectives of this research are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Quantify annual land cover transitions for the 1992–2015 period in the mainland Southeast Asian region, identifying critical hotspots of land cover change;&lt;/li&gt;
+&lt;li&gt;Conduct multidisciplinary analyses to uncover the drivers of land cover change in a selection of land cover change hotspots; and&lt;/li&gt;
+&lt;li&gt;Develop spatially explicit forecasts of land cover change for those hotspots.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

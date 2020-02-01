@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick Oswald | Don De Alban</title>
+    <link>/authors/patrick-oswald/</link>
+      <atom:link href="/authors/patrick-oswald/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick Oswald</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Fri, 16 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Patrick Oswald</title>
+      <link>/authors/patrick-oswald/</link>
+    </image>
+    
+    <item>
+      <title>Combined Landsat and L-Band SAR data improves land cover classification and change detection in dynamic tropical landscapes</title>
+      <link>/publication/2018-remote-sens/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-remote-sens/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

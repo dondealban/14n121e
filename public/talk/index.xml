@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Don De Alban</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Mon, 22 Jul 2019 17:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>NASA SARI Land Cover / Land Use Change International Science Meeting</title>
+      <link>/talk/2019-nasa-lcluc/</link>
+      <pubDate>Mon, 22 Jul 2019 17:00:00 +0000</pubDate>
+      <guid>/talk/2019-nasa-lcluc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myanmar Tier 2 Project Presentation</title>
+      <link>/talk/2019-mmr-tier2-presentation/</link>
+      <pubDate>Tue, 09 Apr 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/2019-mmr-tier2-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISPRS Summer School and Hackathon</title>
+      <link>/talk/2018-isprs-sc/</link>
+      <pubDate>Thu, 09 Aug 2018 08:00:00 +0000</pubDate>
+      <guid>/talk/2018-isprs-sc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

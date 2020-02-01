@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Don De Alban</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Don De Alban</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Sun, 11 Aug 2019 20:12:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Don De Alban</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>
+
+&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Repos on GitHub.</title>
+      <link>/post/2019/08-11-repos-on-github/</link>
+      <pubDate>Sun, 11 Aug 2019 20:12:00 +0000</pubDate>
+      <guid>/post/2019/08-11-repos-on-github/</guid>
+      <description>&lt;p&gt;I have been sharing the coding materials and resources related to my research on my &lt;a href=&#34;https://github.com/dondealban&#34; target=&#34;_blank&#34;&gt;GitHub page&lt;/a&gt; but I have not had the chance to blog about these here at all, even briefly. And so, let me make this short introduction on my activities on GitHub, which does seem to show (and share) more of my research activity than in this blog. It&amp;rsquo;s just been about time too that I updated the &amp;lsquo;mugshot&amp;rsquo; on my GitHub page, which used to show an old (younger) photo of me, and now, more appropriately, shows a recent photo of me taken during the wedding of a dear colleague. Anyway&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_01.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First, the repositories that accompany some of my published papers, either those I have led or had the great opportunity to co-author. I put together these materials to supplement the published papers, thereby creating a backup of the materials used and developed through the study such as data, results, scripts, and figures. By doing this, I was aiming to encourage not just other scientists and researchers but also my future self to do better science by fostering research reproducibility and transparency. It also improves the overall impact of my own research. Some of these repositories include materials for my &lt;a href=&#34;https://github.com/dondealban/ms-remote-sens-2018&#34; target=&#34;_blank&#34;&gt;2018 Remote Sensing&lt;/a&gt; and &lt;a href=&#34;https://github.com/dondealban/ms-sustainability-2019&#34; target=&#34;_blank&#34;&gt;2019 Sustainability&lt;/a&gt; papers, as well as a &lt;a href=&#34;https://github.com/dondealban/ms-conserv-biol-2017&#34; target=&#34;_blank&#34;&gt;2017 Conservation Biology&lt;/a&gt; paper, all of which were done together with my lab members and principal investigator.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_02.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Second, I&amp;rsquo;ve created some repositories over the last couple of years for a lecture I gave at the ISPRS Student Consortium Summer School and Hackathon in 2018 where I shared about my land change research and ran a &lt;a href=&#34;https://github.com/dondealban/isprs-sc-summer-school&#34; target=&#34;_blank&#34;&gt;crash course on Google Earth Engine&lt;/a&gt;, and a short &lt;a href=&#34;https://github.com/dondealban/tutorial-qgis-maxent&#34; target=&#34;_blank&#34;&gt;tutorial on species distribution modeling using MaxEnt and R&lt;/a&gt; that I did for my labmates during a lab retreat in 2017.&lt;/p&gt;
+
+&lt;p&gt;Finally, I&amp;rsquo;ve also developed a couple of long how-to guides or tutorials while I was starting to learn some R packages in pursuit of my research ideas. There was one on the &lt;a href=&#34;https://github.com/dondealban/learning-stm&#34; target=&#34;_blank&#34;&gt;stm package&lt;/a&gt; on structural topic modeling for text data mining and automated content analysis; and the other on the &lt;a href=&#34;(https://github.com/dondealban/learning-intensity-analysis)&#34; target=&#34;_blank&#34;&gt;intensity analysis package&lt;/a&gt;, which has been a key component of my research on land use/cover change analysis.&lt;/p&gt;
+
+&lt;p&gt;Quite frankly, I am stoked to see that users on GitHub have found these repositories (and some others I have not mentioned) useful as indicated by the number of stars or forks (take the &lt;a href=&#34;https://github.com/dondealban/learning-stm&#34; target=&#34;_blank&#34;&gt;learning-stm&lt;/a&gt; repo, for example).&lt;/p&gt;
+
+&lt;p&gt;Please do watch my GitHub space for more updates on my research activities. If you find the materials and resources in any way helfpful, please &amp;lsquo;star&amp;rsquo; the repository page on GitHub, or cite the papers or accompanying repositories if you used them for your research. In case you want to contribute to the content in any of the repositories, please feel free to fork the repo and submit your pull request.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_03.png&#34; alt=&#34;png&#34; /&gt;
+&lt;img src=&#34;./image_04.png&#34; alt=&#34;png&#34; /&gt;
+&lt;img src=&#34;./image_05.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some impressions during the NASA SARI LCLUC science meeting.</title>
+      <link>/post/2019/07-25-some-impressions-nasa-sari-lcluc-science-meeting/</link>
+      <pubDate>Thu, 25 Jul 2019 22:12:00 +0000</pubDate>
+      <guid>/post/2019/07-25-some-impressions-nasa-sari-lcluc-science-meeting/</guid>
+      <description>&lt;p&gt;I had the opportunity to present a poster at the &lt;a href=&#34;http://lcluc.umd.edu/meetings/sari-searrin-meeting-and-training-malaysia-2019&#34; target=&#34;_blank&#34;&gt;international science meeting&lt;/a&gt; of the land cover / land use change (LCLUC) programme of NASA&amp;rsquo;s South/Southeast Asia Regional Initiative, held in Johor Bahru, Malaysia from 22nd to 24th of July 2019. My poster presentation was about our study on investigating land-cover regime shifts by integrating complementary analytical frameworks in the Tanintharyi Region, southern Myanmar, which was published earlier this year in a special issue of Sustainability journal (&lt;a href=&#34;https://www.mdpi.com/2071-1050/11/4/1139/htm&#34; target=&#34;_blank&#34;&gt;full paper here&lt;/a&gt;). I have not done a poster presentation in a very long while&amp;mdash;my last one was back in 2004, if my memory serves me right&amp;mdash;and so this time around it was an immensely gratifying experience, particularly seeing how other scientists were genuinely interested in what we found, how they thought of using the approaches and results of our study to build on their own work, as well as providing constructive feedback. Actually, I even won, to my utmost surprise, the 3rd best poster award out of about 50 posters presented during the meeting!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_01.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am starting to think I prefer doing poster presentations now better than oral presentations simply because the posters get to stay on display for the duration of the meeting and the people who engage and interact with you during poster sessions, in my opinion, are those who are really interested in your work or have the same research interests as you. In oral presentations, of which I&amp;rsquo;ve done much more frequently in the past, you would usually only have a short amount of time to present your study, and more often than not, hardly enough time is available at the end of your talk for questions or meaningful discussions with the audience. During the meeting&amp;rsquo;s plenary discussion, one of the main suggestions for future meetings was to have more poster presentations and less oral presentations, of which I am delighted about and of which I think should be the better way moving forward.&lt;/p&gt;
+
+&lt;p&gt;There were also some insightful and interesting talks during the oral keynote presentation sessions. Of note were talks by:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Thuy Le Toan (CESBIO, France) who presented about the BIOMASS Mission, the first ever P-band SAR sensor planned to be launched in space by 2022 to observe tropical forests. The BIOMASS mission is a truly exciting project because it will allow scientists to answer what the role of forests are in the global carbon cycle, and this time with less uncertainty in measurements by utilising SAR tomography; and&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jeffrey Fox (East-West Center, USA) who talked about his long-term research on the expansion of rubber (Hevea brasiliensis) and its implications for water, carbon, and livelihoods across montane mainland Southeast Asia. After his talk, it got me into thinking: with rubber prices currently really low, what would happen to existing rubber plantations? Would these rubber plantations be converted into other plantations with more lucrative agricultural commodities (like oil palm) so that the plantation owners/farmers can profit from their investments? If not, would it potentially open new frontier areas of deforestation to make way for other lucrative plantations that would then serve as an alternative source of income while at the same time keeping their rubber plantations (in wait until prices become more profitable again)?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finally, it was a pleasure meeting other remote sensing and land change scientists and learning about their research work in the region and elsewhere. Some of them I&amp;rsquo;ve met for the first time (like Xiaobo, Haemi, Prakhar, Garrett), and some who I met in the last science meeting (like Hoa, Arai, Sumalika), and then Thuy whom I&amp;rsquo;ve known before during the ALOS K&amp;amp;C science meetings in Japan as well as Jeff who came to visit our lab in Singapore.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_02.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NASA SARI Land Cover / Land Use Change International Science Meeting</title>
+      <link>/talk/2019-nasa-lcluc/</link>
+      <pubDate>Mon, 22 Jul 2019 17:00:00 +0000</pubDate>
+      <guid>/talk/2019-nasa-lcluc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Deforestation—Drivers and Predictions of Land Cover Change in Mainland Southeast Asia.</title>
+      <link>/project/05_beyond-deforestation/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/project/05_beyond-deforestation/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;BEYOND DEFORESTATION: DRIVERS AND PREDICTIONS OF LAND COVER CHANGE IN MAINLAND SOUTHEAST ASIA (2019–2021).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This project aims to go beyond simple deforestation analyses and inquire about the drivers of land cover change across Southeast Asia, which in turn should support the development of predictive, spatially explicit simulations of possible landscape transformations that are informed by policy-relevant scenarios in Southeast Asia. The specific objectives of this research are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Quantify annual land cover transitions for the 1992–2015 period in the mainland Southeast Asian region, identifying critical hotspots of land cover change;&lt;/li&gt;
+&lt;li&gt;Conduct multidisciplinary analyses to uncover the drivers of land cover change in a selection of land cover change hotspots; and&lt;/li&gt;
+&lt;li&gt;Develop spatially explicit forecasts of land cover change for those hotspots.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Myanmar Tier 2 Project Presentation</title>
+      <link>/talk/2019-mmr-tier2-presentation/</link>
+      <pubDate>Tue, 09 Apr 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/2019-mmr-tier2-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Land Programme</title>
+      <link>/news/01_glp-regime-shift-paper/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/news/01_glp-regime-shift-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating analytical frameworks to investigate land-cover regime shifts in dynamic landscapes</title>
+      <link>/publication/2019-sustainability/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-sustainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ISPRS Summer School and Hackathon</title>
+      <link>/talk/2018-isprs-sc/</link>
+      <pubDate>Thu, 09 Aug 2018 08:00:00 +0000</pubDate>
+      <guid>/talk/2018-isprs-sc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOTIVATE Learning.</title>
+      <link>/post/2018/08-03-motivate-learning/</link>
+      <pubDate>Fri, 03 Aug 2018 14:16:00 +0000</pubDate>
+      <guid>/post/2018/08-03-motivate-learning/</guid>
+      <description>&lt;p&gt;I am stoked to be one of the invited lecturers/visiting experts for next week&amp;rsquo;s &lt;a href=&#34;http://sc.isprs.org/events/motivate.html&#34; target=&#34;_blank&#34;&gt;MOTIVATE Learning&lt;/a&gt; activity, a collaborative project organised by the International Society for Photogrammetry and Remote Sensing Student Consortium (&lt;a href=&#34;http://sc.isprs.org/home.html&#34; target=&#34;_blank&#34;&gt;ISPRS SC&lt;/a&gt;), the Geoinformatics and Space Technology Development Agency (&lt;a href=&#34;http://www.gistda.or.th/main/en&#34; target=&#34;_blank&#34;&gt;GISTDA&lt;/a&gt;) of Thailand, and the ASEAN Research and Training Center for Space Technology and Applications (&lt;a href=&#34;http://artsa.gistda.or.th/about/&#34; target=&#34;_blank&#34;&gt;ARTSA&lt;/a&gt;), which will be held at the Space Krenovation Park in Chonburi, Thailand. MOTIVATE Learning aims to build the capacity of students and young professionals in the fields of remote sensing, photogrammetry, and spatial information sciences.&lt;/p&gt;
+
+&lt;p&gt;I will be participating in next week&amp;rsquo;s activity, the ISPRS Summer School and Hackathon, which intends to train participants with state-of-the-art geospatial technology through a week-long, fun-filled geekfest consisting of lectures, practical break-out sessions, and hackathon. Specifically, I will be delivering a series of presentations and hands-on exercises about &lt;strong&gt;&lt;em&gt;A Synergistic Approach on Mapping using Remote Sensing and GIS&lt;/em&gt;&lt;/strong&gt;, of which the official brief topic description is as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;With the evolution of technology, different kinds of satellite imageries are now being collected by various satellite missions. In the past, data scarcity used to be one of the major challenges, but in the present, the era of big data has arrived. How do we make use of different satellite imageries and is it possible to develop a robust synergistic approach on mapping using remote sensing and GIS? This topic aims to explore which satellite imageries can be used in addressing scientific and societal issues and to develop a potential methodology on how to improve results through a synergistic mapping approach.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hence, this will give me the opportunity to talk about my on-going research on understanding land-system change dynamics in Myanmar, specifically my recent &lt;a href=&#34;https://doi.org/10.3390/rs10020306&#34; target=&#34;_blank&#34;&gt;Remote Sensing paper&lt;/a&gt; on combining optical and radar data for land cover classification and change detection; and then, demonstrate a flavor of &lt;a href=&#34;https://earthengine.google.com/&#34; target=&#34;_blank&#34;&gt;Google Earth Engine&lt;/a&gt;&amp;rsquo;s many applications, particularly to land-system change studies (which then gives me a good platform to share my research on a newly-developed protocol for investigating land-system regime shifts); plus a bit about the research projects I have done over the years under the ALOS Kyoto &amp;amp; Carbon Initiative with my former teammates at Fauna &amp;amp; Flora International, mainly on the synergistic use of optical and radar data for land cover (and mangrove) mapping and monitoring in the Philippines.&lt;/p&gt;
+
+&lt;p&gt;Watch this space for more updates on next week&amp;rsquo;s Summer School activity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Combined Landsat and L-Band SAR data improves land cover classification and change detection in dynamic tropical landscapes</title>
+      <link>/publication/2018-remote-sens/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-remote-sens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial relationships between above-ground biomass and bird species biodiversity in Palawan, Philippines</title>
+      <link>/publication/2017-plos-one/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-plos-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political transition and emergent forest‐conservation issues in Myanmar</title>
+      <link>/publication/2017-conserv-biol-horizon-scan/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-conserv-biol-horizon-scan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing maps for the color vision impaired.</title>
+      <link>/post/2017/09-16-designing-maps-color-vision-impaired/</link>
+      <pubDate>Sat, 16 Sep 2017 20:51:00 +0000</pubDate>
+      <guid>/post/2017/09-16-designing-maps-color-vision-impaired/</guid>
+      <description>&lt;p&gt;Cartography involves the drawing of maps, which in fact is both a science and an art. I&amp;rsquo;ve come to learn in the course of my years of study and professional experience that mapmaking is not as easy as it seems. Maps tell a story. And for maps to effectively tell that story, the mapmaker should think not only about the main subject of the map, but should also give due consideration to the various map elements such as their position and balance across the map, as well as the accuracy of the measurements, and the styling of these elements which involve, for example, the choice of colors, line weights, among other considerations.&lt;/p&gt;
+
+&lt;p&gt;To be honest, although I&amp;rsquo;ve been making maps for my entire professional career, I have never considered color vision impairment in the design of maps, at least those that I have made myself. (For instance, the green and red color scheme that I consistently use to depict forest loss and forest gain would be the same shade of gray for a person with color vision impairment.) I have always kept in mind the psychology of colors in maps to help get the message across to the users of these maps, thereby allowing them to better understand the story that the map intends to tell. But unfortunately, I have not put myself in the shoes of a person with color blindness and have given enough thought on how they would perceive and understand those maps. At least not yet.&lt;/p&gt;
+
+&lt;p&gt;The opportunity to rectify this finally came in the process of finalising a map figure for the final proof of our recently accepted paper for publication. A colleague of mine, G, suggested that we consider designing the color scheme of the figure to be more friendly for color blind people. It was a brilliant suggestion. I had not thought of it at first (yet again) and I welcomed it because it gave me the chance to learn and design maps for both people with normal vision and color vision impairments.&lt;/p&gt;
+
+&lt;p&gt;To implement this, luckily an app called &lt;a href=&#34;http://colororacle.org/&#34; target=&#34;_blank&#34;&gt;Color Oracle&lt;/a&gt; existed, which is a free color blindness simulator that can be used across computer platforms. It shows what people with common color vision impairments would see in real time, thus allowing a person to select appropriate colors in designing the color scheme of a material, website, or publication. Color Oracle basically applies a color filter over the full screen of your computer regardless of the software in use.&lt;/p&gt;
+
+&lt;p&gt;For example, the screenshots of the same portion of the map figure below was the result of the Color Oracle app showing me what a person with normal vision would see and what a color vision impaired person would see. Through these color filters, I then selected colors that would ensure the images can be read by people with normal vision and color blindness. It adds another layer of consideration in designing maps, even making it more challenging, but this ensures that the map can be read by and be accessible to the widest possible audience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_01.png&#34; alt=&#34;png&#34; /&gt;&lt;em&gt;Screenshots of the same portion of a map figure showing the colors that people with normal color vision would see (leftmost image) and the colors that people with color vision impairments would see, particularly those with deuteranopia (2nd from left), protanopia (3rd from left), and tritanopia (rightmost image).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For additional reading, visit the &lt;a href=&#34;http://colororacle.org/&#34; target=&#34;_blank&#34;&gt;Color Oracle&lt;/a&gt; website and read the papers by Jenny &amp;amp; Kelso (2007a, 2007b) to learn more about the design of information graphics and maps that are accessible for color-impaired readers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jenny, B., Kelso, N. V. (2007a). Designing maps for the color-vision impaired. &lt;em&gt;Bulletin of the Society of Cartographers&lt;/em&gt; SoC, &lt;strong&gt;41&lt;/strong&gt;, 9-12. [&lt;a href=&#34;http://colororacle.org/resources/2007_JennyKelso_DesigningMapsForTheColourVisionImpaired.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;Jenny, B., Kelso, N. V. (2007b). Color design for the color vision impaired. &lt;em&gt;Cartographic Perspectives&lt;/em&gt;, &lt;strong&gt;58&lt;/strong&gt;, 61-67. [&lt;a href=&#34;http://colororacle.org/resources/2007_JennyKelso_ColorDesign_lores.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Untangling the proximate causes and underlying drivers of deforestation and forest degradation in Myanmar</title>
+      <link>/publication/2017-conserv-biol-causal-network/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-conserv-biol-causal-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconciling Agricultural Expansion and Forest Conservation in Myanmar.</title>
+      <link>/project/04_myanmar-tier2/</link>
+      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/04_myanmar-tier2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;RECONCILING AGRICULTURAL EXPANSION AND FOREST CONSERVATION IN THE NEW MYANMAR (2016-2019).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Myanmar’s rapid socio-economic transition presents a unique opportunity to study the influence of economic development on biodiversity conservation in the context of governance transformation. The overarching objective of this project is to understand and evaluate the drivers of land use change and deforestation in Myanmar, and to increase the resilience of protected areas to protect biodiversity in the face of rapid new pressures imposed by increased foreign direct investment. This project intends to combine local case studies, geospatial modelling tools, and policy analyses to inform the fluid policy context of Myanmar and generate novel insights for long-term conservation and management of biodiversity by improving land use planning, protected area management, and improving policy tools for environmental safeguarding. A spatially-explicit, hierarchical approach to this problem is pursued through the following three inter-related objectives:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Broad, country-wide analysis to evaluate land-use change scenarios based on present and future agricultural productivity, commodity prices and forest rents.&lt;/strong&gt; This objective is done by generating top-down, macro-economic land rent models that utilize national and global-level data and creating scenarios based on expected future economic opportunities.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Local, case-study analysis to understand how individual actors might behave when given new agricultural opportunities associated with increased investment.&lt;/strong&gt; This objective is achieved by developing bottom-up agent-based models integrating local perception data, to predict areas most vulnerable to deforestation and land use change surrounding a subset of priority protected areas.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Develop policy recommendations that reconcile increased international investment, new opportunities for livelihood improvement through agricultural expansion and intensification, with biodiversity conservation in Myanmar.&lt;/strong&gt; This objective includes the conduct of scenario analyses of the models constructed for 1) and 2) above, based on present conditions and potential policy options. This should lead to science-based policy recommendations related to infrastructure investment, agricultural expansion, protected area conservation and environmental safeguards based on realistic scenarios going forward.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conceptualising and Articulating the Drivers of Deforestation in Myanmar.</title>
+      <link>/project/03_myanmar-tier1/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/03_myanmar-tier1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;CONCEPTUALISING AND ARTICULATING THE DRIVERS OF DEFORESTATION IN THE NEW MYANMAR (2015–2018).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The project intends to develop a conceptual framework for Myanmar that distinguishes and identifies the various stakeholders, resources, and their relationships set within the dynamic policy landscape. Moreover, the project intends to develop a holistic, multi-disciplinary perspective on the emerging trends in Myanmar that are likely to have an impact on the forest-agriculture interface. The two specific objectives of the project are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;To develop a qualitative conceptual framework that identifies, describes, and links key
+stakeholders that influence forest conservation, agriculture, and natural resource extraction in Myanmar, and embeds those relationships within a socio-economic and policy context. The framework should describe the stakeholders, agents, and contextual factors that will later inform scenario analysis for a spatially-explicit, top-down, rent-based agriculture-forest model.&lt;/li&gt;
+&lt;li&gt;To conduct a horizon scan that identifies the highest priority threats and opportunities that Myanmar’s increased international engagement will have for forest conservation. This will lead to novel, interdisciplinary insights on how Myanmar’s new international engagement may lead to new physical outcomes, such as agricultural intensification, deforestation, or agroindustrial expansion.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ALOS Kyoto &amp; Carbon Initiative Phase 4.</title>
+      <link>/project/02_alos-kc-phase4/</link>
+      <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/project/02_alos-kc-phase4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;UTILISING L-BAND SAR DATA FOR NATURAL RESOURCE MANAGEMENT IN THE PHILIPPINES (2014–2019).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For ALOS K&amp;amp;C Phase 4, we intend to utilise JAXA ’s earth observation products, particularly ALOS/PALSAR-2, ALOS/PALSAR, and JERS-1 SAR data, to demonstrate the utility and viability of L-band SAR for natural resources management applications in the Philippines. We propose to utilise the data for the three thematic applications as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Land cover mapping and change detection.&lt;/strong&gt; We intend to assess the ability of spaceborne L-band SAR systems to support the generation of national baseline land cover and forest cover and change maps using a multi-level, hierarchical, land cover classification system.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;REDD+ and forest management.&lt;/strong&gt; Among the key activities to assess the potential of REDD+ initiatives is the credible baseline mapping of forest area changes, and estimation of forest biomass and carbon stocks, for which we intend to use JAXA’s L-band SAR datasets. Monitoring of forest area changes is also useful tool in order to assess the success of the forest protection and conservation.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Mangrove forest mapping and change monitoring.&lt;/strong&gt; We intend to utilise JAXA’s L-band SAR datasets to map the country’s mangrove cover extent and detect changes.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Similar to Phase 3, the ALOS K&amp;amp;C Philippines team is composed of representatives from Fauna &amp;amp; Flora International, Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH, and the Department of Geodetic Engineering of the University of the Philippines. Other collaborators include staff of the National Mapping and Resource Information Authority and the Forest Management Bureau of the Department of Environment and Natural Resources.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Acknowledgements.&lt;/em&gt; The ALOS K&amp;amp;C Philippines team acknowledges the following organisations/projects for their support in the implementation of the project: (1) the &lt;em&gt;Biodiversity and Watersheds Improved for Stronger Economy and Ecosystem Resilience (B+WISER) Program&lt;/em&gt; funded by the United States Agency for International Development; (2) the &lt;em&gt;Preparation of a National REDD+ Mechanism for Greenhouse Gas Reduction&lt;/em&gt; and &lt;em&gt;Conservation of Biodiversity in the Philippines (National REDD+ System) Project&lt;/em&gt;, and the Forest and Climate Protection Phase II (ForClim II) Project, both funded by the International Climate Initiative of the German Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety; and (3) the &lt;em&gt;Developing Capacities for Mapping and Monitoring of Philippine Mangroves using Synthetic Aperture Radar Data Project&lt;/em&gt; funded by the Philippine Tropical Forest Conservation Foundation. These projects are all implemented in partnership with the Department of Environment and Natural Resources.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ALOS Kyoto &amp; Carbon Initiative Phase 3.</title>
+      <link>/project/01_alos-kc-phase3/</link>
+      <pubDate>Sun, 28 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/project/01_alos-kc-phase3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;CLIMATE-RELEVANT MODERNISATION OF THE NATIONAL FOREST POLICY AND PILOTING REDD+ MEASURES IN THE PHILIPPINES (2011–2014).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Climate-relevant Modernisation of the National Forest Policy and Piloting REDD+ Measures in the Philippines.&lt;/p&gt;
+
+&lt;p&gt;The ALOS K&amp;amp;C Philippines team is composed of representatives from Fauna &amp;amp; Flora International, Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH, and the Department of Geodetic Engineering of the University of the Philippines. Other collaborators include staff of the National Mapping and Resource Information Authority and the Forest Management Bureau of the Department of Environment and Natural Resources. Under the ALOS K&amp;amp;C Initiative Phase 3, the Philippines project aimed to achieve the following:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Establishing baseline forest carbon stocks;&lt;/li&gt;
+&lt;li&gt;Piloting of forest carbon methods using ALOS/PALSAR data to monitor land cover changes; and&lt;/li&gt;
+&lt;li&gt;Determining deforestation rates using ALOS/PALSAR data.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The Philippines ALOS K&amp;amp;C Project intended to support the REDD+ readiness initiatives in three sub-national demonstration sites, including: (1) Southern Leyte province; (2) Victoria-Anepahan mountain range, province of Palawan; and (3) Gen Nakar municipality, province of Quezon.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Acknowledgements.&lt;/em&gt; The ALOS K&amp;amp;C Philippines team thank the following organisations for their support in the implementation of the project:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Palawan:&lt;/em&gt; Non-Timber Forest Products – Task Force; Environmental Legal Assistance Centre;, Institute for the Development of Educational and Ecological Alternatives; Nagkakaisang mga Tribu ng Palawan; Local Government of Quezon, Palawan; European Union; and International Union for the Conservation of Nature - Ecosystem Alliance.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Southern Leyte:&lt;/em&gt; German Federal Ministry for the Environment, Nature Conservation, Building, and Nuclear Safety; Protected Areas and Wildlife Bureau - Department of Environment and Natural Resources; United Nations Development Programme - Global Environment Facility; Food and Agriculture Organisation of the United Nations; UN-REDD Philippines Programme; Foundation for the Philippine Environment; and United States Agency for International Development.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cebu:&lt;/em&gt; Protected Areas and Wildlife Bureau - Department of Environment and Natural Resources; and United Nations Development Programme - Global Environment Facility.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Upper Marikina Watershed:&lt;/em&gt; Applied Geodesy and Space Technology Research Laboratory, Department of Geodetic Engineering, University of the Philippines; and Engineering Research and Development Technology - Department of Science and Technology.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Gen Nakar, Quezon:&lt;/em&gt; Team Energy Foundation; and European Union.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: Research study in Gen Nakar, Quezon REDD+ demonstration site was not completed since relevant permits (i.e., Certificate of Precondition) required for the conduct of the field data collection on forest carbon stock and biodiversity assessments were not secured.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using spatial analysis to explore synergies between the Aichi Biodiversity Targets and REDD&#43; in the Philippines—a preliminary analysis</title>
+      <link>/publication/2014-unep-wcmc/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-unep-wcmc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

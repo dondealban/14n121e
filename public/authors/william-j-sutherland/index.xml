@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William J Sutherland | Don De Alban</title>
+    <link>/authors/william-j-sutherland/</link>
+      <atom:link href="/authors/william-j-sutherland/index.xml" rel="self" type="application/rss+xml" />
+    <description>William J Sutherland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Sat, 14 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>William J Sutherland</title>
+      <link>/authors/william-j-sutherland/</link>
+    </image>
+    
+    <item>
+      <title>Political transition and emergent forest‐conservation issues in Myanmar</title>
+      <link>/publication/2017-conserv-biol-horizon-scan/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-conserv-biol-horizon-scan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

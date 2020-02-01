@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events | Don De Alban</title>
+    <link>/categories/events/</link>
+      <atom:link href="/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <description>Events</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Thu, 25 Jul 2019 22:12:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Events</title>
+      <link>/categories/events/</link>
+    </image>
+    
+    <item>
+      <title>Some impressions during the NASA SARI LCLUC science meeting.</title>
+      <link>/post/2019/07-25-some-impressions-nasa-sari-lcluc-science-meeting/</link>
+      <pubDate>Thu, 25 Jul 2019 22:12:00 +0000</pubDate>
+      <guid>/post/2019/07-25-some-impressions-nasa-sari-lcluc-science-meeting/</guid>
+      <description>&lt;p&gt;I had the opportunity to present a poster at the &lt;a href=&#34;http://lcluc.umd.edu/meetings/sari-searrin-meeting-and-training-malaysia-2019&#34; target=&#34;_blank&#34;&gt;international science meeting&lt;/a&gt; of the land cover / land use change (LCLUC) programme of NASA&amp;rsquo;s South/Southeast Asia Regional Initiative, held in Johor Bahru, Malaysia from 22nd to 24th of July 2019. My poster presentation was about our study on investigating land-cover regime shifts by integrating complementary analytical frameworks in the Tanintharyi Region, southern Myanmar, which was published earlier this year in a special issue of Sustainability journal (&lt;a href=&#34;https://www.mdpi.com/2071-1050/11/4/1139/htm&#34; target=&#34;_blank&#34;&gt;full paper here&lt;/a&gt;). I have not done a poster presentation in a very long while&amp;mdash;my last one was back in 2004, if my memory serves me right&amp;mdash;and so this time around it was an immensely gratifying experience, particularly seeing how other scientists were genuinely interested in what we found, how they thought of using the approaches and results of our study to build on their own work, as well as providing constructive feedback. Actually, I even won, to my utmost surprise, the 3rd best poster award out of about 50 posters presented during the meeting!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_01.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am starting to think I prefer doing poster presentations now better than oral presentations simply because the posters get to stay on display for the duration of the meeting and the people who engage and interact with you during poster sessions, in my opinion, are those who are really interested in your work or have the same research interests as you. In oral presentations, of which I&amp;rsquo;ve done much more frequently in the past, you would usually only have a short amount of time to present your study, and more often than not, hardly enough time is available at the end of your talk for questions or meaningful discussions with the audience. During the meeting&amp;rsquo;s plenary discussion, one of the main suggestions for future meetings was to have more poster presentations and less oral presentations, of which I am delighted about and of which I think should be the better way moving forward.&lt;/p&gt;
+
+&lt;p&gt;There were also some insightful and interesting talks during the oral keynote presentation sessions. Of note were talks by:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Thuy Le Toan (CESBIO, France) who presented about the BIOMASS Mission, the first ever P-band SAR sensor planned to be launched in space by 2022 to observe tropical forests. The BIOMASS mission is a truly exciting project because it will allow scientists to answer what the role of forests are in the global carbon cycle, and this time with less uncertainty in measurements by utilising SAR tomography; and&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jeffrey Fox (East-West Center, USA) who talked about his long-term research on the expansion of rubber (Hevea brasiliensis) and its implications for water, carbon, and livelihoods across montane mainland Southeast Asia. After his talk, it got me into thinking: with rubber prices currently really low, what would happen to existing rubber plantations? Would these rubber plantations be converted into other plantations with more lucrative agricultural commodities (like oil palm) so that the plantation owners/farmers can profit from their investments? If not, would it potentially open new frontier areas of deforestation to make way for other lucrative plantations that would then serve as an alternative source of income while at the same time keeping their rubber plantations (in wait until prices become more profitable again)?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finally, it was a pleasure meeting other remote sensing and land change scientists and learning about their research work in the region and elsewhere. Some of them I&amp;rsquo;ve met for the first time (like Xiaobo, Haemi, Prakhar, Garrett), and some who I met in the last science meeting (like Hoa, Arai, Sumalika), and then Thuy whom I&amp;rsquo;ve known before during the ALOS K&amp;amp;C science meetings in Japan as well as Jeff who came to visit our lab in Singapore.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./image_02.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MOTIVATE Learning.</title>
+      <link>/post/2018/08-03-motivate-learning/</link>
+      <pubDate>Fri, 03 Aug 2018 14:16:00 +0000</pubDate>
+      <guid>/post/2018/08-03-motivate-learning/</guid>
+      <description>&lt;p&gt;I am stoked to be one of the invited lecturers/visiting experts for next week&amp;rsquo;s &lt;a href=&#34;http://sc.isprs.org/events/motivate.html&#34; target=&#34;_blank&#34;&gt;MOTIVATE Learning&lt;/a&gt; activity, a collaborative project organised by the International Society for Photogrammetry and Remote Sensing Student Consortium (&lt;a href=&#34;http://sc.isprs.org/home.html&#34; target=&#34;_blank&#34;&gt;ISPRS SC&lt;/a&gt;), the Geoinformatics and Space Technology Development Agency (&lt;a href=&#34;http://www.gistda.or.th/main/en&#34; target=&#34;_blank&#34;&gt;GISTDA&lt;/a&gt;) of Thailand, and the ASEAN Research and Training Center for Space Technology and Applications (&lt;a href=&#34;http://artsa.gistda.or.th/about/&#34; target=&#34;_blank&#34;&gt;ARTSA&lt;/a&gt;), which will be held at the Space Krenovation Park in Chonburi, Thailand. MOTIVATE Learning aims to build the capacity of students and young professionals in the fields of remote sensing, photogrammetry, and spatial information sciences.&lt;/p&gt;
+
+&lt;p&gt;I will be participating in next week&amp;rsquo;s activity, the ISPRS Summer School and Hackathon, which intends to train participants with state-of-the-art geospatial technology through a week-long, fun-filled geekfest consisting of lectures, practical break-out sessions, and hackathon. Specifically, I will be delivering a series of presentations and hands-on exercises about &lt;strong&gt;&lt;em&gt;A Synergistic Approach on Mapping using Remote Sensing and GIS&lt;/em&gt;&lt;/strong&gt;, of which the official brief topic description is as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;With the evolution of technology, different kinds of satellite imageries are now being collected by various satellite missions. In the past, data scarcity used to be one of the major challenges, but in the present, the era of big data has arrived. How do we make use of different satellite imageries and is it possible to develop a robust synergistic approach on mapping using remote sensing and GIS? This topic aims to explore which satellite imageries can be used in addressing scientific and societal issues and to develop a potential methodology on how to improve results through a synergistic mapping approach.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hence, this will give me the opportunity to talk about my on-going research on understanding land-system change dynamics in Myanmar, specifically my recent &lt;a href=&#34;https://doi.org/10.3390/rs10020306&#34; target=&#34;_blank&#34;&gt;Remote Sensing paper&lt;/a&gt; on combining optical and radar data for land cover classification and change detection; and then, demonstrate a flavor of &lt;a href=&#34;https://earthengine.google.com/&#34; target=&#34;_blank&#34;&gt;Google Earth Engine&lt;/a&gt;&amp;rsquo;s many applications, particularly to land-system change studies (which then gives me a good platform to share my research on a newly-developed protocol for investigating land-system regime shifts); plus a bit about the research projects I have done over the years under the ALOS Kyoto &amp;amp; Carbon Initiative with my former teammates at Fauna &amp;amp; Flora International, mainly on the synergistic use of optical and radar data for land cover (and mangrove) mapping and monitoring in the Philippines.&lt;/p&gt;
+
+&lt;p&gt;Watch this space for more updates on next week&amp;rsquo;s Summer School activity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

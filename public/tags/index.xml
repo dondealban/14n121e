@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Don De Alban</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jose Don De Alban, 2020</copyright><lastBuildDate>Sun, 11 Aug 2019 20:12:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>GitHub</title>
+      <link>/tags/github/</link>
+      <pubDate>Sun, 11 Aug 2019 20:12:00 +0000</pubDate>
+      <guid>/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Earth Engine</title>
+      <link>/tags/google-earth-engine/</link>
+      <pubDate>Sun, 11 Aug 2019 20:12:00 +0000</pubDate>
+      <guid>/tags/google-earth-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaxEnt</title>
+      <link>/tags/maxent/</link>
+      <pubDate>Sun, 11 Aug 2019 20:12:00 +0000</pubDate>
+      <guid>/tags/maxent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Sun, 11 Aug 2019 20:12:00 +0000</pubDate>
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducibility</title>
+      <link>/tags/reproducibility/</link>
+      <pubDate>Sun, 11 Aug 2019 20:12:00 +0000</pubDate>
+      <guid>/tags/reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RStudio</title>
+      <link>/tags/rstudio/</link>
+      <pubDate>Sun, 11 Aug 2019 20:12:00 +0000</pubDate>
+      <guid>/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LUCC</title>
+      <link>/tags/lucc/</link>
+      <pubDate>Thu, 25 Jul 2019 22:12:00 +0000</pubDate>
+      <guid>/tags/lucc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NASA</title>
+      <link>/tags/nasa/</link>
+      <pubDate>Thu, 25 Jul 2019 22:12:00 +0000</pubDate>
+      <guid>/tags/nasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scicomm</title>
+      <link>/tags/scicomm/</link>
+      <pubDate>Thu, 25 Jul 2019 22:12:00 +0000</pubDate>
+      <guid>/tags/scicomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science meeting</title>
+      <link>/tags/science-meeting/</link>
+      <pubDate>Thu, 25 Jul 2019 22:12:00 +0000</pubDate>
+      <guid>/tags/science-meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poster session</title>
+      <link>/tags/poster-session/</link>
+      <pubDate>Mon, 22 Jul 2019 17:00:00 +0000</pubDate>
+      <guid>/tags/poster-session/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cellular automata</title>
+      <link>/tags/cellular-automata/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/cellular-automata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deforestation</title>
+      <link>/tags/deforestation/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/deforestation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>land change</title>
+      <link>/tags/land-change/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/land-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Southeast Asia</title>
+      <link>/tags/southeast-asia/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/southeast-asia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial modeling</title>
+      <link>/tags/spatial-modeling/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/spatial-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agricultural plantation</title>
+      <link>/tags/agricultural-plantation/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/agricultural-plantation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>armed conflict</title>
+      <link>/tags/armed-conflict/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/armed-conflict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESA CCI land cover dataset</title>
+      <link>/tags/esa-cci-land-cover-dataset/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/esa-cci-land-cover-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>land use/land cover change</title>
+      <link>/tags/land-use/land-cover-change/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/land-use/land-cover-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myanmar</title>
+      <link>/tags/myanmar/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/myanmar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pattern</title>
+      <link>/tags/pattern/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>process</title>
+      <link>/tags/process/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sustainable development</title>
+      <link>/tags/sustainable-development/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/sustainable-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tanintharyi Region</title>
+      <link>/tags/tanintharyi-region/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/tanintharyi-region/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISPRS</title>
+      <link>/tags/isprs/</link>
+      <pubDate>Thu, 09 Aug 2018 08:00:00 +0000</pubDate>
+      <guid>/tags/isprs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lecture</title>
+      <link>/tags/lecture/</link>
+      <pubDate>Thu, 09 Aug 2018 08:00:00 +0000</pubDate>
+      <guid>/tags/lecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>summer school</title>
+      <link>/tags/summer-school/</link>
+      <pubDate>Thu, 09 Aug 2018 08:00:00 +0000</pubDate>
+      <guid>/tags/summer-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALOS-2 PALSAR-2</title>
+      <link>/tags/alos-2-palsar-2/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/alos-2-palsar-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JERS-1 SAR</title>
+      <link>/tags/jers-1-sar/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/jers-1-sar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landsat</title>
+      <link>/tags/landsat/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/landsat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oil palm</title>
+      <link>/tags/oil-palm/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/oil-palm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rubber</title>
+      <link>/tags/rubber/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/rubber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tropical forest</title>
+      <link>/tags/tropical-forest/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/tropical-forest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biodiversity</title>
+      <link>/tags/biodiversity/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/biodiversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>birds</title>
+      <link>/tags/birds/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/birds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conservation science</title>
+      <link>/tags/conservation-science/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/conservation-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecosystems</title>
+      <link>/tags/ecosystems/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/ecosystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forest ecology</title>
+      <link>/tags/forest-ecology/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/forest-ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forests</title>
+      <link>/tags/forests/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/forests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>species diversity</title>
+      <link>/tags/species-diversity/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/species-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tropical ecosystems</title>
+      <link>/tags/tropical-ecosystems/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/tropical-ecosystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agriculture</title>
+      <link>/tags/agriculture/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/agriculture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>civil war</title>
+      <link>/tags/civil-war/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/civil-war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forestry</title>
+      <link>/tags/forestry/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/forestry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>governance</title>
+      <link>/tags/governance/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/governance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>horizon scan</title>
+      <link>/tags/horizon-scan/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/horizon-scan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infrastructure</title>
+      <link>/tags/infrastructure/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>land tenure</title>
+      <link>/tags/land-tenure/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/land-tenure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>priority setting</title>
+      <link>/tags/priority-setting/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/priority-setting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cartography</title>
+      <link>/tags/cartography/</link>
+      <pubDate>Sat, 16 Sep 2017 20:51:00 +0000</pubDate>
+      <guid>/tags/cartography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>color vision</title>
+      <link>/tags/color-vision/</link>
+      <pubDate>Sat, 16 Sep 2017 20:51:00 +0000</pubDate>
+      <guid>/tags/color-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data visualisation</title>
+      <link>/tags/data-visualisation/</link>
+      <pubDate>Sat, 16 Sep 2017 20:51:00 +0000</pubDate>
+      <guid>/tags/data-visualisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>map design</title>
+      <link>/tags/map-design/</link>
+      <pubDate>Sat, 16 Sep 2017 20:51:00 +0000</pubDate>
+      <guid>/tags/map-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>/tags/software/</link>
+      <pubDate>Sat, 16 Sep 2017 20:51:00 +0000</pubDate>
+      <guid>/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>causal network</title>
+      <link>/tags/causal-network/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/causal-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conflict</title>
+      <link>/tags/conflict/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/conflict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>democratisation</title>
+      <link>/tags/democratisation/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/democratisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>political transition</title>
+      <link>/tags/political-transition/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/political-transition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>system dynamics</title>
+      <link>/tags/system-dynamics/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/system-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agricultural expansion</title>
+      <link>/tags/agricultural-expansion/</link>
+      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/agricultural-expansion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forest conservation</title>
+      <link>/tags/forest-conservation/</link>
+      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/forest-conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JAXA ALOS K&amp;C</title>
+      <link>/tags/jaxa-alos-kc/</link>
+      <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/jaxa-alos-kc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyoto &amp; Carbon Initiative</title>
+      <link>/tags/kyoto-carbon-initiative/</link>
+      <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/kyoto-carbon-initiative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>land cover mapping</title>
+      <link>/tags/land-cover-mapping/</link>
+      <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/land-cover-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mangrove mapping</title>
+      <link>/tags/mangrove-mapping/</link>
+      <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/mangrove-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>national forest monitoring system</title>
+      <link>/tags/national-forest-monitoring-system/</link>
+      <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/national-forest-monitoring-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philippines</title>
+      <link>/tags/philippines/</link>
+      <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/philippines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REDD&#43;</title>
+      <link>/tags/redd&#43;/</link>
+      <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/redd&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sub-national demonstration site</title>
+      <link>/tags/sub-national-demonstration-site/</link>
+      <pubDate>Sun, 28 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/sub-national-demonstration-site/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
