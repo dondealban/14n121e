@@ -89,6 +89,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157527195-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-157527195-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -112,9 +148,9 @@
   <meta property="twitter:site" content="@dondealban">
   <meta property="twitter:creator" content="@dondealban">
   
-  <meta property="og:site_name" content="Don De Alban">
+  <meta property="og:site_name" content="Jose Don De Alban">
   <meta property="og:url" content="/publication/2014-unep-wcmc/">
-  <meta property="og:title" content="Using spatial analysis to explore synergies between the Aichi Biodiversity Targets and REDD&#43; in the Philippines—a preliminary analysis | Don De Alban">
+  <meta property="og:title" content="Using spatial analysis to explore synergies between the Aichi Biodiversity Targets and REDD&#43; in the Philippines—a preliminary analysis | Jose Don De Alban">
   <meta property="og:description" content="This report explores the synergies between the Aichi Biodiversity Targets and REDD&#43; in the Philippines using spatial analysis."><meta property="og:image" content="/publication/2014-unep-wcmc/featured.png">
   <meta property="twitter:image" content="/publication/2014-unep-wcmc/featured.png"><meta property="og:locale" content="en-us">
   
@@ -163,7 +199,7 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Don De Alban",
+    "name": "Jose Don De Alban",
     "logo": {
       "@type": "ImageObject",
       "url": "/img/icon-512.png"
@@ -187,7 +223,7 @@
 
 
 
-  <title>Using spatial analysis to explore synergies between the Aichi Biodiversity Targets and REDD&#43; in the Philippines—a preliminary analysis | Don De Alban</title>
+  <title>Using spatial analysis to explore synergies between the Aichi Biodiversity Targets and REDD&#43; in the Philippines—a preliminary analysis | Jose Don De Alban</title>
 
 </head>
 
@@ -230,7 +266,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Don De Alban</a>
+      <a class="navbar-brand" href="/">Jose Don De Alban</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">

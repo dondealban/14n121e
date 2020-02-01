@@ -89,6 +89,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157527195-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-157527195-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -112,9 +148,9 @@
   <meta property="twitter:site" content="@dondealban">
   <meta property="twitter:creator" content="@dondealban">
   
-  <meta property="og:site_name" content="Don De Alban">
+  <meta property="og:site_name" content="Jose Don De Alban">
   <meta property="og:url" content="/news/01_glp-regime-shift-paper/">
-  <meta property="og:title" content="Global Land Programme | Don De Alban">
+  <meta property="og:title" content="Global Land Programme | Jose Don De Alban">
   <meta property="og:description" content="Our 2019 Sustainability paper on investigating land-cover regime shifts featured in the GLP News."><meta property="og:image" content="/news/01_glp-regime-shift-paper/featured.png">
   <meta property="twitter:image" content="/news/01_glp-regime-shift-paper/featured.png"><meta property="og:locale" content="en-us">
   
@@ -140,7 +176,7 @@
 
 
 
-  <title>Global Land Programme | Don De Alban</title>
+  <title>Global Land Programme | Jose Don De Alban</title>
 
 </head>
 
@@ -183,7 +219,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Don De Alban</a>
+      <a class="navbar-brand" href="/">Jose Don De Alban</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">

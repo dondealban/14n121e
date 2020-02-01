@@ -89,6 +89,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157527195-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-157527195-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -112,9 +148,9 @@
   <meta property="twitter:site" content="@dondealban">
   <meta property="twitter:creator" content="@dondealban">
   
-  <meta property="og:site_name" content="Don De Alban">
+  <meta property="og:site_name" content="Jose Don De Alban">
   <meta property="og:url" content="/post/2018/08-03-motivate-learning/">
-  <meta property="og:title" content="MOTIVATE Learning. | Don De Alban">
+  <meta property="og:title" content="MOTIVATE Learning. | Jose Don De Alban">
   <meta property="og:description" content="I am stoked to be one of the invited lecturers/visiting experts for next week&rsquo;s MOTIVATE Learning activity, a collaborative project organised by the International Society for Photogrammetry and Remote Sensing Student Consortium (ISPRS SC), the Geoinformatics and Space Technology Development Agency (GISTDA) of Thailand, and the ASEAN Research and Training Center for Space Technology and Applications (ARTSA), which will be held at the Space Krenovation Park in Chonburi, Thailand. MOTIVATE Learning aims to build the capacity of students and young professionals in the fields of remote sensing, photogrammetry, and spatial information sciences."><meta property="og:image" content="/post/2018/08-03-motivate-learning/featured.png">
   <meta property="twitter:image" content="/post/2018/08-03-motivate-learning/featured.png"><meta property="og:locale" content="en-us">
   
@@ -165,7 +201,7 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Don De Alban",
+    "name": "Jose Don De Alban",
     "logo": {
       "@type": "ImageObject",
       "url": "/img/icon-512.png"
@@ -189,7 +225,7 @@
 
 
 
-  <title>MOTIVATE Learning. | Don De Alban</title>
+  <title>MOTIVATE Learning. | Jose Don De Alban</title>
 
 </head>
 
@@ -232,7 +268,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Don De Alban</a>
+      <a class="navbar-brand" href="/">Jose Don De Alban</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">

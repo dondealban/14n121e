@@ -89,11 +89,47 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157527195-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-157527195-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
-  <link rel="alternate" href="/news/index.xml" type="application/rss+xml" title="Don De Alban">
+  <link rel="alternate" href="/news/index.xml" type="application/rss+xml" title="Jose Don De Alban">
   
 
   <link rel="manifest" href="/index.webmanifest">
@@ -115,9 +151,9 @@
   <meta property="twitter:site" content="@dondealban">
   <meta property="twitter:creator" content="@dondealban">
   
-  <meta property="og:site_name" content="Don De Alban">
+  <meta property="og:site_name" content="Jose Don De Alban">
   <meta property="og:url" content="/news/">
-  <meta property="og:title" content="News | Don De Alban">
+  <meta property="og:title" content="News | Jose Don De Alban">
   <meta property="og:description" content="Research Associate"><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
@@ -138,7 +174,7 @@
 
 
 
-  <title>News | Don De Alban</title>
+  <title>News | Jose Don De Alban</title>
 
 </head>
 
@@ -181,7 +217,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Don De Alban</a>
+      <a class="navbar-brand" href="/">Jose Don De Alban</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">

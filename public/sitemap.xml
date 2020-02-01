@@ -33,17 +33,17 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/github/</loc>
     <lastmod>2019-08-11T20:12:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/google-earth-engine/</loc>
+    <lastmod>2019-08-11T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2019-08-11T20:12:00+00:00</lastmod>
   </url>
   

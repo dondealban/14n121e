@@ -89,6 +89,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157527195-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-157527195-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -113,9 +149,9 @@
   <meta property="twitter:site" content="@dondealban">
   <meta property="twitter:creator" content="@dondealban">
   
-  <meta property="og:site_name" content="Don De Alban">
+  <meta property="og:site_name" content="Jose Don De Alban">
   <meta property="og:url" content="/post/2019/07-25-some-impressions-nasa-sari-lcluc-science-meeting/">
-  <meta property="og:title" content="Some impressions during the NASA SARI LCLUC science meeting. | Don De Alban">
+  <meta property="og:title" content="Some impressions during the NASA SARI LCLUC science meeting. | Jose Don De Alban">
   <meta property="og:description" content="I had the opportunity to present a poster at the international science meeting of the land cover / land use change (LCLUC) programme of NASA&rsquo;s South/Southeast Asia Regional Initiative, held in Johor Bahru, Malaysia from 22nd to 24th of July 2019. My poster presentation was about our study on investigating land-cover regime shifts by integrating complementary analytical frameworks in the Tanintharyi Region, southern Myanmar, which was published earlier this year in a special issue of Sustainability journal (full paper here)."><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
@@ -162,7 +198,7 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Don De Alban",
+    "name": "Jose Don De Alban",
     "logo": {
       "@type": "ImageObject",
       "url": "/img/icon-512.png"
@@ -186,7 +222,7 @@
 
 
 
-  <title>Some impressions during the NASA SARI LCLUC science meeting. | Don De Alban</title>
+  <title>Some impressions during the NASA SARI LCLUC science meeting. | Jose Don De Alban</title>
 
 </head>
 
@@ -229,7 +265,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Don De Alban</a>
+      <a class="navbar-brand" href="/">Jose Don De Alban</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
