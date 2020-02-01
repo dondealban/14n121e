@@ -11,7 +11,7 @@ authors:
 - Edward L Webb
 date: "2019-02-21T00:00:00Z"
 doi: "10.3390/su11041139"
-featured: true
+featured: false
 image:
   caption: 'Land-cover regime shift in Tanintharyi Region, Myanmar depicted as a ball-and-valley diagram (adopted from [Müller et al. 2014](https://dx.doi.org/10.1016/j.gloenvcha.2014.06.003)). Balls represent the state of land systems. Upward-pointing arrow indicates enabling preconditions; red arrow indicates the trigger events that punctuate the stable equilibrium of the former forest-dominated regime resulting in a shift to a new agriculture-oriented regime. Downward-pointing arrow indicates self-reinforcing processes.'
   focal_point: ""
