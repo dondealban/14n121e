@@ -5,12 +5,20 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Jose Don De Alban</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sun, 11 Aug 2019 20:12:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Jose Don De Alban</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Gold, farms, and forests—enforcement and alternative livelihoods are unlikely to disincentivize informal gold mining</title>
+      <link>/publication/2020-conserv-sci-practice/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-conserv-sci-practice/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Repos on GitHub.</title>

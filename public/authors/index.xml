@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sun, 11 Aug 2019 20:12:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 11 Aug 2019 20:12:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a geographer and engineer interested in understanding land change as coupled human-natural systems towards achieving sustainability.&lt;/p&gt;
 
@@ -26,10 +26,82 @@
     </item>
     
     <item>
+      <title>Alex N Diment</title>
+      <link>/authors/alex-n-diment/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/alex-n-diment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Aye Chan Maung</title>
       <link>/authors/aye-chan-maung/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/authors/aye-chan-maung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aye Ko Ko</title>
+      <link>/authors/aye-ko-ko/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/aye-ko-ko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dietrich Schmidt-Vogt</title>
+      <link>/authors/dietrich-schmidt-vogt/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/dietrich-schmidt-vogt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edward L Webb</title>
+      <link>/authors/edward-l-webb/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/edward-l-webb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graham W Prescott</title>
+      <link>/authors/graham-w-prescott/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/graham-w-prescott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Roman Carrasco</title>
+      <link>/authors/l-roman-carrasco/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/l-roman-carrasco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Madhu Rao</title>
+      <link>/authors/madhu-rao/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/madhu-rao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi Monn Soe</title>
+      <link>/authors/yi-monn-soe/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/yi-monn-soe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zinmar Aung</title>
+      <link>/authors/zinmar-aung/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/zinmar-aung/</guid>
       <description></description>
     </item>
     
@@ -38,22 +110,6 @@
       <link>/authors/cheng-ling-lim/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/cheng-ling-lim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edward L Webb</title>
-      <link>/authors/edward-l-webb/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/edward-l-webb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graham W Prescott</title>
-      <link>/authors/graham-w-prescott/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/graham-w-prescott/</guid>
       <description></description>
     </item>
     
@@ -194,14 +250,6 @@
     </item>
     
     <item>
-      <title>Dietrich Schmidt-Vogt</title>
-      <link>/authors/dietrich-schmidt-vogt/</link>
-      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/dietrich-schmidt-vogt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Felicia Lasmana</title>
       <link>/authors/felicia-lasmana/</link>
       <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
@@ -302,14 +350,6 @@
       <link>/authors/kyaw-min-thein/</link>
       <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
       <guid>/authors/kyaw-min-thein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Madhu Rao</title>
-      <link>/authors/madhu-rao/</link>
-      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/madhu-rao/</guid>
       <description></description>
     </item>
     

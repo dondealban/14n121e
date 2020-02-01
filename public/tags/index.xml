@@ -5,12 +5,76 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sun, 11 Aug 2019 20:12:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>artisinal and small-scale mining</title>
+      <link>/tags/artisinal-and-small-scale-mining/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/artisinal-and-small-scale-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burma</title>
+      <link>/tags/burma/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/burma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conservation</title>
+      <link>/tags/conservation/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enforcement</title>
+      <link>/tags/enforcement/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/enforcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gold mining</title>
+      <link>/tags/gold-mining/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/gold-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>informal gold mining</title>
+      <link>/tags/informal-gold-mining/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/informal-gold-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>livelihood-based approaches</title>
+      <link>/tags/livelihood-based-approaches/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/livelihood-based-approaches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myanmar</title>
+      <link>/tags/myanmar/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/myanmar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GitHub</title>
@@ -169,14 +233,6 @@
       <link>/tags/land-use/land-cover-change/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/tags/land-use/land-cover-change/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Myanmar</title>
-      <link>/tags/myanmar/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/myanmar/</guid>
       <description></description>
     </item>
     
