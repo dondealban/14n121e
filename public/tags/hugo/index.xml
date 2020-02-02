@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GitHub | Jose Don De Alban</title>
-    <link>/tags/github/</link>
-      <atom:link href="/tags/github/index.xml" rel="self" type="application/rss+xml" />
-    <description>GitHub</description>
+    <title>Hugo | Jose Don De Alban</title>
+    <link>/tags/hugo/</link>
+      <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sun, 02 Feb 2020 15:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/don_baybayin.png</url>
-      <title>GitHub</title>
-      <link>/tags/github/</link>
+      <title>Hugo</title>
+      <link>/tags/hugo/</link>
     </image>
     
     <item>
@@ -69,33 +69,6 @@ Zhi Yang&lt;/p&gt;
 &lt;p&gt;was really helpful&lt;/p&gt;
 
 &lt;p&gt;Special thanks to Lloyd Zapanta for developing a true type font for the Baybayin script, which is the indigenous alphabet writing script of pre-colonial Philippines. He designed several true type fonts of the Baybayin script, of which I particularly used Baybayin Sisil rendition for creating my website logo, which is essentially my name written with Baybayin characters.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Repos on GitHub.</title>
-      <link>/post/2019/08-11-repos-on-github/</link>
-      <pubDate>Sun, 11 Aug 2019 20:12:00 +0000</pubDate>
-      <guid>/post/2019/08-11-repos-on-github/</guid>
-      <description>&lt;p&gt;I have been sharing the coding materials and resources related to my research on my &lt;a href=&#34;https://github.com/dondealban&#34; target=&#34;_blank&#34;&gt;GitHub page&lt;/a&gt; but I have not had the chance to blog about these here at all, even briefly. And so, let me make this short introduction on my activities on GitHub, which does seem to show (and share) more of my research activity than in this blog. It&amp;rsquo;s just been about time too that I updated the &amp;lsquo;mugshot&amp;rsquo; on my GitHub page, which used to show an old (younger) photo of me, and now, more appropriately, shows a recent photo of me taken during the wedding of a dear colleague. Anyway&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./image_01.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;First, the repositories that accompany some of my published papers, either those I have led or had the great opportunity to co-author. I put together these materials to supplement the published papers, thereby creating a backup of the materials used and developed through the study such as data, results, scripts, and figures. By doing this, I was aiming to encourage not just other scientists and researchers but also my future self to do better science by fostering research reproducibility and transparency. It also improves the overall impact of my own research. Some of these repositories include materials for my &lt;a href=&#34;https://github.com/dondealban/ms-remote-sens-2018&#34; target=&#34;_blank&#34;&gt;2018 Remote Sensing&lt;/a&gt; and &lt;a href=&#34;https://github.com/dondealban/ms-sustainability-2019&#34; target=&#34;_blank&#34;&gt;2019 Sustainability&lt;/a&gt; papers, as well as a &lt;a href=&#34;https://github.com/dondealban/ms-conserv-biol-2017&#34; target=&#34;_blank&#34;&gt;2017 Conservation Biology&lt;/a&gt; paper, all of which were done together with my lab members and principal investigator.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./image_02.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Second, I&amp;rsquo;ve created some repositories over the last couple of years for a lecture I gave at the ISPRS Student Consortium Summer School and Hackathon in 2018 where I shared about my land change research and ran a &lt;a href=&#34;https://github.com/dondealban/isprs-sc-summer-school&#34; target=&#34;_blank&#34;&gt;crash course on Google Earth Engine&lt;/a&gt;, and a short &lt;a href=&#34;https://github.com/dondealban/tutorial-qgis-maxent&#34; target=&#34;_blank&#34;&gt;tutorial on species distribution modeling using MaxEnt and R&lt;/a&gt; that I did for my labmates during a lab retreat in 2017.&lt;/p&gt;
-
-&lt;p&gt;Finally, I&amp;rsquo;ve also developed a couple of long how-to guides or tutorials while I was starting to learn some R packages in pursuit of my research ideas. There was one on the &lt;a href=&#34;https://github.com/dondealban/learning-stm&#34; target=&#34;_blank&#34;&gt;stm package&lt;/a&gt; on structural topic modeling for text data mining and automated content analysis; and the other on the &lt;a href=&#34;(https://github.com/dondealban/learning-intensity-analysis)&#34; target=&#34;_blank&#34;&gt;intensity analysis package&lt;/a&gt;, which has been a key component of my research on land use/cover change analysis.&lt;/p&gt;
-
-&lt;p&gt;Quite frankly, I am stoked to see that users on GitHub have found these repositories (and some others I have not mentioned) useful as indicated by the number of stars or forks (take the &lt;a href=&#34;https://github.com/dondealban/learning-stm&#34; target=&#34;_blank&#34;&gt;learning-stm&lt;/a&gt; repo, for example).&lt;/p&gt;
-
-&lt;p&gt;Please do watch my GitHub space for more updates on my research activities. If you find the materials and resources in any way helfpful, please &amp;lsquo;star&amp;rsquo; the repository page on GitHub, or cite the papers or accompanying repositories if you used them for your research. In case you want to contribute to the content in any of the repositories, please feel free to fork the repo and submit your pull request.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./image_03.png&#34; alt=&#34;png&#34; /&gt;
-&lt;img src=&#34;./image_04.png&#34; alt=&#34;png&#34; /&gt;
-&lt;img src=&#34;./image_05.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

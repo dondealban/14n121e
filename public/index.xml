@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jose Don De Alban</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sun, 02 Feb 2020 15:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/don_baybayin.png</url>
       <title>Jose Don De Alban</title>
@@ -79,6 +79,66 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rebuilding my new website with Hugo, R blogdown, GitHub, and Netlify.</title>
+      <link>/post/2020/02-02-building-my-new-website-with-hugo-blogdown-netlify/</link>
+      <pubDate>Sun, 02 Feb 2020 15:00:00 +0000</pubDate>
+      <guid>/post/2020/02-02-building-my-new-website-with-hugo-blogdown-netlify/</guid>
+      <description>&lt;p&gt;I have been rebuilding my personal website using a static site generator, first, because I wanted a cleaner and streamlined site with an easy upkeep, plus I was motivated to learn the new tools, and more importantly, to move away from hosting on Wordpress due to the really annoying ads. The process was on and off, and although I found tips online that you can indeed complete it in a day or less, I only found time to on it very intermittently, mostly while in transit at airport terminals and during flights and over weekends, which was why it took about three months to deploy the site—and only last night, finally! The website is still incomplete and still under reconstruction, with most of my old blog posts and pages from my old 14n121e website to be slowly incorporated in my new website slowly.&lt;/p&gt;
+
+&lt;p&gt;Below, I have put together some guidance on how I built my new website, which you may find helpful in case you were wondering how you could go about building one for yourself too. I tried to put together the major steps with as much detail as I can recall, albeit I may have missed minor ones.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After some prior searching online, I settled on using Hugo, R blogdown, GitHub, and Netlify as the combination of tools/resources I would employ for setting up and rebuilding my website. Note that I did not mind reconstructing the site manually (e.g., migrating contents such as blog post one by one) because it was not alot and also so I could understand the inner workings, hence I did not pursue (semi-)automated ways that existed for migrating content from Wordpress to the new site. To get started, I ensured the following online accounts were set up and the software tools were installed in my Mac OSX machine:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://git-scm.com&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; and a &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; account as the version control system for tracking the changes in a dedicated repository containing the website contents;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cran.r-project.org&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; and &lt;a href=&#34;https://rstudio.com&#34; target=&#34;_blank&#34;&gt;RStudio&lt;/a&gt;, the premier IDE for R, plus the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;blogdown&lt;/a&gt; R package developed by &lt;a href=&#34;https://yihui.org/en/&#34; target=&#34;_blank&#34;&gt;Yihue Xie&lt;/a&gt;;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Then, &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, an open-source static site generator for building websites, plus the &lt;a href=&#34;https://themes.gohugo.io/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt; Hugo theme by &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;, of which was my personal choice as the theme for creating a simple and customisable website using the &lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; markup language (and it is apt for academics/scientists/researchers);&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In addition, I used some advanced features including &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; to enable comments and discussions, and &lt;a href=&#34;https://marketingplatform.google.com/about/analytics/&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt; to understand my website traffic; and&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Finally, a &lt;a href=&#34;https://www.netlify.com&#34; target=&#34;_blank&#34;&gt;Netlify&lt;/a&gt; account to enable a fast and continuous deployment of the website, once the GitHub repository was connected and the build settings were added.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For most of the above, I already had prexisting registered accounts and had installed the tools, except for Netlify (so I had to sign up for a new account) and R blogdown and Hugo (both of which I had to newly install).&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Creating a repository on Github&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Installing blogdown, Hugo and the Academic theme&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As a final note, I have to say that the initial setup required some effort and time to learn a few new tools—and troubleshoot as required—but in the end, I was satisfied with the process and the outcome, and also from knowing that from here on the upkeep required to maintain my online presence would be minimal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Acknowledgements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I used several resources online including&lt;/p&gt;
+
+&lt;p&gt;instructions of how to use Hugo, blogdown, and Netlify&lt;/p&gt;
+
+&lt;p&gt;helpful and easy-to-follow instructions form
+Yihue Xie for blogdown
+George Cushen for the Academic theme for Hugo&lt;/p&gt;
+
+&lt;p&gt;plus blog posts by XXX&lt;/p&gt;
+
+&lt;p&gt;Katie Scanton&lt;/p&gt;
+
+&lt;p&gt;Erika Fille Legara
+Zhi Yang&lt;/p&gt;
+
+&lt;p&gt;I referred to their posts, and sometimes even the GitHub-hosted repositories hosting their sites, as well as finding many bits of inspiration from the bespoke designs of their own websites&lt;/p&gt;
+
+&lt;p&gt;was really helpful&lt;/p&gt;
+
+&lt;p&gt;Special thanks to Lloyd Zapanta for developing a true type font for the Baybayin script, which is the indigenous alphabet writing script of pre-colonial Philippines. He designed several true type fonts of the Baybayin script, of which I particularly used Baybayin Sisil rendition for creating my website logo, which is essentially my name written with Baybayin characters.&lt;/p&gt;
 </description>
     </item>
     
