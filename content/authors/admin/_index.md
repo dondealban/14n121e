@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: land change | remote sensing | forest conservation | political ecology | Southeast Asia
+bio: land change | conservation | remote sensing | political ecology | Southeast Asia
 education:
   courses:
   - course: ""
@@ -16,8 +16,8 @@ education:
 email: ""
 interests:
 - Land Change
+- Conservation
 - Remote Sensing
-- Forest Conservation
 - Political Ecology
 - Southeast Asia
 name: Jose Don T De Alban
