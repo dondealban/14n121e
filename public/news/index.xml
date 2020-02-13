@@ -5,12 +5,20 @@
     <link>/news/</link>
       <atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Thu, 13 Feb 2020 16:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/don_baybayin.png</url>
       <title>News</title>
       <link>/news/</link>
     </image>
+    
+    <item>
+      <title>NUS Faculty of Science</title>
+      <link>/news/02_nus-informal-gold-mining-paper/</link>
+      <pubDate>Thu, 13 Feb 2020 16:00:00 +0000</pubDate>
+      <guid>/news/02_nus-informal-gold-mining-paper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Global Land Programme</title>
