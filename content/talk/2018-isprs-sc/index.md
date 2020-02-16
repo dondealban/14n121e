@@ -36,6 +36,6 @@ tags:
 title: ISPRS Summer School and Hackathon
 url_code: ""
 url_pdf: ""
-url_slides: https://www.dropbox.com/s/rfov9jskg5tkc8n/De%20Alban_ISPRS%20SC%20MOTIVATE%20Learning_Lecture%20Slides.pdf?dl=0
-url_video: https://www.dropbox.com/s/i4rd1i9abyc7ncw/De%20Alban_ISPRS%20SC%20MOTIVATE%20Learning_Lecture%20Video.mp4?dl=0
+url_slides: https://www.dropbox.com/s/88bvd6v1zy7uc7i/De%20Alban_ISPRS%20SC%20MOTIVATE%20Learning_Lecture%20Slides.pdf?dl=0
+url_video: https://www.dropbox.com/s/935vi1dmp1gk9y3/De%20Alban_ISPRS%20SC%20MOTIVATE%20Learning_Lecture%20Video.mp4?dl=0
 ---
