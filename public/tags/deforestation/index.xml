@@ -5,12 +5,29 @@
     <link>/tags/deforestation/</link>
       <atom:link href="/tags/deforestation/index.xml" rel="self" type="application/rss+xml" />
     <description>deforestation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/don_baybayin.png</url>
       <title>deforestation</title>
       <link>/tags/deforestation/</link>
     </image>
+    
+    <item>
+      <title>Understanding New Deforestation Drivers of Rubber in Mainland Southeast Asia.</title>
+      <link>/project/06_rubber-dynamics/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/06_rubber-dynamics/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;UNDERSTANDING NEW DRIVERS OF DEFORESTATION AND FOREST DEGRADATION IN MAINLAND SOUTHEAST ASIA: SMALLHOLDER LIVELIHOOD DIVERSIFICATION AND VALUE CHAIN ANALYSIS FOR RUBBER WOOD AND LATEX (2019—2020).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I am collaborating with &lt;a href=&#34;https://kevinwoods.org&#34; target=&#34;_blank&#34;&gt;Dr Kevin Woods&lt;/a&gt; who is the lead principal investigator of this project funded by &lt;a href=&#34;https://www.forest-trends.org&#34; target=&#34;_blank&#34;&gt;Forest Trends&lt;/a&gt; on investigating the new indirect drivers of deforestation and forest degradation related to rubber’s bust cycle in mainland Southeast Asia, specifically in Cambodia and Myanmar. As it may no longer be economically viable to continue to tap rubber in many cases, especially if labor outside the household is hired, there is therefore a need to study how household agricultural diversification relates to land use and land cover change.&lt;/p&gt;
+
+&lt;p&gt;One scenario may be that households opt to cut down their rubber plantations to be replaced with a potentially more profitable crop on the same plot of land. (Note that rubber plantations are regarded as forest cover by governments and FAO—and this counts as deforestation or forest loss.) Another scenario may be that, if a land frontier still exists, households may instead (or in addition to) decide to open new forest land to plant an alternative crop to rubber, resulting in forest loss in the general vicinity of the existing rubber plantations.&lt;/p&gt;
+
+&lt;p&gt;For this project, I am implementing remote sensing image analysis of time-series Landsat 30m (2000–2018/9) in identified sites to capture changes in forest cover and land use during the rubber boom (2000s) and during the rubber slump (2010s). This analysis complements the household interviews in targeted villages in selected townships conducted by local research collaborators that intend to capture household decision-making on their responses to the market downturn, political economic forces, and land tenure regimes underpinning any direct and indirect drivers of land use/cover change.&lt;/p&gt;
+
+&lt;p&gt;This project also complements our ongoing &lt;a href=&#34;https://dondealban.netlify.com/project/05_beyond-deforestation/&#34; target=&#34;_blank&#34;&gt;MoE-funded Tier 1 project&lt;/a&gt; that intends to develop spatially explicit predictive models using cellular automata of future land change trajectories in Southeast Asia.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Beyond Deforestation—Drivers and Predictions of Land Cover Change in Mainland Southeast Asia.</title>

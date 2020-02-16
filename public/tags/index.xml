@@ -85,10 +85,26 @@
     </item>
     
     <item>
+      <title>Cambodia</title>
+      <link>/tags/cambodia/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/cambodia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>conservation</title>
       <link>/tags/conservation/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deforestation</title>
+      <link>/tags/deforestation/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/deforestation/</guid>
       <description></description>
     </item>
     
@@ -101,6 +117,14 @@
     </item>
     
     <item>
+      <title>forest degradation</title>
+      <link>/tags/forest-degradation/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/forest-degradation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>gold mining</title>
       <link>/tags/gold-mining/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
@@ -109,10 +133,26 @@
     </item>
     
     <item>
+      <title>household interviews</title>
+      <link>/tags/household-interviews/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/household-interviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>informal gold mining</title>
       <link>/tags/informal-gold-mining/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/informal-gold-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>land use/land cover change</title>
+      <link>/tags/land-use/land-cover-change/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/land-use/land-cover-change/</guid>
       <description></description>
     </item>
     
@@ -129,6 +169,30 @@
       <link>/tags/myanmar/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/myanmar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>remote sensing</title>
+      <link>/tags/remote-sensing/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/remote-sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rubber</title>
+      <link>/tags/rubber/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/rubber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Southeast Asia</title>
+      <link>/tags/southeast-asia/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/southeast-asia/</guid>
       <description></description>
     </item>
     
@@ -205,26 +269,10 @@
     </item>
     
     <item>
-      <title>deforestation</title>
-      <link>/tags/deforestation/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/deforestation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>land change</title>
       <link>/tags/land-change/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/tags/land-change/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Southeast Asia</title>
-      <link>/tags/southeast-asia/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/southeast-asia/</guid>
       <description></description>
     </item>
     
@@ -265,14 +313,6 @@
       <link>/tags/esa-cci-land-cover-dataset/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/tags/esa-cci-land-cover-dataset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>land use/land cover change</title>
-      <link>/tags/land-use/land-cover-change/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/land-use/land-cover-change/</guid>
       <description></description>
     </item>
     
@@ -361,14 +401,6 @@
       <link>/tags/oil-palm/</link>
       <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/tags/oil-palm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rubber</title>
-      <link>/tags/rubber/</link>
-      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/rubber/</guid>
       <description></description>
     </item>
     
