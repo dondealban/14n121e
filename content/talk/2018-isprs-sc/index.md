@@ -26,7 +26,7 @@ math: true
 projects:
 - 04_myanmar-tier2
 publishDate: "2018-08-09T18:00:00Z"
-slides: example
+slides: ""
 summary: Lecture about my land change research during the ISPRS Student Consortium Summer School.
 tags:
 - ISPRS
@@ -36,6 +36,6 @@ tags:
 title: ISPRS Summer School and Hackathon
 url_code: ""
 url_pdf: ""
-url_slides: ""
-url_video: ""
+url_slides: https://www.dropbox.com/s/rfov9jskg5tkc8n/De%20Alban_ISPRS%20SC%20MOTIVATE%20Learning_Lecture%20Slides.pdf?dl=0
+url_video: https://www.dropbox.com/s/i4rd1i9abyc7ncw/De%20Alban_ISPRS%20SC%20MOTIVATE%20Learning_Lecture%20Video.mp4?dl=0
 ---

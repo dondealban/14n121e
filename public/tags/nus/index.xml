@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NUS | Jose Don De Alban</title>
+    <link>/tags/nus/</link>
+      <atom:link href="/tags/nus/index.xml" rel="self" type="application/rss+xml" />
+    <description>NUS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Thu, 13 Feb 2020 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/don_baybayin.png</url>
+      <title>NUS</title>
+      <link>/tags/nus/</link>
+    </image>
+    
+    <item>
+      <title>NUS Faculty of Science</title>
+      <link>/news/02_nus-informal-gold-mining-paper/</link>
+      <pubDate>Thu, 13 Feb 2020 16:00:00 +0000</pubDate>
+      <guid>/news/02_nus-informal-gold-mining-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

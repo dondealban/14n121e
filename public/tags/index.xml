@@ -5,12 +5,20 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sun, 02 Feb 2020 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Thu, 13 Feb 2020 16:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/don_baybayin.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>NUS</title>
+      <link>/tags/nus/</link>
+      <pubDate>Thu, 13 Feb 2020 16:00:00 +0000</pubDate>
+      <guid>/tags/nus/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GitHub</title>
@@ -225,6 +233,14 @@
       <link>/tags/spatial-modeling/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/tags/spatial-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GLP</title>
+      <link>/tags/glp/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/glp/</guid>
       <description></description>
     </item>
     
