@@ -26,7 +26,7 @@ math: true
 projects:
 - 04_myanmar-tier2
 publishDate: "2019-07-22T23:00:00Z"
-slides: example
+slides: ""
 summary: Poster presentation of my land-cover regime shift paper at the NASA SARI LCLUC international science meeting.
 tags:
 - LUCC
@@ -36,7 +36,7 @@ tags:
 - science meeting
 title: NASA SARI Land Cover / Land Use Change International Science Meeting 
 url_code: ""
-url_pdf: ""
+url_pdf: https://www.dropbox.com/s/jhksmmekgchq73q/De%20Alban_NASA%20SARI%20LCLUC%20Meeting_Poster.pdf?dl=0
 url_slides: ""
 url_video: ""
 ---

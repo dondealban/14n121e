@@ -26,12 +26,12 @@ math: true
 projects:
 - 04_myanmar-tier2
 publishDate: "2019-04-12T00:00:00Z"
-slides: example
+slides: ""
 summary: Presentation of the results our Tier 2 research project, including my land change research, to stakeholders in Myanmar.
 tags: []
 title: Myanmar Tier 2 Project Presentation
 url_code: ""
 url_pdf: ""
-url_slides: ""
-url_video: ""
+url_slides: https://www.dropbox.com/s/mosppgab5xmohhn/De%20Alban%20Prescott%20Webb_NUS%20Project%20Results%20Workshop_Presentation.pdf?dl=0
+url_video: https://www.dropbox.com/s/2etc3psbp3si3h2/De%20Alban_NUS%20Project%20Results%20Workshop_Video.mov?dl=0
 ---
