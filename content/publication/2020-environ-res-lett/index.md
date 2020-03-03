@@ -33,7 +33,7 @@ tags:
 - systematic transition
 - Myanmar
 title: Improved estimates of mangrove cover and change reveal catastrophic deforestation in Myanmar
-url_code: https://iopscience.iop.org/1748-9326/15/3/034034/media/ERL_15_3_034034_suppdata.pdf
+url_code: ""
 url_dataset: ""
 url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/ab666d
 url_poster: ""
