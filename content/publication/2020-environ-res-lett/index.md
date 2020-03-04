@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: Mangroves are one of the world's most threatened ecosystems, and Myanmar is regarded as the current mangrove deforestation hotspot globally. Here, we use multi-sensor satellite data and Intensity Analysis to quantify and explain patterns of net and gross mangrove cover change (loss, gain, persistence) for the 1996–2016 period across all of Myanmar.
 authors:
 - admin
 - Johanness Jamaludin
