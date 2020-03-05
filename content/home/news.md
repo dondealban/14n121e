@@ -37,6 +37,10 @@ subtitle = ""
     name = "Outlets"
     tag = "outlets"
 
+  [[content.filter_button]]
+    name = "WCS"
+    tag = "WCS"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
