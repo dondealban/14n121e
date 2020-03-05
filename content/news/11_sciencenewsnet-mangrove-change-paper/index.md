@@ -4,7 +4,7 @@ external_link: https://sciencenewsnet.in/more-than-60-per-cent-of-myanmar-s-mang
 summary: Our 2020 Environmental Research Letters paper featured in sciencenewnet.in.
 tags:
 - outlets
-title: sciencenewsnet.in
+title: sciencenewsnet
 url_code: ""
 url_pdf: ""
 url_slides: ""
