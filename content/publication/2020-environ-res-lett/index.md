@@ -45,4 +45,3 @@ url_video: ""
 <div class='altmetric-embed' data-badge-type='donut'
 data-badge-popover="right"
 data-doi="10.1088/1748-9326/ab666d"></div>
----
