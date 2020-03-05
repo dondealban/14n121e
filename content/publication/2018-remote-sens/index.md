@@ -41,3 +41,4 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.3390/rs10020306" data-hide-no-mentions="true" class="altmetric-embed"></div>
