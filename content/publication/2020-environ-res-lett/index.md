@@ -42,6 +42,4 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-<div class='altmetric-embed' data-badge-type='donut'
-data-badge-popover="right"
-data-doi="10.1088/1748-9326/ab666d"></div>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1088/1748-9326/ab666d" data-hide-no-mentions="true" class="altmetric-embed"></div>
