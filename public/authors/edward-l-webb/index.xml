@@ -5,7 +5,7 @@
     <link>/authors/edward-l-webb/</link>
       <atom:link href="/authors/edward-l-webb/index.xml" rel="self" type="application/rss+xml" />
     <description>Edward L Webb</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/don_baybayin.png</url>
       <title>Edward L Webb</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
+      <title>Improved estimates of mangrove cover and change reveal catastrophic deforestation in Myanmar</title>
+      <link>/publication/2020-environ-res-lett/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-environ-res-lett/</guid>
+      <description>&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34; data-doi=&#34;10.1088/1748-9326/ab666d&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Gold, farms, and forests—enforcement and alternative livelihoods are unlikely to disincentivize informal gold mining</title>
       <link>/publication/2020-conserv-sci-practice/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020-conserv-sci-practice/</guid>
-      <description></description>
+      <description>&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34; data-doi=&#34;10.1111/csp2.142&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +35,8 @@
       <link>/publication/2019-sustainability/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/publication/2019-sustainability/</guid>
-      <description></description>
+      <description>&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34; data-doi=&#34;10.3390/su11041139&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +44,8 @@
       <link>/publication/2018-remote-sens/</link>
       <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/publication/2018-remote-sens/</guid>
-      <description></description>
+      <description>&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34; data-doi=&#34;10.3390/rs10020306&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -41,7 +53,8 @@
       <link>/publication/2017-conserv-biol-horizon-scan/</link>
       <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
       <guid>/publication/2017-conserv-biol-horizon-scan/</guid>
-      <description></description>
+      <description>&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34; data-doi=&#34;10.1111/cobi.13021&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -49,7 +62,8 @@
       <link>/publication/2017-conserv-biol-causal-network/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
       <guid>/publication/2017-conserv-biol-causal-network/</guid>
-      <description></description>
+      <description>&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34; data-doi=&#34;10.1111/cobi.12984&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+</description>
     </item>
     
   </channel>

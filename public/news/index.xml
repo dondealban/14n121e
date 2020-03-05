@@ -5,7 +5,7 @@
     <link>/news/</link>
       <atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Thu, 13 Feb 2020 16:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Tue, 03 Mar 2020 08:30:00 +0000</lastBuildDate>
     <image>
       <url>/img/don_baybayin.png</url>
       <title>News</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>Bioengineer.org</title>
+      <link>/news/08_bioengineer-mangrove-change-paper/</link>
+      <pubDate>Tue, 03 Mar 2020 08:30:00 +0000</pubDate>
+      <guid>/news/08_bioengineer-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NUS Faculty of Science</title>
-      <link>/news/02_nus-informal-gold-mining-paper/</link>
+      <link>/news/07_nus-mangrove-change-paper/</link>
+      <pubDate>Tue, 03 Mar 2020 08:00:00 +0000</pubDate>
+      <guid>/news/07_nus-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Land Programme</title>
+      <link>/news/06_glp-informal-gold-mining-paper/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/news/06_glp-informal-gold-mining-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MINING[dot]COM</title>
+      <link>/news/05_mining-com-informal-gold-mining-paper/</link>
+      <pubDate>Sun, 16 Feb 2020 07:00:00 +0000</pubDate>
+      <guid>/news/05_mining-com-informal-gold-mining-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHYS.ORG</title>
+      <link>/news/04_phys-org-informal-gold-mining-paper/</link>
+      <pubDate>Thu, 13 Feb 2020 18:00:00 +0000</pubDate>
+      <guid>/news/04_phys-org-informal-gold-mining-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NUS Faculty of Science</title>
+      <link>/news/03_nus-informal-gold-mining-paper/</link>
       <pubDate>Thu, 13 Feb 2020 16:00:00 +0000</pubDate>
-      <guid>/news/02_nus-informal-gold-mining-paper/</guid>
+      <guid>/news/03_nus-informal-gold-mining-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wildlife Conservation Society</title>
+      <link>/news/02_wcs-regime-shift-paper/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/news/02_wcs-regime-shift-paper/</guid>
       <description></description>
     </item>
     

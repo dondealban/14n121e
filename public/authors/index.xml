@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sun, 02 Feb 2020 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/don_baybayin.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 02 Feb 2020 15:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a geographer and engineer interested in understanding land change as coupled human-natural systems towards achieving sustainability.&lt;/p&gt;
 
@@ -25,6 +25,38 @@
 
 &lt;p&gt;I am a science team member of the &lt;a href=&#34;https://www.eorc.jaxa.jp/ALOS/en/kyoto/kyoto_index.htm&#34; target=&#34;_blank&#34;&gt;ALOS Kyoto &amp;amp; Carbon Initiative&lt;/a&gt;, and a member of the &lt;a href=&#34;http://www.biodiversity.ph&#34; target=&#34;_blank&#34;&gt;Biodiversity Conservation Society of the Philippines&lt;/a&gt; and the &lt;a href=&#34;https://phgeographicalsociety.org&#34; target=&#34;_blank&#34;&gt;Philippine Geographical Society&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Donovan Wong de Wen</title>
+      <link>/authors/donovan-wong-de-wen/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/donovan-wong-de-wen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edward L Webb</title>
+      <link>/authors/edward-l-webb/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/edward-l-webb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johanness Jamaludin</title>
+      <link>/authors/johanness-jamaludin/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/johanness-jamaludin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maung Maung Than</title>
+      <link>/authors/maung-maung-than/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/maung-maung-than/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -56,14 +88,6 @@
       <link>/authors/dietrich-schmidt-vogt/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/authors/dietrich-schmidt-vogt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edward L Webb</title>
-      <link>/authors/edward-l-webb/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/edward-l-webb/</guid>
       <description></description>
     </item>
     
@@ -112,14 +136,6 @@
       <link>/authors/cheng-ling-lim/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/cheng-ling-lim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Johanness Jamaludin</title>
-      <link>/authors/johanness-jamaludin/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/johanness-jamaludin/</guid>
       <description></description>
     </item>
     
@@ -368,14 +384,6 @@
       <link>/authors/matthew-baird/</link>
       <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
       <guid>/authors/matthew-baird/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maung Maung Than</title>
-      <link>/authors/maung-maung-than/</link>
-      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/maung-maung-than/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intensity analysis | Jose Don De Alban</title>
+    <link>/tags/intensity-analysis/</link>
+      <atom:link href="/tags/intensity-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>intensity analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/don_baybayin.png</url>
+      <title>intensity analysis</title>
+      <link>/tags/intensity-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Improved estimates of mangrove cover and change reveal catastrophic deforestation in Myanmar</title>
+      <link>/publication/2020-environ-res-lett/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-environ-res-lett/</guid>
+      <description>&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34; data-doi=&#34;10.1088/1748-9326/ab666d&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

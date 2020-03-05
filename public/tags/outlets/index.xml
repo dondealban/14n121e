@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>outlets | Jose Don De Alban</title>
+    <link>/tags/outlets/</link>
+      <atom:link href="/tags/outlets/index.xml" rel="self" type="application/rss+xml" />
+    <description>outlets</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Tue, 03 Mar 2020 08:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/don_baybayin.png</url>
+      <title>outlets</title>
+      <link>/tags/outlets/</link>
+    </image>
+    
+    <item>
+      <title>Bioengineer.org</title>
+      <link>/news/08_bioengineer-mangrove-change-paper/</link>
+      <pubDate>Tue, 03 Mar 2020 08:30:00 +0000</pubDate>
+      <guid>/news/08_bioengineer-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MINING[dot]COM</title>
+      <link>/news/05_mining-com-informal-gold-mining-paper/</link>
+      <pubDate>Sun, 16 Feb 2020 07:00:00 +0000</pubDate>
+      <guid>/news/05_mining-com-informal-gold-mining-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHYS.ORG</title>
+      <link>/news/04_phys-org-informal-gold-mining-paper/</link>
+      <pubDate>Thu, 13 Feb 2020 18:00:00 +0000</pubDate>
+      <guid>/news/04_phys-org-informal-gold-mining-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
