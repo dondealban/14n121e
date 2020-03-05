@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Tue, 03 Mar 2020 08:31:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Tue, 03 Mar 2020 08:32:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>outlets</title>
       <link>/tags/outlets/</link>
-      <pubDate>Tue, 03 Mar 2020 08:31:00 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2020 08:32:00 +0000</pubDate>
       <guid>/tags/outlets/</guid>
       <description></description>
     </item>
