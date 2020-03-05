@@ -23,11 +23,6 @@ publication_types:
 publishDate: "2020-03-03T00:00:00Z"
 slides: ""
 summary: In this paper, we highlighted the tenuous future for mangroves in Myanmar and magnified arguments for greater protection for a critical coastal ecosystem, which is particularly important as Myanmar strives to become more integrated into the regional and global markets for agriculture and aquaculture products. The fate of mangroves in Myanmar will be tied to the effectiveness of conservation policies while under pressure to convert to more lucrative but environmentally harmful land uses.
-
-<div class='altmetric-embed' data-badge-type='donut'
-data-badge-popover="right"
-data-doi="10.1088/1748-9326/ab666d"></div>
-
 tags:
 - agricultural expansion
 - mangrove deforestation
@@ -46,4 +41,8 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+---
+<div class='altmetric-embed' data-badge-type='donut'
+data-badge-popover="right"
+data-doi="10.1088/1748-9326/ab666d"></div>
 ---
