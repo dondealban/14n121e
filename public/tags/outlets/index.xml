@@ -5,12 +5,76 @@
     <link>/tags/outlets/</link>
       <atom:link href="/tags/outlets/index.xml" rel="self" type="application/rss+xml" />
     <description>outlets</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Tue, 03 Mar 2020 08:32:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Thu, 05 Mar 2020 23:08:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>outlets</title>
       <link>/tags/outlets/</link>
     </image>
+    
+    <item>
+      <title>The Watchers</title>
+      <link>/news/18_the-watchers-mangrove-change-paper/</link>
+      <pubDate>Thu, 05 Mar 2020 23:08:00 +0000</pubDate>
+      <guid>/news/18_the-watchers-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Futurity</title>
+      <link>/news/17_futurity-mangrove-change-paper/</link>
+      <pubDate>Thu, 05 Mar 2020 08:00:00 +0000</pubDate>
+      <guid>/news/17_futurity-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecologist</title>
+      <link>/news/16_ecologist-mangrove-change-paper/</link>
+      <pubDate>Wed, 04 Mar 2020 08:00:00 +0000</pubDate>
+      <guid>/news/16_ecologist-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eurasia Review</title>
+      <link>/news/15_eurasia-review-mangrove-change-paper/</link>
+      <pubDate>Wed, 04 Mar 2020 08:00:00 +0000</pubDate>
+      <guid>/news/15_eurasia-review-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECO Magazine</title>
+      <link>/news/14_eco-mangrove-change-paper/</link>
+      <pubDate>Tue, 03 Mar 2020 08:36:00 +0000</pubDate>
+      <guid>/news/14_eco-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental News Network</title>
+      <link>/news/13_enn-mangrove-change-paper/</link>
+      <pubDate>Tue, 03 Mar 2020 08:35:00 +0000</pubDate>
+      <guid>/news/13_enn-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News Wise</title>
+      <link>/news/12_newswise-mangrove-change-paper/</link>
+      <pubDate>Tue, 03 Mar 2020 08:34:00 +0000</pubDate>
+      <guid>/news/12_newswise-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sciencenewsnet</title>
+      <link>/news/11_sciencenewsnet-mangrove-change-paper/</link>
+      <pubDate>Tue, 03 Mar 2020 08:33:00 +0000</pubDate>
+      <guid>/news/11_sciencenewsnet-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EurekAlert!</title>

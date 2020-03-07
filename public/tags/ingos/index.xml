@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iNGOs | Jose Don De Alban</title>
+    <link>/tags/ingos/</link>
+      <atom:link href="/tags/ingos/index.xml" rel="self" type="application/rss+xml" />
+    <description>iNGOs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Wed, 05 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>iNGOs</title>
+      <link>/tags/ingos/</link>
+    </image>
+    
+    <item>
+      <title>Wildlife Conservation Society</title>
+      <link>/news/02_wcs-regime-shift-paper/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/news/02_wcs-regime-shift-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

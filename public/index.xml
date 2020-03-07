@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jose Don De Alban</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Tue, 03 Mar 2020 08:32:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Thu, 05 Mar 2020 23:08:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Jose Don De Alban</title>
@@ -83,6 +83,70 @@
     </item>
     
     <item>
+      <title>The Watchers</title>
+      <link>/news/18_the-watchers-mangrove-change-paper/</link>
+      <pubDate>Thu, 05 Mar 2020 23:08:00 +0000</pubDate>
+      <guid>/news/18_the-watchers-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Futurity</title>
+      <link>/news/17_futurity-mangrove-change-paper/</link>
+      <pubDate>Thu, 05 Mar 2020 08:00:00 +0000</pubDate>
+      <guid>/news/17_futurity-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecologist</title>
+      <link>/news/16_ecologist-mangrove-change-paper/</link>
+      <pubDate>Wed, 04 Mar 2020 08:00:00 +0000</pubDate>
+      <guid>/news/16_ecologist-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eurasia Review</title>
+      <link>/news/15_eurasia-review-mangrove-change-paper/</link>
+      <pubDate>Wed, 04 Mar 2020 08:00:00 +0000</pubDate>
+      <guid>/news/15_eurasia-review-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECO Magazine</title>
+      <link>/news/14_eco-mangrove-change-paper/</link>
+      <pubDate>Tue, 03 Mar 2020 08:36:00 +0000</pubDate>
+      <guid>/news/14_eco-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental News Network</title>
+      <link>/news/13_enn-mangrove-change-paper/</link>
+      <pubDate>Tue, 03 Mar 2020 08:35:00 +0000</pubDate>
+      <guid>/news/13_enn-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News Wise</title>
+      <link>/news/12_newswise-mangrove-change-paper/</link>
+      <pubDate>Tue, 03 Mar 2020 08:34:00 +0000</pubDate>
+      <guid>/news/12_newswise-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sciencenewsnet</title>
+      <link>/news/11_sciencenewsnet-mangrove-change-paper/</link>
+      <pubDate>Tue, 03 Mar 2020 08:33:00 +0000</pubDate>
+      <guid>/news/11_sciencenewsnet-mangrove-change-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EurekAlert!</title>
       <link>/news/10_eurekalert-mangrove-change-paper/</link>
       <pubDate>Tue, 03 Mar 2020 08:32:00 +0000</pubDate>
@@ -156,62 +220,95 @@
     </item>
     
     <item>
-      <title>Rebuilding my new website with Hugo, R blogdown, GitHub, and Netlify.</title>
-      <link>/post/2020/02-02-building-my-new-website-with-hugo-blogdown-netlify/</link>
+      <title>Rebuilding my website with GitHub, Hugo, R blogdown, and Netlify.</title>
+      <link>/post/2020/03-07-rebuilding-my-website-with-github-hugo-blogdown-netlify/</link>
       <pubDate>Sun, 02 Feb 2020 15:00:00 +0000</pubDate>
-      <guid>/post/2020/02-02-building-my-new-website-with-hugo-blogdown-netlify/</guid>
-      <description>&lt;p&gt;I have been rebuilding my personal website using a static site generator, first, because I wanted a cleaner and streamlined site with an easy upkeep, plus I was motivated to learn the new tools, and more importantly, to move away from hosting on Wordpress due to the really annoying ads. The process was on and off, and although I found tips online that you can indeed complete it in a day or less, I only found time to on it very intermittently, mostly while in transit at airport terminals and during flights and over weekends, which was why it took about three months to deploy the site—and only last night, finally! The website is still incomplete and still under reconstruction, with most of my old blog posts and pages from my old 14n121e website to be slowly incorporated in my new website slowly.&lt;/p&gt;
+      <guid>/post/2020/03-07-rebuilding-my-website-with-github-hugo-blogdown-netlify/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./image_01.png&#34; alt=&#34;png&#34; /&gt;
+I rebuilt my personal website from scratch using a static site generator, first, because I wanted a cleaner and streamlined site with an easy upkeep, plus I was motivated to learn the new tools, and more importantly, to move away from hosting on Wordpress due to the really annoying ads. The process was on and off during the past months, and although I found tips online that you can indeed complete it in a day or less, I only found time to on it very intermittently, mostly while in transit at airport terminals and during flights and over weekends, which was why it took about three months to finally deploy the sitein early February finally! My website is still incomplete and still under reconstruction, with most of my old blog posts and pages from my old 14n121e website to be slowly incorporated in my new website slowly. So please continue to watch this space!&lt;/p&gt;
 
-&lt;p&gt;Below, I have put together some guidance on how I built my new website, which you may find helpful in case you were wondering how you could go about building one for yourself too. I tried to put together the major steps with as much detail as I can recall, albeit I may have missed minor ones.&lt;/p&gt;
+&lt;p&gt;Below, I have put together some guidance on how I rebuilt my new website with these new tools, specifically the ensemble of Hugo, R blogdown, GitHub, and Netlify, which you may find helpful in case you were wondering how you could go about building one for yourself too. I tried to put together the major steps with as much detail as I can recall, albeit I may have missed minor ones.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;After some prior searching online, I settled on using Hugo, R blogdown, GitHub, and Netlify as the combination of tools/resources I would employ for setting up and rebuilding my website. Note that I did not mind reconstructing the site manually (e.g., migrating contents such as blog post one by one) because it was not alot and also so I could understand the inner workings, hence I did not pursue (semi-)automated ways that existed for migrating content from Wordpress to the new site. To get started, I ensured the following online accounts were set up and the software tools were installed in my Mac OSX machine:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites.&lt;/strong&gt;
+After some prior searching online, I settled on using Hugo, R blogdown, GitHub, and Netlify as the combination of tools/resources I would employ for rebuilding my website. Note that I did not mind reconstructing the site manually (e.g., migrating contents such as blog post one by one) because it was not alot and also because I wanted understand the inner workings, hence I did not pursue (semi-)automated ways that existed for migrating content from Wordpress to the new site. To get started, I ensured the following online accounts were set up and the software tools were installed in my Mac OSX machine:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://git-scm.com&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; and a &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; account as the version control system for tracking the changes in a dedicated repository containing the website contents;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cran.r-project.org&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; and &lt;a href=&#34;https://rstudio.com&#34; target=&#34;_blank&#34;&gt;RStudio&lt;/a&gt;, the premier IDE for R, plus the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;blogdown&lt;/a&gt; R package developed by &lt;a href=&#34;https://yihui.org/en/&#34; target=&#34;_blank&#34;&gt;Yihue Xie&lt;/a&gt;;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Then, &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, an open-source static site generator for building websites, plus the &lt;a href=&#34;https://themes.gohugo.io/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt; Hugo theme by &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;, of which was my personal choice as the theme for creating a simple and customisable website using the &lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; markup language (and it is apt for academics/scientists/researchers);&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;In addition, I used some advanced features including &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; to enable comments and discussions, and &lt;a href=&#34;https://marketingplatform.google.com/about/analytics/&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt; to understand my website traffic; and&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Finally, a &lt;a href=&#34;https://www.netlify.com&#34; target=&#34;_blank&#34;&gt;Netlify&lt;/a&gt; account to enable a fast and continuous deployment of the website, once the GitHub repository was connected and the build settings were added.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; and a &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; account as the version control system for tracking the changes in a dedicated repository containing the website contents;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; and &lt;a href=&#34;https://rstudio.com&#34; target=&#34;_blank&#34;&gt;RStudio&lt;/a&gt;, the premier IDE for R, plus the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;blogdown&lt;/a&gt; R package developed by &lt;a href=&#34;https://yihui.org/en/&#34; target=&#34;_blank&#34;&gt;Yihue Xie&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;Then, &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, an open-source static site generator for building websites, plus the &lt;a href=&#34;https://themes.gohugo.io/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt; Hugo theme by &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;, of which was my personal choice for the theme given its simple and customisable functions using the &lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; markup language (and it is apt for academics/scientists/researchers);&lt;/li&gt;
+&lt;li&gt;In addition, I used some advanced features including &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; to enable comments and discussions, and &lt;a href=&#34;https://marketingplatform.google.com/about/analytics/&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt; to understand my website traffic; and&lt;/li&gt;
+&lt;li&gt;Finally, a &lt;a href=&#34;https://www.netlify.com&#34; target=&#34;_blank&#34;&gt;Netlify&lt;/a&gt; account to enable a fast and continuous deployment of the website, once the GitHub repository was connected and the build settings were added.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;For most of the above, I already had prexisting registered accounts and had installed the tools, except for Netlify (so I had to sign up for a new account) and R blogdown and Hugo (both of which I had to newly install).&lt;/p&gt;
+&lt;p&gt;Note that for most of the above, I already had prexisting registered accounts and had installed the tools, except for Netlify (so I had to sign up for a new account) and R blogdown and Hugo (both of which I had to newly install). So now let&amp;rsquo;s get started:&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Creating a repository on Github&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;1. Setting up Git and GitHub, and creating a repository on Github.&lt;/em&gt;&lt;/strong&gt;
+Follow these instructions to help you &lt;a href=&#34;https://git-scm.com/book/en/v2/Getting-Started-Installing-Git&#34; target=&#34;_blank&#34;&gt;install Git&lt;/a&gt; on your machine and &lt;a href=&#34;https://help.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account&#34; target=&#34;_blank&#34;&gt;setup GitHub&lt;/a&gt;, and once you have them both, &lt;a href=&#34;https://help.github.com/en/enterprise/2.13/user/articles/creating-a-new-repository&#34; target=&#34;_blank&#34;&gt;create a repository&lt;/a&gt; that is located remotely on GitHub and &lt;a href=&#34;https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository&#34; target=&#34;_blank&#34;&gt;cloned locally&lt;/a&gt; on your machine, which will be linked to Netlify later on so that any new content you generate in your repository gets dynamically updated on your website via Netlify.&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;Installing blogdown, Hugo and the Academic theme&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;2. Installing blogdown, Hugo, and the Academic theme.&lt;/em&gt;&lt;/strong&gt;
+First install &lt;a href=&#34;https://www.r-project.org&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; and &lt;a href=&#34;https://rstudio.com/products/rstudio/download/&#34; target=&#34;_blank&#34;&gt;RStudio&lt;/a&gt;, in case you do not have these locally on your machine yet. Once you have completed that step, you can install the blogdown R package and Hugo in RStudio using the following commands:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;install.packages(&amp;quot;blogdown&amp;quot;)
+blogdown::install_hugo(version = &amp;quot;0.63.1&amp;quot;, force = TRUE)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Using the Terminal, you can find out the installed version of Hugo on your machine via:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;hugo version
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Also, check if your &lt;code&gt;config.toml&lt;/code&gt; is found in the root of your project repository. Finally, you are ready to create a new site and serve it locally on your browser by using the following commands in RStudio:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;blogdown::new_site(theme=&amp;quot;gcushen/hugo-academic&amp;quot;)
+blogdown:::serve_site()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Tada! You now have a new site and you&amp;rsquo;re ready to move on to personalising your website. More information on installing blogdown, Hugo, and the Academic theme can be found &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; with specific instructions for installing via RStudio &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;3. Customising your website.&lt;/em&gt;&lt;/strong&gt;
+You&amp;rsquo;ll find more guidance about personalising your website, especially with the way you want it by following these &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;Getting Started&lt;/a&gt; instructions. As a start, the first main items you need to modify are the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;/config.toml&lt;/code&gt;, where you can change your site name, base URL (say with your own domain, or with a free one from Netlify), copyright display, and other advanced options;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/config/_default/menus.toml&lt;/code&gt;, where you can change the names and the sequence of the menu links displayed on the navigation bar at the top of your homepage;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/config/_default/params.toml&lt;/code&gt;, where you can customise your theme, modify your basic info (such as your website type, displaying a bespoke logo on your navigation bar), site details, contact details, social networks for sharing, and other regional and advanced options. You can configure your comments (e.g., Disqus), search, maps, and marketing (i.e., Google Analytics) via the &lt;code&gt;params.toml&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/config/_default/languages.toml&lt;/code&gt;, where you can configure another language to provide language options for your visitors/readers; and finally,&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/content/authors/admin/_index.md&lt;/code&gt;, where you can modify your biographical sketch and tell people who you are. In the same folder place a photo of yourself (called &lt;code&gt;avatar.jpg&lt;/code&gt;) to display your profile photo or avatar.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can implement so many other neat &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/&#34; target=&#34;_blank&#34;&gt;customisations&lt;/a&gt;, including customising your theme colours and fonts; choosing your website icon (or favicon); enabling Google Analytics to understand your website traffic; enabling comments or discussions for your content such as by using Disqus; selecting your social networks (e.g., Twitter) for page sharing, and many more.&lt;/p&gt;
+
+&lt;p&gt;One of the main customisations that I wanted to do was displaying &lt;a href=&#34;https://www.altmetric.com&#34; target=&#34;_blank&#34;&gt;Altmetric&lt;/a&gt; badges for each of my publication pages. Following available &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#add-scripts-js&#34; target=&#34;_blank&#34;&gt;instructions&lt;/a&gt;, I created a file called &lt;code&gt;custom_js.html&lt;/code&gt; in the following folder &lt;code&gt;/layouts/partials/&lt;/code&gt; under the root directory of your repository, which had the following contents:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;html&amp;gt;
+  &amp;lt;body&amp;gt;
+    &amp;lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&amp;gt;&amp;lt;/script&amp;gt;
+  &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The above script was copied from Altmetric&amp;rsquo;s guidance for &lt;a href=&#34;https://api.altmetric.com/embeds.html&#34; target=&#34;_blank&#34;&gt;embedding their badges&lt;/a&gt;. And then, include the following code at the end of the body of your publication post. I did this for each of my publications that had an Altmetric page and modified the DOI accordingly.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-javascript&#34;&gt;&amp;lt;div data-badge-details=&amp;quot;right&amp;quot; data-badge-type=&amp;quot;medium-donut&amp;quot; data-doi=&amp;quot;10.1088/1748-9326/ab666d&amp;quot; data-hide-no-mentions=&amp;quot;true&amp;quot; class=&amp;quot;altmetric-embed&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Once you have set this up, you&amp;rsquo;ll see the Altmetric badge with its details similar to the one below. Customising the Altmetric badge to your linking is easy and you can follow these &lt;a href=&#34;https://api.altmetric.com/embeds.html&#34; target=&#34;_blank&#34;&gt;instructions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34; data-doi=&#34;10.1088/1748-9326/ab666d&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;4. Deploying your website using Netlify.&lt;/em&gt;&lt;/strong&gt;
+Finally, it is time to deploy your website for free on Netlify. To create your new website, first, you need to choose and connect to your Git provider (in this case GitHub) where your site&amp;rsquo;s source code is hosted for continuous deployment. That means when you push to Git, Netlify runs your build tool of choice on their servers and deploys the result. Then, pick the repository where your site&amp;rsquo;s source code is located. Finally, build and deploy! Although I only used a free Netlify account, you can &lt;a href=&#34;https://app.netlify.com/sites/dondealban/settings/domain/setup&#34; target=&#34;_blank&#34;&gt;add a custom domain&lt;/a&gt; for your site if you prefer.
+&lt;img src=&#34;./image_02.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Concluding Remarks.&lt;/strong&gt;
+You will definitely spend a good amount of time customising your site, particularly during the initialisation stage. But once you have most of your site elements and pages completed, updating becomes much easier. For example, I create new content exclusively in RStudio, such as a new blog post, a recent publication, or news item. This means that when I save the files and once I am ready to deploy the new content to my wesbite, I instantiate a commit of the recent changes and push the changes to the &lt;a href=&#34;https://github.com/dondealban/dondealban&#34; target=&#34;_blank&#34;&gt;public repository&lt;/a&gt; of my website. And since this repository is dynamically linked to Netlify, new content or any changes get deployed automatically on my website via Netlify.&lt;/p&gt;
 
 &lt;p&gt;As a final note, I have to say that the initial setup required some effort and time to learn a few new tools—and troubleshoot as required—but in the end, I was satisfied with the process and the outcome, and also from knowing that from here on the upkeep required to maintain my online presence would be minimal.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Acknowledgements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acknowledgements.&lt;/strong&gt;
+I used several resources online including instructions of how to use Hugo, blogdown, and Netlify, which of note were the helpful and easy-to-follow instructions from &lt;a href=&#34;https://resources.rstudio.com/authors/yihui-xie&#34; target=&#34;_blank&#34;&gt;Yihue Xie&lt;/a&gt; for &lt;a href=&#34;https://resources.rstudio.com/webinars/introducing-blogdown&#34; target=&#34;_blank&#34;&gt;blogdown&lt;/a&gt; and &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt; for the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic theme&lt;/a&gt; for Hugo. I&amp;rsquo;ve benefitted alot from reading blog posts, especially &lt;a href=&#34;https://alison.rbind.io/project/up-running-blogdown/&#34; target=&#34;_blank&#34;&gt;getting up and running with blogdown&lt;/a&gt; and a &lt;a href=&#34;https://summer-of-blogdown.netlify.com/people/&#34; target=&#34;_blank&#34;&gt;week of blogdown&lt;/a&gt; by Alison Hill; &lt;a href=&#34;http://www.katherinescranton.com/post/building-my-website-with-blogdown/&#34; target=&#34;_blank&#34;&gt;building my website with blogdown&lt;/a&gt; by Katie Scranton; &lt;a href=&#34;https://www.dsquintana.blog/free-website-in-r-easy/&#34; target=&#34;_blank&#34;&gt;how to make your own website for free for under and hour&lt;/a&gt; by Dan Quintana; &lt;a href=&#34;https://www.kevinzolea.com/post/blogdown/creating-a-website-with-the-academic-theme-in-blogdown/&#34; target=&#34;_blank&#34;&gt;creating a website with the Academic theme in blogdown&lt;/a&gt; by Kevin Zolea; and &lt;a href=&#34;https://lmyint.github.io/post/hugo-academic-tips/&#34; target=&#34;_blank&#34;&gt;tips for using the Academic theme&lt;/a&gt; by Leslie Myint. I also found bits of inspiration about the content possibilities of using the Hugo Academic theme from the bespoke designs of the websites of &lt;a href=&#34;https://erikalegara.site&#34; target=&#34;_blank&#34;&gt;Erika Fille Legara&lt;/a&gt;, &lt;a href=&#34;https://zhiyang.netlify.com&#34; target=&#34;_blank&#34;&gt;Zhi Yang&lt;/a&gt;, &lt;a href=&#34;https://www.dsquintana.com&#34; target=&#34;_blank&#34;&gt;Daniel Quintana&lt;/a&gt;, &lt;a href=&#34;https://alison.rbind.io/&#34; target=&#34;_blank&#34;&gt;Alison Hill&lt;/a&gt;, and &lt;a href=&#34;https://lmyint.github.io&#34; target=&#34;_blank&#34;&gt;Leslie Myint&lt;/a&gt;, which were all super helpful.&lt;/p&gt;
 
-&lt;p&gt;I used several resources online including&lt;/p&gt;
-
-&lt;p&gt;instructions of how to use Hugo, blogdown, and Netlify&lt;/p&gt;
-
-&lt;p&gt;helpful and easy-to-follow instructions form
-Yihue Xie for blogdown
-George Cushen for the Academic theme for Hugo&lt;/p&gt;
-
-&lt;p&gt;plus blog posts by XXX&lt;/p&gt;
-
-&lt;p&gt;Katie Scanton&lt;/p&gt;
-
-&lt;p&gt;Erika Fille Legara
-Zhi Yang&lt;/p&gt;
-
-&lt;p&gt;I referred to their posts, and sometimes even the GitHub-hosted repositories hosting their sites, as well as finding many bits of inspiration from the bespoke designs of their own websites&lt;/p&gt;
-
-&lt;p&gt;was really helpful&lt;/p&gt;
-
-&lt;p&gt;Special thanks to Lloyd Zapanta for developing a true type font for the Baybayin script, which is the indigenous alphabet writing script of pre-colonial Philippines. He designed several true type fonts of the Baybayin script, of which I particularly used Baybayin Sisil rendition for creating my website logo, which is essentially my name written with Baybayin characters.&lt;/p&gt;
+&lt;p&gt;Special thanks to Lloyd Zapanta for developing a true type font for the &lt;a href=&#34;https://en.wikipedia.org/wiki/Baybayin&#34; target=&#34;_blank&#34;&gt;Baybayin&lt;/a&gt; script, which is the indigenous alphabet writing script of pre-colonial Philippines. He designed several true type fonts of the Baybayin script, of which I particularly used &lt;a href=&#34;https://www.behance.net/gallery/67528161/FREE-FONT-Baybayin-SISIL-Brush-Style-Font&#34; target=&#34;_blank&#34;&gt;Baybayin Sisil&lt;/a&gt; rendition for creating my website logo, which is essentially my written name in Baybayin to express my ethnic roots.&lt;/p&gt;
 </description>
     </item>
     
