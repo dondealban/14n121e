@@ -4,7 +4,7 @@ authors:
 categories:
 - Resources
 date: "2020-02-02T15:00:00Z"
-draft: true
+draft: false
 featured: false
 image:
   caption: ""
