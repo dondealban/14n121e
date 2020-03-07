@@ -10,7 +10,7 @@ image:
   caption: ""
   focal_point: ""
   placement: ""
-  preview_only: false
+  preview_only: true
 lastmod: "2020-02-02T15:00:00Z"
 projects: []
 subtitle:
@@ -24,7 +24,6 @@ tags:
 - static site generation
 title: 'Rebuilding my website with GitHub, Hugo, R blogdown, and Netlify.'
 ---
-![png](./image_01.png)
 I rebuilt my personal website from scratch using a static site generator, first, because I wanted a cleaner and streamlined site with an easy upkeep, plus I was motivated to learn the new tools, and more importantly, to move away from hosting on Wordpress due to the really annoying ads. The process was on and off during the past months, and although I found tips online that you can indeed complete it in a day or less, I only found time to on it very intermittently, mostly while in transit at airport terminals and during flights and over weekends, which was why it took about three months to finally deploy the sitein early February finally! My website is still incomplete and still under reconstruction, with most of my old blog posts and pages from my old 14n121e website to be slowly incorporated in my new website slowly. So please continue to watch this space!
 
 Below, I have put together some guidance on how I rebuilt my new website with these new tools, specifically the ensemble of Hugo, R blogdown, GitHub, and Netlify, which you may find helpful in case you were wondering how you could go about building one for yourself too. I tried to put together the major steps with as much detail as I can recall, albeit I may have missed minor ones.
@@ -89,7 +88,7 @@ Once you have set this up, you'll see the Altmetric badge with its details simil
 
 ***4. Deploying your website using Netlify.***
 Finally, it is time to deploy your website for free on Netlify. To create your new website, first, you need to choose and connect to your Git provider (in this case GitHub) where your site's source code is hosted for continuous deployment. That means when you push to Git, Netlify runs your build tool of choice on their servers and deploys the result. Then, pick the repository where your site's source code is located. Finally, build and deploy! Although I only used a free Netlify account, you can [add a custom domain](https://app.netlify.com/sites/dondealban/settings/domain/setup) for your site if you prefer. 
-![png](./image_02.png)
+![png](./image_01.png)
 
 **Concluding Remarks.**
 You will definitely spend a good amount of time customising your site, particularly during the initialisation stage. But once you have most of your site elements and pages completed, updating becomes much easier. For example, I create new content exclusively in RStudio, such as a new blog post, a recent publication, or news item. This means that when I save the files and once I am ready to deploy the new content to my wesbite, I instantiate a commit of the recent changes and push the changes to the [public repository](https://github.com/dondealban/dondealban) of my website. And since this repository is dynamically linked to Netlify, new content or any changes get deployed automatically on my website via Netlify.  
