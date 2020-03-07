@@ -5,7 +5,7 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Jose Don De Alban</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sat, 07 Mar 2020 15:40:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Jose Don De Alban</title>
@@ -13,18 +13,9 @@
     </image>
     
     <item>
-      <title>Improved estimates of mangrove cover and change reveal catastrophic deforestation in Myanmar</title>
-      <link>/publication/2020-environ-res-lett/</link>
-      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-environ-res-lett/</guid>
-      <description>&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34; data-doi=&#34;10.1088/1748-9326/ab666d&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Rebuilding my website with GitHub, Hugo, R blogdown, and Netlify.</title>
       <link>/post/2020/03-07-rebuilding-my-website-with-github-hugo-blogdown-netlify/</link>
-      <pubDate>Sun, 02 Feb 2020 15:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2020 15:40:00 +0000</pubDate>
       <guid>/post/2020/03-07-rebuilding-my-website-with-github-hugo-blogdown-netlify/</guid>
       <description>&lt;p&gt;I rebuilt my personal website from scratch using a static site generator, first, because I wanted a cleaner and streamlined site with an easy upkeep, plus I was motivated to learn the new tools, and more importantly, to move away from hosting on Wordpress due to the really annoying ads. The process was on and off during the past months, and although I found tips online that you can indeed complete it in a day or less, I only found time to on it very intermittently, mostly while in transit at airport terminals and during flights and over weekends, which was why it took about three months to finally deploy the sitein early February finally! My website is still incomplete and still under reconstruction, with most of my old blog posts and pages from my old 14n121e website to be slowly incorporated in my new website slowly. So please continue to watch this space!&lt;/p&gt;
 
@@ -110,6 +101,15 @@ You will definitely spend a good amount of time customising your site, particula
 I used several resources online including instructions of how to use Hugo, blogdown, and Netlify, which of note were the helpful and easy-to-follow instructions from &lt;a href=&#34;https://resources.rstudio.com/authors/yihui-xie&#34; target=&#34;_blank&#34;&gt;Yihue Xie&lt;/a&gt; for &lt;a href=&#34;https://resources.rstudio.com/webinars/introducing-blogdown&#34; target=&#34;_blank&#34;&gt;blogdown&lt;/a&gt; and &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt; for the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic theme&lt;/a&gt; for Hugo. I&amp;rsquo;ve benefitted alot from reading blog posts, especially &lt;a href=&#34;https://alison.rbind.io/project/up-running-blogdown/&#34; target=&#34;_blank&#34;&gt;getting up and running with blogdown&lt;/a&gt; and a &lt;a href=&#34;https://summer-of-blogdown.netlify.com/people/&#34; target=&#34;_blank&#34;&gt;week of blogdown&lt;/a&gt; by Alison Hill; &lt;a href=&#34;http://www.katherinescranton.com/post/building-my-website-with-blogdown/&#34; target=&#34;_blank&#34;&gt;building my website with blogdown&lt;/a&gt; by Katie Scranton; &lt;a href=&#34;https://www.dsquintana.blog/free-website-in-r-easy/&#34; target=&#34;_blank&#34;&gt;how to make your own website for free for under and hour&lt;/a&gt; by Dan Quintana; &lt;a href=&#34;https://www.kevinzolea.com/post/blogdown/creating-a-website-with-the-academic-theme-in-blogdown/&#34; target=&#34;_blank&#34;&gt;creating a website with the Academic theme in blogdown&lt;/a&gt; by Kevin Zolea; and &lt;a href=&#34;https://lmyint.github.io/post/hugo-academic-tips/&#34; target=&#34;_blank&#34;&gt;tips for using the Academic theme&lt;/a&gt; by Leslie Myint. I also found bits of inspiration about the content possibilities of using the Hugo Academic theme from the bespoke designs of the websites of &lt;a href=&#34;https://erikalegara.site&#34; target=&#34;_blank&#34;&gt;Erika Fille Legara&lt;/a&gt;, &lt;a href=&#34;https://zhiyang.netlify.com&#34; target=&#34;_blank&#34;&gt;Zhi Yang&lt;/a&gt;, &lt;a href=&#34;https://www.dsquintana.com&#34; target=&#34;_blank&#34;&gt;Daniel Quintana&lt;/a&gt;, &lt;a href=&#34;https://alison.rbind.io/&#34; target=&#34;_blank&#34;&gt;Alison Hill&lt;/a&gt;, and &lt;a href=&#34;https://lmyint.github.io&#34; target=&#34;_blank&#34;&gt;Leslie Myint&lt;/a&gt;, which were all super helpful.&lt;/p&gt;
 
 &lt;p&gt;Special thanks to Lloyd Zapanta for developing a true type font for the &lt;a href=&#34;https://en.wikipedia.org/wiki/Baybayin&#34; target=&#34;_blank&#34;&gt;Baybayin&lt;/a&gt; script, which is the indigenous alphabet writing script of pre-colonial Philippines. He designed several true type fonts of the Baybayin script, of which I particularly used &lt;a href=&#34;https://www.behance.net/gallery/67528161/FREE-FONT-Baybayin-SISIL-Brush-Style-Font&#34; target=&#34;_blank&#34;&gt;Baybayin Sisil&lt;/a&gt; rendition for creating my website logo, which is essentially my written name in Baybayin to express my ethnic roots.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improved estimates of mangrove cover and change reveal catastrophic deforestation in Myanmar</title>
+      <link>/publication/2020-environ-res-lett/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-environ-res-lett/</guid>
+      <description>&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34; data-doi=&#34;10.1088/1748-9326/ab666d&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
 </description>
     </item>
     

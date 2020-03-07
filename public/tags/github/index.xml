@@ -5,7 +5,7 @@
     <link>/tags/github/</link>
       <atom:link href="/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <description>GitHub</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sun, 02 Feb 2020 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sat, 07 Mar 2020 15:40:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>GitHub</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Rebuilding my website with GitHub, Hugo, R blogdown, and Netlify.</title>
       <link>/post/2020/03-07-rebuilding-my-website-with-github-hugo-blogdown-netlify/</link>
-      <pubDate>Sun, 02 Feb 2020 15:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2020 15:40:00 +0000</pubDate>
       <guid>/post/2020/03-07-rebuilding-my-website-with-github-hugo-blogdown-netlify/</guid>
       <description>&lt;p&gt;I rebuilt my personal website from scratch using a static site generator, first, because I wanted a cleaner and streamlined site with an easy upkeep, plus I was motivated to learn the new tools, and more importantly, to move away from hosting on Wordpress due to the really annoying ads. The process was on and off during the past months, and although I found tips online that you can indeed complete it in a day or less, I only found time to on it very intermittently, mostly while in transit at airport terminals and during flights and over weekends, which was why it took about three months to finally deploy the sitein early February finally! My website is still incomplete and still under reconstruction, with most of my old blog posts and pages from my old 14n121e website to be slowly incorporated in my new website slowly. So please continue to watch this space!&lt;/p&gt;
 

@@ -18,8 +18,73 @@
   </url>
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/github/</loc>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-03-05T23:08:00+00:00</lastmod>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/netlify/</loc>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/03-07-rebuilding-my-website-with-github-hugo-blogdown-netlify/</loc>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/resources/</loc>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rstudio/</loc>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/static-site-generation/</loc>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-07T15:50:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,11 +94,6 @@
   
   <url>
     <loc>/tags/outlets/</loc>
-    <lastmod>2020-03-05T23:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-03-05T23:08:00+00:00</lastmod>
   </url>
   
@@ -103,22 +163,12 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/agricultural-expansion/</loc>
-    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -215,56 +265,6 @@
   <url>
     <loc>/news/03_nus-informal-gold-mining-paper/</loc>
     <lastmod>2020-02-13T16:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-02-02T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/github/</loc>
-    <lastmod>2020-02-02T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2020-02-02T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/netlify/</loc>
-    <lastmod>2020-02-02T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-02-02T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2020-02-02T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020/03-07-rebuilding-my-website-with-github-hugo-blogdown-netlify/</loc>
-    <lastmod>2020-02-02T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/resources/</loc>
-    <lastmod>2020-02-02T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/rstudio/</loc>
-    <lastmod>2020-02-02T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/static-site-generation/</loc>
-    <lastmod>2020-02-02T15:00:00+00:00</lastmod>
   </url>
   
   <url>
