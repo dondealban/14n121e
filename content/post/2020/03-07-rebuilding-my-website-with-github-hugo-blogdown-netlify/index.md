@@ -24,8 +24,7 @@ tags:
 - static site generation
 title: 'Rebuilding my website with GitHub, Hugo, R blogdown, and Netlify.'
 ---
-![jpg](./r-rstudio-github-hugo-netlify.jpg)
-Image source: [mikeyharper.uk](https://mikeyharper.uk/migrating-to-blogdown/)
+![Image source: [mikeyharper.uk](https://mikeyharper.uk/migrating-to-blogdown/)](./r-rstudio-github-hugo-netlify.jpg)
 
 I rebuilt my personal website from scratch using a static site generator, first, because I wanted a cleaner and streamlined site with an easy upkeep, plus I was motivated to learn the new tools, and more importantly, to move away from hosting on Wordpress due to the really annoying ads. The process was on and off during the past months, and although I found tips online that you can indeed complete it in a day or less, I only found time to on it very intermittently, mostly while in transit at airport terminals and during flights and over weekends, which was why it took about three months to finally deploy the sitein early February finally! My website is still incomplete and still under reconstruction, with most of my old blog posts and pages from my old 14n121e website to be slowly incorporated in my new website slowly. So please continue to watch this space!
 
