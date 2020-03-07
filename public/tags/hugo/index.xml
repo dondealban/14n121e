@@ -5,7 +5,7 @@
     <link>/tags/hugo/</link>
       <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Tue, 03 Mar 2020 15:40:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jose Don De Alban</copyright><lastBuildDate>Sat, 07 Mar 2020 15:40:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Hugo</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Rebuilding my website with GitHub, Hugo, R blogdown, and Netlify.</title>
       <link>/post/2020/03-07-rebuilding-my-website-with-github-hugo-blogdown-netlify/</link>
-      <pubDate>Tue, 03 Mar 2020 15:40:00 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2020 15:40:00 +0000</pubDate>
       <guid>/post/2020/03-07-rebuilding-my-website-with-github-hugo-blogdown-netlify/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./r-rstudio-github-hugo-netlify.jpg&#34; alt=&#34;jpg&#34; /&gt;
 Image source: &lt;a href=&#34;https://mikeyharper.uk/migrating-to-blogdown/&#34; target=&#34;_blank&#34;&gt;mikeyharper.uk&lt;/a&gt;&lt;/p&gt;
