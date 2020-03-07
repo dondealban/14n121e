@@ -3,7 +3,7 @@ authors:
 - admin
 categories:
 - Resources
-date: "2020-03-07T15:40:00Z"
+date: "2020-03-07T08:00:00Z"
 draft: false
 featured: false
 image:
@@ -11,7 +11,7 @@ image:
   focal_point: ""
   placement: ""
   preview_only: true
-lastmod: "2020-03-07T15:50:00Z"
+lastmod: "2020-03-07T08:00:00Z"
 projects: []
 subtitle:
 summary:
