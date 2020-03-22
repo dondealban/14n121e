@@ -47,3 +47,5 @@ url_source: ""
 url_video: ""
 ---
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.3390/su11041139" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.3390/su11041139" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
