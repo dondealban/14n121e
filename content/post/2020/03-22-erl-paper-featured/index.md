@@ -3,7 +3,7 @@ authors:
 - admin
 categories:
 - News
-date: "2020-03-22T12:00:00Z"
+date: "2020-03-22T00:00:00Z"
 draft: false
 featured: true
 image:
@@ -11,7 +11,7 @@ image:
   focal_point: ""
   placement: ""
   preview_only: false
-lastmod: "2020-03-22T12:00:00Z"
+lastmod: "2020-03-22T00:00:00Z"
 projects: []
 subtitle:
 summary:
