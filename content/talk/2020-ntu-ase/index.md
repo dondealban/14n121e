@@ -39,3 +39,4 @@ url_pdf: https://www.dropbox.com/s/2pn30yf9w8c3pl5/De%20Alban_NTU%20ASE%20Online
 url_slides: ""
 url_video: ""
 ---
+{{< tweet 1247571635428683777 >}}
