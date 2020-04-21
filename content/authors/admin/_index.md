@@ -56,7 +56,7 @@ user_groups:
 - Visitors
 ---
 
-I am a geographer and engineer interested in understanding land change as coupled human-natural systems towards achieving sustainability.
+I am a geographer and engineer interested in understanding land change as coupled human-natural systems toward achieving a sustainable future.
 
 In 2016, I joined the [National University of Singapore](http://www.nus.edu.sg) as a researcher at the [Applied Plant Ecology Lab](https://www.appliedplantecology.org) to understand the biophysical and socio-econo-political processes driving the profound agricultural transformation of tropical forest landscapes in Southeast Asia, integrating various quantitative and qualitative approaches in geographical research studies. 
 
