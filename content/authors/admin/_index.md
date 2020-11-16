@@ -17,8 +17,8 @@ email: ""
 interests:
 - Land Change
 - Conservation
-- Remote Sensing
 - Political Ecology
+- Sustainability
 - Southeast Asia
 name: Jose Don T De Alban
 organizations:
