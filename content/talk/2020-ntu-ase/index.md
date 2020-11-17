@@ -35,8 +35,8 @@ tags:
 - scicomm
 title: NTU ASE Online Zoom Guest Lecture
 url_code: ""
-url_pdf: https://www.dropbox.com/s/2pn30yf9w8c3pl5/De%20Alban_NTU%20ASE%20Online%20Zoom%20Lecture_Lecture%20Slides.pdf?dl=0
-url_slides: ""
+url_pdf: ""
+url_slides: https://www.dropbox.com/s/2pn30yf9w8c3pl5/De%20Alban_NTU%20ASE%20Online%20Zoom%20Lecture_Lecture%20Slides.pdf?dl=0
 url_video: ""
 ---
 {{< tweet 1247571635428683777 >}}
