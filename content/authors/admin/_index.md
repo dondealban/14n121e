@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: land change | conservation | remote sensing | political ecology | Southeast Asia
+bio: land change | conservation | political ecology | sustainability | Southeast Asia
 education:
   courses:
   - course: ""
