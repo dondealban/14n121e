@@ -15,7 +15,7 @@ image:
   preview_only: true
 lastmod: "2017-08-29T21:00:00Z"
 projects:
-- 03_myanmar-tier1
+- 04_myanmar-tier2
 subtitle:
 summary:
 tags:
