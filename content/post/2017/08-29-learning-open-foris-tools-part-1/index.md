@@ -44,6 +44,9 @@ Collect Earth allows the user to modify optional settings, particularly found in
 ```bash
 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
 ```
+(I did not tinker with the settings related to the survey data, particularly under the Sample Data, Plot Layout, Survey Definition tabs as I figured it will go together with using the Collect tool.) Once my settings were defined, I took Collect Earth for a spin to check whether the synchronised interfaces worked by using one of the project examples from their website.
+
+However, after loading one of the project files and clicking at one of the plot areas, I observed that the HTML survey form designed for the project had popped out, but the synchronised browser interfaces failed to launch. After consulting the [support community](http://www.openforis.org/support) and the log file (Help > Open Application Log File), I learned that Collect Earth was unable to launch the Chrome/Firefox browsers despite having specified the correct pathnames to the browser applications.
 
 ![jpg](./map_ms-conserv-biol_v9 fig1a.jpg)
 
