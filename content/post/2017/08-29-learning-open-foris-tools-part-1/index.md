@@ -38,7 +38,12 @@ In a nutshell, Collect Earth essentially facilitates the interpretation of high 
 For this post, I will just share a few notes regarding the installation and setup of the Collect Earth system for Mac OSX. Basically I just followed the [installation tutorial](http://www.openforis.org/tools/collect-earth/tutorials/installation.html) from the Collect Earth website. After installing Collect Earth and Google Earth Pro, I launched Collect Earth and went ahead with the setup, which involved indicating the operator name and tinkering with settings such as language and browser preferences.
 
 Collect Earth allows the user to modify optional settings, particularly found in the Tools > Properties > Advanced tab such as selecting a preferred browser (i.e., Firefox, Chrome). For my system, I opted to check the boxes to open Chrome browser windows with Google Earth Engine Playground as well as its timelapse and zoom into the plot area. I also opted to open Bing Maps. In a Mac OSX system, the paths to the Firefox and Chrome executables can be specified as follows:
-
+```bash
+/Applications/Firefox.app/Contents/MacOS/firefox
+```
+```bash
+/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+```
 
 ![jpg](./map_ms-conserv-biol_v9 fig1a.jpg)
 
