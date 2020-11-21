@@ -50,8 +50,6 @@ Collect Earth allows the user to modify optional settings, particularly found in
 
 However, after loading one of the project files and clicking at one of the plot areas, I observed that the HTML survey form designed for the project had popped out, but the synchronised browser interfaces failed to launch. After consulting the [support community](http://www.openforis.org/support) and the log file (Help > Open Application Log File), I learned that Collect Earth was unable to launch the Chrome/Firefox browsers despite having specified the correct pathnames to the browser applications.
 
-![jpg](./map_ms-conserv-biol_v9 fig1a.jpg)
-
 **References:**
 
 [1] Bey, A., Sánchez-Paus Díaz, A., Maniatis, D., Marchi, G., Mollicone, D., Ricci, S., et al. (2016) Collect Earth: land use and land cover assessment through augmented visual interpretation. *Remote Sensing*, **8**, 807. [[DOI](https://dx.doi.org/10.3390/rs8100807)].
