@@ -9,7 +9,7 @@ date: "2017-08-29T21:00:00Z"
 draft: true
 featured: false
 image:
-  caption: ""
+  caption: "The suite of Open Foris software tools for environmental monitoring."
   focal_point: ""
   placement: ""
   preview_only: true
@@ -19,10 +19,12 @@ projects:
 subtitle:
 summary:
 tags:
-- deforestation
-- forest conservation
-- forest degradation
-- Myanmar
+- Big Data
+- cloud computing
+- FOSS
+- Google Earth Engine
+- Open Foris
+- software
 title: 'Learning Open Foris tools (Part 1).'
 ---
 Here's another suite of software tools that land change scientists and geospatial analysts should have in their toolbox: [Open Foris](http://www.openforis.org/home.html).
