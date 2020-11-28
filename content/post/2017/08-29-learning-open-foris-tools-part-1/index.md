@@ -29,8 +29,6 @@ title: 'Learning Open Foris tools (Part 1).'
 ---
 Here's another suite of software tools that land change scientists and geospatial analysts should have in their toolbox: [Open Foris](http://www.openforis.org/home.html).
 
-The suite of Open Foris software tools for environmental monitoring.
-
 Open Foris is a set of free and open-source software tools designed to facilitate flexible and efficient data collection, analysis, and reporting for environmental monitoring such as forest inventories, climate change reporting, socio-economic surveys, biodiversity assessments, land use/cover change assessments, among others [1]. This initiative, resulting from the collaborative efforts of numerous public and private institutions, is hosted by the Food and Agriculture Organisation of the United Nations.
 
 At the moment, I am specifically interested in learning [Collect Earth](http://www.openforis.org/tools/collect-earth.html), one of the Open Foris tools that enables data collection through the [Google Earth](https://www.google.com/earth/) interface, to streamline my image classification and analysis workflow in [Google Earth Engine](http://www.openforis.org/tools/collect-earth.html). Used in conjunction with [Collect](http://www.openforis.org/tools/collect.html), another tool for designing survey forms and managing survey data, bespoke data entry forms can be setup and streamlined with a user-friendly interface, say, for land use/cover change assessments. (Note that there are a few other tools included in the Open Foris suite such as [Collect Mobile](http://www.openforis.org/tools/collect-mobile.html), [Calc](http://www.openforis.org/tools/calc.html), and [Geospatial Toolkit](http://www.openforis.org/tools/geospatial-toolkit.html), which I have not yet explored but could still be useful and relevant in support of my research in the near future.)
@@ -39,9 +37,9 @@ In a nutshell, Collect Earth essentially facilitates the interpretation of high 
 
 For this post, I will just share a few notes regarding the installation and setup of the Collect Earth system for Mac OSX. Basically I just followed the [installation tutorial](http://www.openforis.org/tools/collect-earth/tutorials/installation.html) from the Collect Earth website. After installing Collect Earth and Google Earth Pro, I launched Collect Earth and went ahead with the setup, which involved indicating the operator name and tinkering with settings such as language and browser preferences.
 
-![png](./mac-osx-dialog-box.png "The suite of Open Foris software tools for environmental monitoring.")
+![png](./mac-osx-dialog-box.png "The Advanced tab of the Collect Earth Options dialog box for Mac OSX.")
 
-Collect Earth allows the user to modify optional settings, particularly found in the Tools > Properties > Advanced tab such as selecting a preferred browser (i.e., Firefox, Chrome). For my system, I opted to check the boxes to open Chrome browser windows with Google Earth Engine Playground as well as its timelapse and zoom into the plot area. I also opted to open Bing Maps. In a Mac OSX system, the paths to the Firefox and Chrome executables can be specified as follows:
+Collect Earth allows the user to modify optional settings, particularly found in the `Tools > Properties > Advanced` tab such as selecting a preferred browser (i.e., Firefox, Chrome). For my system, I opted to check the boxes to open Chrome browser windows with Google Earth Engine Playground as well as its timelapse and zoom into the plot area. I also opted to open Bing Maps. In a Mac OSX system, the paths to the Firefox and Chrome executables can be specified as follows:
 ```bash
 /Applications/Firefox.app/Contents/MacOS/firefox
 ```
@@ -50,7 +48,7 @@ Collect Earth allows the user to modify optional settings, particularly found in
 ```
 (I did not tinker with the settings related to the survey data, particularly under the Sample Data, Plot Layout, Survey Definition tabs as I figured it will go together with using the Collect tool.) Once my settings were defined, I took Collect Earth for a spin to check whether the synchronised interfaces worked by using one of the project examples from their website.
 
-However, after loading one of the project files and clicking at one of the plot areas, I observed that the HTML survey form designed for the project had popped out, but the synchronised browser interfaces failed to launch. After consulting the [support community](http://www.openforis.org/support) and the log file (Help > Open Application Log File), I learned that Collect Earth was unable to launch the Chrome/Firefox browsers despite having specified the correct pathnames to the browser applications.
+However, after loading one of the project files and clicking at one of the plot areas, I observed that the HTML survey form designed for the project had popped out, but the synchronised browser interfaces failed to launch. After consulting the [support community](http://www.openforis.org/support) and the log file (`Help > Open Application Log File`), I learned that Collect Earth was unable to launch the Chrome/Firefox browsers despite having specified the correct pathnames to the browser applications.
 
 **References:**
 
