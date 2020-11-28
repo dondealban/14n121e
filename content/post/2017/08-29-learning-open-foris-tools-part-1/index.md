@@ -50,6 +50,16 @@ Collect Earth allows the user to modify optional settings, particularly found in
 
 However, after loading one of the project files and clicking at one of the plot areas, I observed that the HTML survey form designed for the project had popped out, but the synchronised browser interfaces failed to launch. After consulting the [support community](http://www.openforis.org/support) and the log file (`Help > Open Application Log File`), I learned that Collect Earth was unable to launch the Chrome/Firefox browsers despite having specified the correct pathnames to the browser applications.
 
+To rectify this, I had to open the `earth.properties` file found in `/Library/Application Support/CollectEarth` under my user account (or just go to `Tools > Open Data Folder`). I figured out that the pathnames to the browser applications in the file were incorrect despite having correctly entered them in the Collect Earth Options dialog box (perhaps it is a bug in the software). And so, I edited the `earth.properties` file directly by replacing the following path lines:
+```bash
+firefox_exe_path=/Applications/Firefox.app/Contents/MacOS/firefox
+chrome_exe_path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+```
+After a bit of troubleshooting and rectifying the erroneous path entries, I gave it another try until the synchronised interfaces finally worked. The following screenshots show the different synchronised browser interfaces that I selected.
+
+
+The next post will be about designing bespoke survey forms for Collect Earth using the Collect tool. Watch this space.
+
 **References:**
 
 [1] Bey, A., Sánchez-Paus Díaz, A., Maniatis, D., Marchi, G., Mollicone, D., Ricci, S., et al. (2016) Collect Earth: land use and land cover assessment through augmented visual interpretation. *Remote Sensing*, **8**, 807. [[DOI](https://dx.doi.org/10.3390/rs8100807)].
