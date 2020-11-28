@@ -6,7 +6,7 @@ categories:
 - Research
 - Resources
 date: "2017-08-29T21:00:00Z"
-draft: true
+draft: false
 featured: false
 image:
   caption: "The suite of Open Foris software tools for environmental monitoring."
