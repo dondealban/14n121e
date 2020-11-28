@@ -57,15 +57,15 @@ chrome_exe_path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
 ```
 After a bit of troubleshooting and rectifying the erroneous path entries, I gave it another try until the synchronised interfaces finally worked. The following screenshots show the different synchronised browser interfaces that I selected.
 
-![png](./screenshot_1_survey-plot.png "The Collect Earth survey plot area and the survey form interface in Google Earth Pro.")
+{{< figure src="screenshot_1_survey-plot.png" title="The Collect Earth survey plot area and the survey form interface in Google Earth Pro." >}}
 
-![png](./screenshot_2_gee-explorer.png "High resolution imagery of the plot area from Google Earth Engine public data catalog.")
+{{< figure src="screenshot_2_gee-explorer.png" title="High resolution imagery of the plot area from Google Earth Engine public data catalog." >}}
 
-![png](./screenshot_3_gee-timelapse.png "Google Earth Engine timelapse for the plot area.")
+{{< figure src="screenshot_3_gee-timelapse.png" title="Google Earth Engine timelapse for the plot area." >}}
 
-![png](./screenshot_4_bing-maps.png "High resolution imagery of the plot area from Bing maps.")
+{{< figure src="screenshot_4_bing-maps.png" title="High resolution imagery of the plot area from Bing maps." >}}
 
-![png](./screenshot_5_gee-playground.png "Google Earth Engine Playground showing different imagery and time-series charts to aid in assessing land use/land cover of the plot area..")
+{{< figure src="screenshot_5_gee-playground.png" title="Google Earth Engine Playground showing different imagery and time-series charts to aid in assessing land use/land cover of the plot area." >}}
 
 The next post will be about designing bespoke survey forms for Collect Earth using the Collect tool. Watch this space.
 
