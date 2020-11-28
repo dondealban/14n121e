@@ -34,7 +34,7 @@ To implement this, luckily an app called [Color Oracle](http://colororacle.org/)
 
 For example, the screenshots of the same portion of the map figure below was the result of the Color Oracle app showing me what a person with normal vision would see and what a color vision impaired person would see. Through these color filters, I then selected colors that would ensure the images can be read by people with normal vision and color blindness. It adds another layer of consideration in designing maps, even making it more challenging, but this ensures that the map can be read by and be accessible to the widest possible audience.
 
-![png](./image_01.png "Screenshots of the same portion of a map figure showing the colors that people with normal color vision would see (leftmost image) and the colors that people with color vision impairments would see, particularly those with deuteranopia (2nd from left), protanopia (3rd from left), and tritanopia (rightmost image).")
+{{< figure src="image_01.png" title="Screenshots of the same portion of a map figure showing the colors that people with normal color vision would see (leftmost image) and the colors that people with color vision impairments would see, particularly those with deuteranopia (2nd from left), protanopia (3rd from left), and tritanopia (rightmost image)." >}}
 
 For additional reading, visit the [Color Oracle](http://colororacle.org/) website and read the papers by Jenny & Kelso (2007a, 2007b) to learn more about the design of information graphics and maps that are accessible for color-impaired readers.
 
