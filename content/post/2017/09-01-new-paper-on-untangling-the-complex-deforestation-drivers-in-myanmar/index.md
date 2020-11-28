@@ -35,7 +35,7 @@ In the coming months, we will be presenting the results of our studies, particul
 
 In the meantime, let me share one of the maps I've drawn for our new paper, which was in one of the earlier drafts but we eventually did not include in the final version. The map shows the proximate and some of the underlying causes of forest loss in Myanmar, together with the locations of case studies and the percentage of deforestation in each administrative unit.
 
-![jpg](./map_ms-conserv-biol_v9 fig1a.jpg)
+{{< figure src="map_ms-conserv-biol_v9 fig1a.jpg" title="Some of the proximate and underlying drivers of forest loss in Myanmar, together with the locations of case studies and the percentage of deforestation in each administrative unit." >}}
 
 **References:**
 
