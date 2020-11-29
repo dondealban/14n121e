@@ -4,7 +4,7 @@ authors:
 categories:
 - Resources
 date: "2017-08-06T03:00:00Z"
-draft: true
+draft: false
 featured: false
 image:
   caption: "**Examples of the categories of change identified within the color composite imagery.** Changes in mangrove extent were identified through a combination of their color, their shape and the context of the surrounding environment in the composite imagery. a) intact mangroves in Papua, Indonesia b) prior disturbance (aquaculture) at Guayaquil, Ecuador c) loss of mangrove along the coastline of French Guiana d) colonization of mangrove along the French Guiana coastline e) extensive aquaculture at the Mahakam Delta, East Kalimantan, Indonesia f) mangrove dieback in West Papua, Indonesia g) logging within the managed Matang forest reserve, Perak, Malaysia h) prior and on-going agriculture in Sumatra. Imagery copyright of JAXA. [https://doi.org/10.1371/journal.pone.0179302.g001](https://doi.org/10.1371/journal.pone.0179302.g001)"
