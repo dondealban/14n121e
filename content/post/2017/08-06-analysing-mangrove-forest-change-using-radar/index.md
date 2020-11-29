@@ -22,7 +22,7 @@ tags:
 - software
 title: 'Analysing mangrove forest change using radar.'
 ---
-A [recent study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179302) mapped the distribution and drivers of global mangrove forest change from 1996 to 2010 [1]. The study, published in PLoS ONE by members of the ALOS Kyoto & Carbon Initiative led by the Japan Aerospace Exploration Agency, investigated the drivers of mangrove land use and land cover change across the tropics using time-series L-band synthetic aperture radar sensors, particularly JER-1 SAR and ALOS/PALSAR mosaic data.
+A [recent study](https://doi.org/10.1371/journal.pone.0179302) mapped the distribution and drivers of global mangrove forest change from 1996 to 2010 [1]. The study, published in PLoS ONE by members of the ALOS Kyoto & Carbon Initiative led by the Japan Aerospace Exploration Agency, investigated the drivers of mangrove land use and land cover change across the tropics using time-series L-band synthetic aperture radar sensors, particularly JER-1 SAR and ALOS/PALSAR mosaic data.
 
 One of the major findings showed that Southeast Asia contained the largest proportion of mangrove forests globally (33.8%), and sadly, the greatest proportion of mangrove forest loss during the 14-year period, mainly as a result of conversion of mangroves for aquaculture/agriculture purposes. The conversion of mangroves into commercial aquaculture ponds has been docmented well in the scientific literature [2-4]. Other categories of change observed in different mangrove areas globally are shown in the figure.
 
