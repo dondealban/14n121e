@@ -37,8 +37,6 @@ Some examples of global-scale applications benefitting from Earth Engine include
 
 **References:**
 
-[1] Bey, A., Sánchez-Paus Díaz, A., Maniatis, D., Marchi, G., Mollicone, D., Ricci, S., et al. (2016) Collect Earth: land use and land cover assessment through augmented visual interpretation. *Remote Sensing*, **8**, 807. [[DOI](https://dx.doi.org/10.3390/rs8100807)].
-
 [1] Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D. & Moore, R. (2017) Google Earth Engine: planetary-scale geospatial analysis for everyone. *Remote Sensing of Environment*, **202**, 18-27. [[DOI](https://doi.org/10.1016/j.rse.2017.06.031)].
 
 [2] Hansen, M.C., Potapov, P.V., Moore, R., Hancher, M., Turubanova, S.A., Tyukavina, A., et al. (2013) High-resolution global maps of 21st-century forest cover change. *Science*, **342**, 850–853. [[DOI](https://doi.org/10.1126/science.1244693)].
