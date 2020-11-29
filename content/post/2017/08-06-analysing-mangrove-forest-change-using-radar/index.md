@@ -28,15 +28,15 @@ One of the major findings showed that Southeast Asia contained the largest propo
 
 Mangroves are important ecosystems and earth observation technologies such as radar sensors, either spaceborne or airborne, can support the management of these ecosystems. If you are interested to know more, watch the next couple of videos below posted in 2015 and 2016 by Dr Marc Simard, scientist at the NASA Jet Propulsion Laboratory, California Institute of Technology, and one of the co-authors of the study.
 
-<div align="center">-oOo-</div>\
+<div align="center">-oOo-</div><br/>
 
 Mangroves are coastal ecosystems that provide important services to coastal populations. They offer natural protection against storm surges, hurricanes and tsunamis. Mangroves also contribute to fish stocks by providing nursing grounds for fish and crustaceans. As part of NASA's Land Cover and Land Use Change program, Simard and his team have developed new remote sensing techniques to monitor the health of mangrove ecosystems. These techniques contribute to support sustainability based decision making with direct societal benefits.
 
-{{< youtube RjSTKItUUX0 >}}\
+{{< youtube RjSTKItUUX0 >}}<br/>
 
-In this next video, a contingent of NASA airborne instruments and scientists on the ground joined colleagues from space agencies in Gabon and Europe to study the dense African tropical forests in Gabon. The forest in this Central African country is the second largest in the world next to the Amazon. During the AfriSAR campaign, the Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew 40,000-feet high mounted beneath a C-20A aircraft from NASA’s Armstrong Flight Research Center in Edwards, California. Data collected during the two-week AfriSAR campaign will help prepare for and calibrate four current and upcoming spaceborne missions for NASA, ESA, and DLR that aim to, among other goals, better gauge the role of forests in Earth’s carbon cycle.
+In this next video, a contingent of NASA airborne instruments and scientists on the ground joined colleagues from space agencies in Gabon and Europe to study the dense African tropical forests in Gabon. The forest in this Central African country is the second largest in the world next to the Amazon. During the AfriSAR campaign, the Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew 40,000-feet high mounted beneath a C-20A aircraft from NASA’s Armstrong Flight Research Center in Edwards, California. Data collected during the two-week AfriSAR campaign will help prepare for and calibrate four current and upcoming spaceborne missions for NASA, ESA, and DLR that aim to, among other goals, better gauge the role of forests in Earth’s carbon cycle.
 
-{{< youtube fcPJBvhZDYM >}}\
+{{< youtube fcPJBvhZDYM >}}<br/>
 
 
 **References:**
