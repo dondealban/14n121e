@@ -7,13 +7,12 @@ date: "2017-08-06T03:00:00Z"
 draft: true
 featured: false
 image:
-  caption: "A screencap of Google Earth Engine playground. Here, I was testing my script to classify land cover types in southern Myanmar using Landsat and ALOS-2/PALSAR-2 data. The left-panel shows your script directory of your repository; central-panel your script; right-panel the console and rasks where you see your results; and bottom-panel the display of images and maps."
+  caption: "**Examples of the categories of change identified within the color composite imagery.** Changes in mangrove extent were identified through a combination of their color, their shape and the context of the surrounding environment in the composite imagery. a) intact mangroves in Papua, Indonesia b) prior disturbance (aquaculture) at Guayaquil, Ecuador c) loss of mangrove along the coastline of French Guiana d) colonization of mangrove along the French Guiana coastline e) extensive aquaculture at the Mahakam Delta, East Kalimantan, Indonesia f) mangrove dieback in West Papua, Indonesia g) logging within the managed Matang forest reserve, Perak, Malaysia h) prior and on-going agriculture in Sumatra. Imagery copyright of JAXA. [https://doi.org/10.1371/journal.pone.0179302.g001](https://doi.org/10.1371/journal.pone.0179302.g001)"
   focal_point: ""
   placement: ""
   preview_only: false
 lastmod: "2017-08-06T03:00:00Z"
-projects:
-- 04_myanmar-tier2
+projects: ""
 subtitle:
 summary:
 tags:
@@ -21,26 +20,20 @@ tags:
 - cloud computing
 - Google Earth Engine
 - software
-title: 'Meeting Google Earth Engine.'
+title: 'Analysing mangrove forest change using radar.'
 ---
-A fantastic opportunity for land change science studies in the near immediate future is the growing utility of cloud computing geospatial analysis platforms such as [Google Earth Engine](https://earthengine.google.com). Combined with the ever-increasing availability of earth observation datasets, these kinds of technologies are expected to facilitate more regional- to global-scale analyses, as well as in-depth local-scale investigations, of land system changes.
+A [recent study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179302) mapped the distribution and drivers of global mangrove forest change from 1996 to 2010 [1]. The study, published in PLoS ONE by members of the ALOS Kyoto & Carbon Initiative led by the Japan Aerospace Exploration Agency, investigated the drivers of mangrove land use and land cover change across the tropics using time-series L-band synthetic aperture radar sensors, particularly JER-1 SAR and ALOS/PALSAR mosaic data.
 
-Since the latter part of last year, I have been using Earth Engine first hand for my land change analyses. To get started, I had to sign up and describe how I planned on using Earth Engine. Then once I had an account, the next step was to learn how to use the tools. The learning curve was very steep as I had to learn to code using either Javascript or Python programming languages to implement image processing tasks. But thankfully, coding can be learned with hard work, patience, and perseverance. I learned the techniques by poring through tutorials and by exploring the [Earth Engine Developers Group forum](https://groups.google.com/forum/#!forum/google-earth-engine-developers), a very dynamic and helpful user community for beginners and people who wish to develop applications using the technology.
+One of the major findings showed that Southeast Asia contained the largest proportion of mangrove forests globally (33.8%), and sadly, the greatest proportion of mangrove forest loss during the 14-year period, mainly as a result of conversion of mangroves for aquaculture/agriculture purposes. The conversion of mangroves into commercial aquaculture ponds has been docmented well in the scientific literature [2-4]. Other categories of change observed in different mangrove areas globally are shown in the figure.
 
-The benefits of using Earth Engine is that it overcomes the computational and data storage limitations that kept remote sensing studies in the past from realising its full potential. Previously I had to download and make local copies of all the imagery that I required on my machine, and implement all my analyses using available software tools. But I always worried about computing and storage requirements, of how much disk space, memory, and time it would take to get these done. Now, Earth Engine takes care of all these through the cloud via its parallel computing server infrastucture.
-
-Datasets such as the entire Landsat archive and the Sentinel missions are all freely and openly accessible through Earth Engine’s public data catalog [1]. Accessing these and displaying them takes only a few lines of code without even downloading them. I've been able to complete landscape-scale analyses, which I would not have been able to do before given my own local resources. Now, I've decided Earth Engine should be one of the primary tools in my work.
-
-Some examples of global-scale applications benefitting from Earth Engine include monitoring forest cover change [2] and surface water dynamics [3], and the global mapping of terrestrial ecoregions [4], among other examples. I invite you to read the paper by Gorelick et al. (2017) [1], which talks about Earth Engine in-depth, as well as a list of other noteworthy examples. And if you haven't tried it yet, I encourage you to take Earth Engine for a spin. Trust me, you will not be disappointed.
+Mangroves are important ecosystems and earth observation technologies such as radar sensors, either spaceborne or airborne, can support the management of these ecosystems. If you are interested to know more, watch the next couple of videos below posted in 2015 and 2016 by Dr Marc Simard, scientist at the NASA Jet Propulsion Laboratory, California Institute of Technology, and one of the co-authors of the study.
 
 **References:**
 
-[1] Bey, A., Sánchez-Paus Díaz, A., Maniatis, D., Marchi, G., Mollicone, D., Ricci, S., et al. (2016) Collect Earth: land use and land cover assessment through augmented visual interpretation. *Remote Sensing*, **8**, 807. [[DOI](https://dx.doi.org/10.3390/rs8100807)].
+[1] Thomas N, R Lucas, P Bunting, A Hardy, A Rosenqvist, M Simard. 2017. Distribution and drivers of global mangrove forest change, 1996-2010. *PLoS ONE*, **12**(6): e0179302. [[DOI](https://dx.doi.org/10.1371/journal.pone.0179302)].
 
-[1] Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D. & Moore, R. (2017) Google Earth Engine: planetary-scale geospatial analysis for everyone. *Remote Sensing of Environment*, **202**, 18-27. [[DOI](https://doi.org/10.1016/j.rse.2017.06.031)].
+[2] Primavera JH. 1995. Mangroves and brakishwater pond culture in the Philippines. *Hydrobiologia*, **295**: 303-309. [[DOI](http://dx.doi.org/10.1007/BF00029137)].
 
-[2] Hansen, M.C., Potapov, P.V., Moore, R., Hancher, M., Turubanova, S.A., Tyukavina, A., et al. (2013) High-resolution global maps of 21st-century forest cover change. *Science*, **342**, 850–853. [[DOI](https://doi.org/10.1126/science.1244693)].
+[3] Hamilton S. 2013. Assessing the role of commercial aquaculture in displacing mangrove forest. *Bulletin of Marine Science*, **89**(2): 585-601. [[DOI](http://dx.doi.org/10.5343/bms.2012.1069)].
 
-[3] Pekel, J.-F., Cottam, A., Gorelick, N. & Belward, A.S. (2016) High-resolution mapping of global surface water and its long-term changes. *Nature*, **540**, 418–422. [[DOI](https://doi.org/10.1038/nature20584)].
-
-[4] Dinerstein, E., Olson, D., Joshi, A., Vynne, C., Burgess, N.D., Wikramanayake, E., et al. (2017) An ecoregion-based approach to protecting half the terrestrial realm. *BioScience*, **67**, 534–545. [[DOI](https://doi.org/10.1093/biosci/bix014)].
+[4] Richards DR, DA Friess. 2016. Rates and drivers of mangrove deforestation in Southeast Asia, 2000–2012. *Proceedings of the National Academy of Sciences*, **113**(2): 344-349. [[DOI](http://dx.doi.org/10.1073/pnas.1510272113)].
