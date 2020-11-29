@@ -11,7 +11,7 @@ featured: false
 image:
   caption: "A screencap of Google Earth Engine playground. Here, I was testing my script to classify land cover types in southern Myanmar using Landsat and ALOS-2/PALSAR-2 data. The left-panel shows your script directory of your repository; central-panel your script; right-panel the console and rasks where you see your results; and bottom-panel the display of images and maps."
   focal_point: ""
-  placement: ""
+  placement: 3
   preview_only: false
 lastmod: "2017-08-17T23:50:00Z"
 projects:
