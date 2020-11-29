@@ -36,7 +36,7 @@ Mangroves are coastal ecosystems that provide important services to coastal popu
 
 In this next video, a contingent of NASA airborne instruments and scientists on the ground joined colleagues from space agencies in Gabon and Europe to study the dense African tropical forests in Gabon. The forest in this Central African country is the second largest in the world next to the Amazon. During the AfriSAR campaign, the Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew 40,000-feet high mounted beneath a C-20A aircraft from NASA’s Armstrong Flight Research Center in Edwards, California. Data collected during the two-week AfriSAR campaign will help prepare for and calibrate four current and upcoming spaceborne missions for NASA, ESA, and DLR that aim to, among other goals, better gauge the role of forests in Earth’s carbon cycle.
 
-{{< youtube fcPJBvhZDYM?list=PLi2Q-S7R41cfep94phtN2OL_QbVBk5M9Z >}}
+{{< youtube fcPJBvhZDYM >}}
 
 **References:**
 
