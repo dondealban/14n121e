@@ -25,7 +25,7 @@ title: 'ALOS-2/PALSAR-2 global mosaics released.'
 A few days ago, the Japan Aerospace Exploration Agency finally released the long-awaited global mosaics from the ALOS-2/PALSAR-2 satellite, which was launched in 24 May 2014.
 
 {{< tweet 692575718752935936 >}}
-
+<br/>
 The 2015 data consists of the 25m mosaic data (at HH and HV polarisations) and the forest/non-forest map product, both at global coverage and free of charge for public use. The datasets can be downloaded through their website via this [link](http://www.eorc.jaxa.jp/ALOS/en/palsar_fnf/data/index.htm). In addition to the 2015 dataset, the historical data acquired by PALSAR annually from 2007 to 2010 may also be downloaded from the same page. New users will be required to register prior to gaining access to the datasets, while users with existing accounts only need to remember their log-in details.
 
 Of course, as soon as I read this news, I downloaded the dataset straightaway. To whet your appetite, enjoy the next couple of images of the surrounding environs of Manila Bay in the Philippines to showcase the mosaic datasets: first, showing a 2015 PALSAR-2 color composite; and second, a multi-temporal color composite consisting of 2007-2010-2015 images.
