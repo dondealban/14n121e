@@ -9,7 +9,7 @@ featured: false
 image:
   caption: ""
   focal_point: ""
-  placement: 3
+  placement: 2
   preview_only: false
 lastmod: "2016-02-16T10:20:00Z"
 projects: ""
@@ -40,6 +40,6 @@ The LPS16 is organised by the European Space Agency (ESA) with support from the 
 
 For more information, you can the [ESA LPS16 website](http://lps16.esa.int/page_session108.php) and check out the [preliminary programme](http://lps16.esa.int/page_programme_overview.php).
 
-###### [Update: 01 Oct 2016]
+**[Update: 01 Oct 2016]**
 
 Unfortunately, my plans to attend the ESA LPS16 did not push through this year as I was transitioning to my new research job at the National University of Singapore from my previous one at Fauna & Flora International. That’s too bad. Perhaps that gives me reason to look forward instead to the next symposium, LPS19, in three years time.
