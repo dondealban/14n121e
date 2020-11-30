@@ -9,7 +9,7 @@ featured: false
 image:
   caption: ""
   focal_point: ""
-  placement: 1
+  placement: 3
   preview_only: false
 lastmod: "2016-02-16T10:20:00Z"
 projects: ""
