@@ -30,6 +30,6 @@ In this image-filled talk, [Yann Arthus-Bertrand](http://www.yannarthusbertrand.
 
 ### Patrícia Medici. [2015]. The coolest animal you know nothing about... and how we can save it.
 
-Although the tapir is one of the world's largest land mammals, the lives of these solitary, nocturnal creatures have remained a mystery. Known as "the living fossil," the very same tapir that roams the forests and grasslands of South America today arrived on the evolutionary scene more than 5 million years ago. But threats from poachers, deforestation and pollution, especially in quickly industrializing Brazil, threaten this longevity. In this insightful talk, conservation biologist, tapir expert and TED Fellow Patrícia Medici shares her work with these amazing animals and challenges us with a question: Do we want to be responsible for their extinction?
+Although the tapir is one of the world's largest land mammals, the lives of these solitary, nocturnal creatures have remained a mystery. Known as "the living fossil," the very same tapir that roams the forests and grasslands of South America today arrived on the evolutionary scene more than 5 million years ago. But threats from poachers, deforestation and pollution, especially in quickly industrializing Brazil, threaten this longevity. In this insightful talk, conservation biologist, tapir expert and TED Fellow [Patrícia Medici shares her work with these amazing animals](http://tapirconservation.org.br/) and challenges us with a question: Do we want to be responsible for their extinction?
 
 {{< youtube RbNqU2K0qzo >}}<br/>
