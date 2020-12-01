@@ -26,4 +26,4 @@ In this post, let me share eleven of my favourite interesting TED Talks about co
 
 In this image-filled talk, [Yann Arthus-Bertrand](http://www.yannarthusbertrand.org/en/home) displays his three most recent projects on humanity and our habitat — stunning aerial photographs in his series "The Earth From Above," personal interviews from around the globe featured in his web project "6 billion Others," and his movie, "[Home](http://youtu.be/jqxENMKaeCU?hd=1)," which documents human impact on the environment through breathtaking video.
 
-![](https://www.ted.com/talks/yann_arthus_bertrand_a_wide_angle_view_of_fragile_earth?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
+{{< youtube wJxSRo564Dc >}}<br/>
