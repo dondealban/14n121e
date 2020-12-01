@@ -84,7 +84,7 @@ Satellite imaging has revolutionized our knowledge of the Earth, with detailed i
 
 ### Julianna Rotich. [2013]. Meet BRCK, Internet access built for Africa.
 
-Tech communities are booming all over Africa, says Nairobi-based Juliana Rotich, cofounder of the open-source software Ushahidi. But it remains challenging to get and stay connected in a region with frequent blackouts and spotty Internet hookups. So Rotich and friends developed BRCK, offering resilient connectivity for the developing world.
+Tech communities are booming all over Africa, says Nairobi-based Juliana Rotich, cofounder of the open-source software [Ushahidi](https://www.ushahidi.com). But it remains challenging to get and stay connected in a region with frequent blackouts and spotty Internet hookups. So Rotich and friends developed [BRCK](https://www.brck.com), offering resilient connectivity for the developing world.
 
 {{< youtube qsJYrwzfd6w >}}<br/>
 
