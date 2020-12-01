@@ -4,7 +4,7 @@ authors:
 categories:
 - Resources
 date: "2016-01-18T01:00:00Z"
-draft: false
+draft: true
 featured: false
 image:
   caption: ""
