@@ -39,3 +39,16 @@ Composed of five project components [4], the development of the microsatellite f
 
 Among the practical uses envisaged as a result of the microsatellite programme are improving weather forecasting; better disaster risk management and emergency response; periodic monitoring of agricultural production, forest and land cover change, and ocean productivity; and contributing to matters of national security [2,3].
 
+### Potential for conserving biodiversity.
+
+Diwata will follow a low earth, sun-synchronous orbit in space at approximately 480 km above the earth. It is expected to pass over the Philippines four times per day with an average of six minutes per pass, capturing around 900 images in each pass [3]. It consists of the following payloads or instruments, namely [2,5]:
+
+[a] *High Precision Telescope (HPT).* The HPT instrument will capture very high-resolution images at 3m with each image having a scene size of 1.9km x 1.4km. The images will consist of four bands, particularly the blue, green, red, and near-infrared wavelengths. It will be used for damage assessment from natural hazards such as floods and earthquakes, and potentially useful for monitoring urban sprawl and planning urban development.
+
+[b] *Spaceborne Multispectral Imager (SMI) with Liquid Crystal Tunable Filter (LCTF).* With a medium-resolution of 80m, the SMI instrument will capture images with scene sizes of 52km x 39km, which will be used for monitoring ocean productivity and changes in vegetation. The instrument also features two optical filters, one for the visible spectrum (420-700nm), and the other for the near- and mid-infrared spectrum (650-1050nm). Another sensor will capture data at the extreme ultraviolet spectrum (10-20nm).
+
+[c] *Wide Field Camera (WFC).* The WFC will capture panchromatic images with a 7km spatial resolution, which will be used to observe cloud patterns and weather disturbances, and estimate typhoon intensity.
+
+[d] *Middle Field Camera (MFC).* With a spatial resolution of 185m, the MFC is an engineering payload that will assist in geolocating the images captured by the SMI and HPT instruments.
+
+Both the SMI and HPT are potentially capable of producing data products that can be used for quantifying and modelling biodiversity. And when I say 'potentially' I mean it may be able to provide these products given its specs. Similar to the capabilities of NASA's MODIS or Landsat sensors, the SMI instrument may be used for detecting boundaries of land, clouds, and aerosols; and for quantifying ocean colour, phytoplankton, and biogeochemical properties.
