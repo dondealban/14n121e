@@ -4,12 +4,12 @@ authors:
 categories:
 - Initiatives
 date: "2016-01-14T15:43:00Z"
-draft: true
+draft: false
 featured: false
 image:
   caption: "Diwata, the first Philippine microsatellite. (Photo by Cez Versoza [1])"
   focal_point: ""
-  placement: 3
+  placement: 2
   preview_only: false
 lastmod: "2016-01-14T15:43:00Z"
 projects: ""
