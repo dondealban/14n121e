@@ -7,9 +7,9 @@ date: "2016-01-14T15:43:00Z"
 draft: true
 featured: false
 image:
-  caption: ""
+  caption: "Diwata, the first Philippine microsatellite. (Photo by Cez Versoza [1])"
   focal_point: ""
-  placement: ""
+  placement: 3
   preview_only: false
 lastmod: "2016-01-14T15:43:00Z"
 projects: ""
@@ -64,6 +64,9 @@ Due to its high temporal resolution at four visits per day, Diwata can also capt
 In forest conservation, for example, Diwata's imagery can be used to monitor forests on a regular basis. Forest clearings can be detected, particularly where these occur in critical watersheds and protected areas, and in turn local government authorities and site managers can use this information to act and implement appropriate measures such as forest patrolling, biodiversity monitoring, or forest restoration. Knowing where forest changes occur can eventually help in understanding why these changes are happening in those areas, and ultimately lead to doing what must be done to address the changes and its impacts. Satellite information can help identify where scarce resources and conservation investments should be directed.
 
 Diwata can potentially supply data to support many of our national government's efforts to conserve and manage forests such as the establishment of the National Forest Monitoring System. Combined with ground inventories, the remote sensing data can be used for Forest Resource Assessments. Public investments such the National Greening Programme may also benefit from Diwata's satellite imagery. The 3m image data could potentially provide much needed evidence through periodic monitoring over time of whether reforestation efforts have been successful or not. Data can be used to measure our progress towards achieving global biodiversity targets and whether the Philippines meets its international commitments under the Convention on Biological Diversity or the Reducing Emissions from Deforestation and Forest Degradation (REDD+). In effect, it supports good governance by promoting transparency and accountability.
+
+{{< figure src="landsat-diwata-images.jpg" title="Landsat images of Cavite in natural colour (top) and Bulacan in false colour (bottom). The images on the left are shown using Landsat's original 30m spatial resolution while the images on the right were downscaled to 80m spatial resolution to show what the images taken by Diwata's SMI instrument might look like. (Acknowledgement: Data available from the United States Geological Survey.)" >}}
+<br/>
 
 ### After launch, what next?
 
