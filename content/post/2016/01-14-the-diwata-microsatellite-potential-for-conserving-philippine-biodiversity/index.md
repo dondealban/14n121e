@@ -2,26 +2,31 @@
 authors:
 - admin
 categories:
-- Musings
-date: "2016-10-07T23:00:00Z"
-draft: false
+- Initiatives
+date: "2016-01-14T15:43:00Z"
+draft: true
 featured: false
 image:
   caption: ""
   focal_point: ""
   placement: ""
   preview_only: false
-lastmod: "2016-10-07T23:00:00Z"
+lastmod: "2016-01-14T15:43:00Z"
 projects: ""
 subtitle:
 summary:
 tags:
-title: 'Transition.'
+- biodiversity
+- conservation
+- Diwata
+- Earth observation
+- Landsat
+- MODIS
+- Philippines
+- PHL-Microsat
+- remote sensing
+title: 'The Diwata microsatellite and its potential for conserving Philippine biodiversity.'
 ---
-It’s been quiet here at **14N 121E** the past seven months. I’ve been transitioning to my new research job at the Department of Biological Sciences at National University of Singapore. After five fruitful years at Fauna & Flora International’s Philippines country programme, which is part of a productive career spanning fifteen years in conservation work, I am back to doing research in academia where my professional career all began for me.
+News about Diwata, the first microsatellite to be launched this year as part of the Philippines' space programme, has been making the rounds over the internet again the past couple of weeks. Last January 12th, Diwata was finally turned over to the Japan Aerospace Exploration Agency, eventually leading to its deployment from the International Space Station this April. Many are excited, especially Filipinos, including me, to see this endeavour finally come to fruition. At last, the Philippines will finally venture into space.
 
-I keep thinking the past 2-3 years have been a transition to return to my beginnings. Perhaps I am starting to come full circle? Well, nothing in this professional journey has ever been straightforward. I am thankful though that the jump from the non-government sector to academia continues to allow me to be involved in conservation, albeit at a different portion of the spectrum: that of doing good science and research to inform and support conservation interventions such as policy and site-level actions.
-
-I’ve been meaning to post updates many times but several things, on top of acclimatising to my new work environment, also equally kept me from finding the time such as recovering after getting sick and being hospitalised, finishing the thesis, and concluding remaining bits of my MSc degree, not to mention adjusting to living by myself and the realities of the physical distance with family, and other distractions.
-
-Well, after this short post, it seems I'll be back to blogging again. Cheers.
+My interest in Diwata is not only because it marks the beginning of a national space programme, which offers tremendous potential for growth and development, and of course, having that sense of ownership and national pride. While there are many applications envisioned from using Diwata's imagery, I am keenly interested in Diwata because of its potential capabilities in support of conserving Philippine biodiversity, of protecting its species many of which are in fact found nowhere else in the world, and of managing their habitats, such as forests and coastal ecosystems. But before we dive into the reasons why I think Diwata shows promise, let me take you through some bits of information to get to know more about this microsatellite.
