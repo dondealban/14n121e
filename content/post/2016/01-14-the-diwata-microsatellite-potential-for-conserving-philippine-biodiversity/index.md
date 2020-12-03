@@ -80,3 +80,27 @@ A free and open-access data policy is truly the way forward. As Will Marshall, c
 He went on to ask his audience, "If you had access to imagery of the whole planet every single day, what would you do with that data? What problems would you solve? What exploration would you do?" If I answered his questions with Diwata in mind, some of the possibilities I mentioned above is what I would be up to.
 
 Finally, the long-term mission should be sustaining the Philippine space programme, and hopefully setting up a Philippine Space Agency to further develop the country's in-house space capabilities, following in the footsteps of developed nations that have invested in their own space programmes, and even other developing nations that have committed to pursue their own space programmes to contribute to the development of their countries.
+
+References:
+
+[1] Versoza C. 2016. Diwata ascending: the benefits of a Filipino space program. [[URL](http://www.gmanetwork.com/news/story/550537/scitech/science/diwata-ascending-the-benefits-of-a-filipino-space-program); accessed 12 Jan 2016].
+
+[2] Ranada P. 2015. Introducing Diwata, the first Philippine-made satellite. [[URL](http://www.rappler.com/nation/86327-philippine-microsatellite-diwata); accessed 12 Jan 2016]
+
+[3] S&T Media Service. 2015. PHL to launch 2 micro-satellites into space. [[URL](http://www.businessmirror.com.ph/phl-to-launch-two-microsatellites-into-space/); accessed 12 Jan 2016]
+
+[4] Electrical and Electronics Engineering Institute - University of the Philippines Diliman. 2015. UP-EEEI hosts talk on micro-satellite technology and PHL-Microsat. [[URL](http://www.eee.upd.edu.ph/news/eeei-hosts-talk-microsatellite-technology-and-phl-microsat); accessed 12 Jan 2016]
+
+[5] Information on payload specifications provided by colleagues and friends from the PHL-Microsat programme.
+
+[6] Turner W, S Spector, N Gardiner, M Fladeland, E Sterling, M Steininger. 2003. Remote sensing for biodiversity science and conservation. *Trends in Ecology & Evolution*. **18**(6):306-314. [[DOI](http://doi.org/10.1016/S0169-5347(03)00070-3)].
+
+[7] Turner W, C Rondinini, N Pettorelli, B Mora, AK Leidner, Z Szantoi, G Buchanan, S Dech, J Dwyer, M Herold, LP Koh, P Leimgruber, H Taubenboeck, M Wegmann, M Wikelski, C Woodcock. 2015. Free and open-access satellite data are key to biodiversity conservation. *Biological Conservation*. **182**(2015):173-176. [[DOI](http://doi.org/10.1016/j.biocon.2014.11.048)].
+
+[8] Marshall, W. 2014. Tiny satellites show us the Earth as it changes in near-real-time. [[TED Talks](https://www.ted.com/talks/will_marshall_teeny_tiny_satellites_that_photograph_the_entire_planet_every_day); accessed 12 Jan 2016]
+
+Additional information from the internet:
+
+Ronda, RA. 2016. April launch seen for Philippine satellite. [[URL](http://www.philstar.com/headlines/2016/01/02/1538494/april-launch-seen-philippine-satellite)]
+
+Usman, EK. 2016. DOST, 2 Japanese universities complete Philippine satellite for launching in space. [[URL](http://www.mb.com.ph/dost-2-japanese-universities-complete-philippine-satellite-for-launching-in-space/)]
