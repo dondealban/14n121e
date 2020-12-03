@@ -66,7 +66,6 @@ In forest conservation, for example, Diwata's imagery can be used to monitor for
 Diwata can potentially supply data to support many of our national government's efforts to conserve and manage forests such as the establishment of the National Forest Monitoring System. Combined with ground inventories, the remote sensing data can be used for Forest Resource Assessments. Public investments such the National Greening Programme may also benefit from Diwata's satellite imagery. The 3m image data could potentially provide much needed evidence through periodic monitoring over time of whether reforestation efforts have been successful or not. Data can be used to measure our progress towards achieving global biodiversity targets and whether the Philippines meets its international commitments under the Convention on Biological Diversity or the Reducing Emissions from Deforestation and Forest Degradation (REDD+). In effect, it supports good governance by promoting transparency and accountability.
 
 {{< figure src="landsat-diwata-images.jpg" title="Landsat images of Cavite in natural colour (top) and Bulacan in false colour (bottom). The images on the left are shown using Landsat's original 30m spatial resolution while the images on the right were downscaled to 80m spatial resolution to show what the images taken by Diwata's SMI instrument might look like. (Acknowledgement: Data available from the United States Geological Survey.)" >}}
-<br/>
 
 ### After launch, what next?
 
