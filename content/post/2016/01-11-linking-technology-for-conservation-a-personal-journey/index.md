@@ -37,3 +37,11 @@ By working with a multi-disciplinary team, we had been successful in designing i
 And over the last fifteen years, that has been my career and, honestly, my personal mission that continues to this day. New technologies alone cannot conserve biodiversity no matter how these technologies improve conservation efforts by making it easier, faster, and cheaper to monitor threatened species and their habitats. That piece of advice I'll heed from Dr Stuart Pimm, also a professor at Duke University and the lead author of the study. He goes on to say [2]:
 
 > The challenge is to use technology more wisely, connect different technologies and get appropriate technologies at the hands of those that use them more effectively. [...] If we are to stem the current massive loss of species and ecosystems across the land and the oceans, we need to be much smarter and to engage many others to develop new approaches to the problems.
+
+**References:**
+
+[1] Pimm, SL, S Alibhai, R Bergl, A Dehgan, C Giri, Z Jewell, L Joppa, R Kays, S Loarie. 2015. Emerging technologies to conserve biodiversity. *Trends in Ecology & Evolution*. **30**(11):685-696. [[DOI](http://doi.org/10.1016/j.tree.2015.08.008)]. *
+
+[2] Office of News & Communications. 2015. Using--and sharing--new technologies is key for conservation. [[URL](https://today.duke.edu/2015/10/pimm-consv-tech-release-sh-kl)]; accessed on 10 January 2015].
+
+* In case you wish to read the paper but are unable to access it through a paywall, you can alternatively access the [article in press copy](https://www.researchgate.net/profile/Stuart_Pimm/publication/282593879_Emerging_Technologies_to_Conserve_Biodiversity/links/56164a8608ae37cfe408ae5f.pdf.
