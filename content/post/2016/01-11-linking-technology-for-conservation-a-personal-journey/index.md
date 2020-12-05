@@ -44,4 +44,4 @@ And over the last fifteen years, that has been my career and, honestly, my perso
 
 [2] Office of News & Communications. 2015. Using--and sharing--new technologies is key for conservation. [[URL](https://today.duke.edu/2015/10/pimm-consv-tech-release-sh-kl)]; accessed on 10 January 2015].
 
-* In case you wish to read the paper but are unable to access it through a paywall, you can alternatively access the [article in press copy](https://www.researchgate.net/profile/Stuart_Pimm/publication/282593879_Emerging_Technologies_to_Conserve_Biodiversity/links/56164a8608ae37cfe408ae5f.pdf.
+* In case you wish to read the paper but are unable to access it through a paywall, you can alternatively access the [article in press copy](https://www.researchgate.net/profile/Stuart_Pimm/publication/282593879_Emerging_Technologies_to_Conserve_Biodiversity/links/56164a8608ae37cfe408ae5f.pdf).
