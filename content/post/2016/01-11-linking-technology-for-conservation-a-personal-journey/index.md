@@ -7,9 +7,9 @@ date: "2016-01-11T11:00:00Z"
 draft: false
 featured: false
 image:
-  caption: ""
+  caption: "Identifying priority areas of high conservation value in Northern Sierra Madre Natural Park, Philippines (from a [paper](https://www.researchgate.net/publication/283856456_High_Conservation_Value_Areas_as_a_Strategic_Approach_for_Protected_Area_Management_in_the_Philippines) presented at the 36th Asian Conference on Remote Sensing)."
   focal_point: ""
-  placement: ""
+  placement: 2
   preview_only: false
 lastmod: "2016-01-11T11:00:00Z"
 projects: ""
