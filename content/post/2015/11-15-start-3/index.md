@@ -23,3 +23,10 @@ I was invited to speak at the technical colloquium entitled, Spatial Technologie
 On behalf of our entire team, Karen, Sheryl, and myself shared about our work on utilising geospatial technologies in support of conserving wildlife and their habitats through our various projects at Fauna & Flora International Philippines over the last five years. I presented our methods, results, and learnings on spatially explicit High Conservation Value Areas, forest biomass estimation using synthetic aperture radar, species distribution modelling, and forest and mangrove cover change detection. We also gladly responded to engaging questions and comments after the presentation.
 
 Here are some of the photos taken from last night's event:
+
+
+But more than this, I went home fulfilled since it was both an honour and a privilege to be given an opportunity to speak before esteemed faculty members and future geographers about Philippine biodiversity and the role that geospatial technologies play in supporting conservation science and action.
+
+Thank you again for inviting me, Ms Maria Simeona Martinez, Dr Daniel Mabazza, and UP Department of Geography!
+
+More photos and a blog post of S.T.A.R.T.3 via UPD Geography.
