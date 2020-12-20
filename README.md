@@ -1,4 +1,4 @@
-# Jose Don T De Alban
+# [dondealban](https://github.com/dondealban/dondealban)
 
 This is the GitHub repository of my website built with a static site generator using an ensemble of software tools including Hugo, R blogdown package and RStudio, GitHub, and hosted on Netlify. 
 
