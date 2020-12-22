@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: "2015-11-11T23:45:00Z"
-draft: true
+draft: false
 featured: false
 image:
   caption: ""
