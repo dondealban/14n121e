@@ -11,7 +11,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2016-10-07T23:45:00Z"
+lastmod: "2015-11-11T23:45:00Z"
 projects: ""
 subtitle:
 summary:
