@@ -24,6 +24,11 @@ On behalf of our entire team, Karen, Sheryl, and myself shared about our work on
 
 Here are some of the photos taken from last night's event:
 
+{{< gallery album="photos" >}}
+
+As a token of appreciation, I got to take this home...
+
+{{< figure src="9_token mug.jpeg" title="A nice token from last night's lecture at UPD Geography. My daughter, Dahon, pointed at the map on the mug and said 'Pilipinas'." >}}
 
 But more than this, I went home fulfilled since it was both an honour and a privilege to be given an opportunity to speak before esteemed faculty members and future geographers about Philippine biodiversity and the role that geospatial technologies play in supporting conservation science and action.
 
