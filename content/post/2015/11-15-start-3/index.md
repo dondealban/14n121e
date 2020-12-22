@@ -29,4 +29,4 @@ But more than this, I went home fulfilled since it was both an honour and a priv
 
 Thank you again for inviting me, Ms Maria Simeona Martinez, Dr Daniel Mabazza, and UP Department of Geography!
 
-More photos and a blog post of S.T.A.R.T.3 via UPD Geography.
+More [photos](https://www.facebook.com/media/set/?vanity=UPDGeography&set=a.1169197949792309) and a [blog post](http://updgeography.blogspot.com/2015/12/start-3-geospatial-technologies-for.html) of S.T.A.R.T.3 via UPD Geography.
