@@ -24,7 +24,7 @@ tags:
 - Landsat
 - LUCC
 - Philippines
-title: 'Polillos' forests on the brink.'
+title: 'Polillos forests on the brink.'
 ---
 On the way to Polillo town from Burdeos, I noticed the national road had many parts of it paved in concrete than ever before. Some years back, it was all dirt road and you could just imagine the difficulty getting from one town to the other, especially when it rained. Some sections were still left unpaved, but it was a sign of improvement no matter how slow the pace was.
 
