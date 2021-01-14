@@ -5,7 +5,7 @@ categories:
 - News
 date: "2020-03-22T00:00:00Z"
 draft: false
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""
