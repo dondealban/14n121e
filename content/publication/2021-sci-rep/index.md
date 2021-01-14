@@ -20,14 +20,14 @@ publishDate: "2021-01-11T00:00:00Z"
 slides: ""
 summary: In this paper, we highlighted the tenuous future for mangroves in Myanmar and magnified arguments for greater protection for a critical coastal ecosystem, which is particularly important as Myanmar strives to become more integrated into the regional and global markets for agriculture and aquaculture products. The fate of mangroves in Myanmar will be tied to the effectiveness of conservation policies while under pressure to convert to more lucrative but environmentally harmful land uses.
 tags:
-- agricultural expansion
-- mangrove deforestation
-- mangrove restoration
-- land cover change
-- Google Earth Engine
-- intensity analysis
-- systematic transition
-- Myanmar
+- deforestation
+- Dipterocarpaceae
+- MaxEnt
+- Philippines
+- protected areas
+- refugia
+- species distribution modeling
+- Southeast Asia
 title: Effects of climate change and land cover on the distributions of a critical tree family in the Philippines
 url_code: https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-79491-9/MediaObjects/41598_2020_79491_MOESM1_ESM.docx
 url_dataset: ""
