@@ -18,7 +18,7 @@ publication_types:
 - "2"
 publishDate: "2021-01-11T00:00:00Z"
 slides: ""
-summary: In this paper, we highlighted the tenuous future for mangroves in Myanmar and magnified arguments for greater protection for a critical coastal ecosystem, which is particularly important as Myanmar strives to become more integrated into the regional and global markets for agriculture and aquaculture products. The fate of mangroves in Myanmar will be tied to the effectiveness of conservation policies while under pressure to convert to more lucrative but environmentally harmful land uses.
+summary: In this paper, we modelled species distributions of dipterocarps in the Philippines, an important tree family that are key to maintaining structure and function of tropical forests in Southeast Asia, to understand potential impacts of deforestation and climate change on their current and future distributions.
 tags:
 - deforestation
 - Dipterocarpaceae
