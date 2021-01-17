@@ -30,7 +30,7 @@ subtitle = "Gallery of notable tweets on Twitter"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
