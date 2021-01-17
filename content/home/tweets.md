@@ -2,12 +2,12 @@
 # A Tweet Gallery section created with the Portfolio widget.
 # This section displays selected tweets from `content/tweet/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "Portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Tweets"
+title = "Tweet Gallery"
 subtitle = ""
 
 [content]
@@ -25,7 +25,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
