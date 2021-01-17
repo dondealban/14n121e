@@ -14,30 +14,23 @@ subtitle = ""
   # Page type to display. E.g. project.
   page_type = "tweet"
   
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 2
   
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-  
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
+  # Choose how many pages you would like to offset by
+  offset = 0
 
-  [[content.filter_button]]
-    name = "2021"
-    tag = "2021"
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
 
-  [[content.filter_button]]
-    name = "2020"
-    tag = "2020"
-    
-  [[content.filter_button]]
-    name = "2019"
-    tag = "2019"
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    exclude_featured = false
+    exclude_past = false
+    exclude_future = false
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
