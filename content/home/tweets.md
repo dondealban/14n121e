@@ -10,7 +10,7 @@ subtitle = "Gallery of notable tweets on Twitter"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "tweets"
+  page_type = "tweet"
 
   # Choose how much pages you would like to display (0 = all pages)
   count = 3
