@@ -1,11 +1,9 @@
 ---
 date: "2020-02-02T10:24:00Z"
-summary:
+external_link: ""
+summary: ""
 tags:
+- 2020
 title: ""
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 ---
 {{< tweet 1223794279769788417 >}}
