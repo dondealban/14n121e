@@ -1,5 +1,7 @@
 +++
 # A News section created with the Portfolio widget.
+# This section displays recent news from `content/news/`.
+
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
