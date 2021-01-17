@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Tweet Gallery"
-  content = {{< tweet 1348575114657296385 >}}
+  content = "{{< tweet 1348575114657296385 >}}"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
