@@ -1,5 +1,7 @@
 +++
 # A Projects section created with the Portfolio widget.
+# This section displays project pages from `content/projects/`.
+
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
