@@ -58,7 +58,7 @@ user_groups:
 
 I am a geographer and engineer interested in understanding land change as coupled human-natural systems toward achieving a sustainable future.
 
-In 2016, I joined the [National University of Singapore](http://www.nus.edu.sg) as a researcher at the [Applied Plant Ecology Lab](https://www.appliedplantecology.org) to understand the biophysical and socio-econo-political processes driving the profound agricultural transformation of tropical forest landscapes in Southeast Asia, integrating various quantitative and qualitative approaches in geographical research studies. 
+In 2016, I joined the [National University of Singapore](http://www.nus.edu.sg) as a researcher at the [Applied Plant Ecology Lab](https://www.appliedplantecology.org) to understand the processes and impacts—both biophysical and socio-econo-political—of the profound agricultural transformation of tropical forest landscapes in Southeast Asia, integrating various quantitative and qualitative approaches in geographical research studies. 
 
 Prior to joining academia, I was a conservation practitioner-scientist from 2000–2015, and worked with international, national, and local conservation organisations including [Fauna & Flora International](https://www.fauna-flora.org), [Foundation for the Philippine Environment](https://fpe.ph), and [Haribon Foundation](https://haribon.org.ph).
 
