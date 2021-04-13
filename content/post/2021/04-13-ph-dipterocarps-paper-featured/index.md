@@ -3,7 +3,7 @@ authors:
 - admin
 categories:
 - News
-date: "2021-04-13T09:00:00Z"
+date: "2021-04-12T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -11,8 +11,8 @@ image:
   focal_point: ""
   placement: 3
   preview_only: false
-lastmod: "2021-04-13T09:00:00Z"
-projects:
+lastmod: "2021-04-12T00:00:00Z"
+projects: ""
 subtitle:
 summary:
 tags:
