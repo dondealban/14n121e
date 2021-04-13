@@ -9,7 +9,7 @@ featured: false
 image:
   caption: "Photo credit: Ma. Rovelyn D. Tumaneng and Roven D. Tumaneng"
   focal_point: ""
-  placement: 2
+  placement: 3
   preview_only: false
 lastmod: "2021-04-13T09:00:00Z"
 projects:
@@ -29,6 +29,6 @@ Last quarter, we published a paper ['Effects of climate change and land cover on
 
 First, here's the link to the [online article](https://technology.inquirer.net/108340/climate-change-adversely-affects-philippine-hardwood-trees-study) in the Philippine Daily Inquirer by Ms Jhesset Enano. And second, here's the copy of the article in The Straits Times bby Ms Audrey Tan (link to [online article](https://www.straitstimes.com/singapore/environment/s-e-asias-forest-giants-face-uncertain-future-study?utm_source=dlvr.it&utm_medium=twitter) for subscribers):
 
-![jpg](./tan_2021_the-straits-times.jpg)
+{{< figure src="tan_2021_the-straits-times.jpg" title="News article of our Philippines dipterocarps paper featured in The Straits Times. (Copyright: The Straits Times)." >}}
 
 As of writing this post, the [Altmetrics](https://www.nature.com/articles/s41598-020-79491-9/metrics) score of the paper is at 50 with 3733 accesses, and lo and behold, one citation. You can tell that I am savouring this over-the-moon post-publication feeling.
