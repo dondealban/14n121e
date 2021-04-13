@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: "2021-04-13T09:00:00Z"
-draft: true
+draft: false
 featured: false
 image:
   caption: ""
