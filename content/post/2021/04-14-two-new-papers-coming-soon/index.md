@@ -10,7 +10,7 @@ image:
   caption: ""
   focal_point: ""
   placement: ""
-  preview_only: false
+  preview_only: true
 lastmod: "2021-04-13T00:00:00Z"
 projects: ""
 subtitle:
@@ -34,5 +34,5 @@ I have two new papers coming out soon. First, about the drivers and mechanisms o
 Watch this space!
 
 {{< figure src="proof_glob-environ-change-paper.png" title="Upcoming article about the drivers and mechanisms of forest change in the Himalayas by Verma et al. in Global Environmental Change." >}}
-
+</br>
 {{< figure src="proof_biol-conserv-paper.png" title="Upcoming article about the conservation required beyond the existing protected area network to improve species and habitat representation in a global biodiversity hotspot by De Alban et al. in Biological Conservation." >}}
