@@ -6,7 +6,7 @@ authors:
 - Edward L Webb
 date: "2021-01-11T00:00:00Z"
 doi: "10.1038/s41598-020-79491-9"
-featured: true
+featured: false
 image:
   caption: "Model prediction of Dipterocarpaceae richness in Luzon, Philippines for 19 dipterocarps. Left: the initial model output showing total species richness based on climate suitability only. Middle: the predicted species richness when removing deforested areas. Right: Projections of species richness in the year 2070, considering only forested areas. Red polygons show the current protected area network. The figure shows huge losses of dipterocarp ranges owing to deforestation and that much of the most species-rich areas projected in 2070 remain outside of the current protected area network."
   focal_point: ""
