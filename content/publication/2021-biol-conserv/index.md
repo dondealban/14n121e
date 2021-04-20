@@ -24,26 +24,24 @@ publication_types:
 - "2"
 publishDate: "2021-04-17T00:00:00Z"
 slides: ""
-summary: In this paper, we modelled species distributions of dipterocarps in the Philippines, an important tree family that are key to maintaining structure and function of tropical forests in Southeast Asia, to understand potential impacts of deforestation and climate change on their current and future distributions.
+summary: In this paper, we evaluated the representation of wildlife and forest types within protected areas. Current protected area network underrepresented wildlife species and forest types. Spatial prioritisation identified additional priority areas to meet representation targets. Modest expansion via area-based conservation strategies can enhance protected area effectiveness. Conservation efforts must prioritise involvement and leadership of local communities.
 tags:
-- deforestation
-- Dipterocarpaceae
-- MaxEnt
-- Philippines
-- protected areas
-- refugia
-- species distribution modeling
+- agribusiness concession
+- community-based conservation
+- Indo-Burma
+- Marxan
 - Southeast Asia
-title: Effects of climate change and land cover on the distributions of a critical tree family in the Philippines
-url_code: https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-79491-9/MediaObjects/41598_2020_79491_MOESM1_ESM.docx
+- systematic conservation planning
+title: Conservation beyond the existing protected area network is required to improve species and habitat representation in a global biodiversity hotspot
+url_code: https://ars.els-cdn.com/content/image/1-s2.0-S0006320721001579-mmc1.pdf
 url_dataset: ""
-url_pdf: https://www.nature.com/articles/s41598-020-79491-9.pdf
+url_pdf: https://reader.elsevier.com/reader/sd/pii/S0006320721001579?token=DCA182E6DCC112005562DCCA84E4D473DD735170333A0F7803289B75CD0630D0EF1B2B071000A86223A46B799861F58F&originRegion=eu-west-1&originCreation=20210420053911
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
 ---
-<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1038/s41598-020-79491-9" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1016/j.biocon.2021.109105" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-020-79491-9" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2021.109105" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
