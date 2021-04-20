@@ -1,22 +1,28 @@
 ---
-abstract: Southeast Asian forests are dominated by the tree family Dipterocarpaceae, whose abundance and diversity are key to maintaining the structure and function of tropical forests. Like most biodiversity, dipterocarps are threatened by deforestation and climate change, so it is crucial to understand the potential impacts of these threats on current and future dipterocarp distributions. We developed species distribution models (SDMs) for 19 species of dipterocarps in the Philippines, which were projected onto current and two 2070 representative concentration pathway (RCP) climate scenarios, RCP 4.5 and 8.5. Current land cover was incorporated as a post-hoc correction to restrict projections onto intact habitats. Land cover correction alone reduced current species distributions by a median 67%, and within protected areas by 37%. After land cover correction, climate change reduced distributions by a median 16% (RCP 4.5) and 27% (RCP 8.5) at the national level, with similar losses in protected areas. There was a detectable upward elevation shift of species distributions, consisting of suitable habitat losses below 300 m and gains above 600 m. Species-rich stable areas of continued habitat suitability (i.e., climate macrorefugia) fell largely outside current delineations of protected areas, indicating a need to improve protected area planning. This study highlights how SDMs can provide projections that can inform protected area planning in the tropics.
+abstract: Adequate representation of species and habitats is a critical aspect of an effective protected area (PA) network. Here, we evaluate the representation of focal wildlife species and forest types within the existing 11,241-km2 PA network of the Tanintharyi Region in southern Myanmar, a frontier forest landscape and global biodiversity hotspot, and use spatial prioritisation tools to identify additional priority areas for conservation outside the existing network that contribute towards meeting a 30\% representation target. Our study showed that the current configuration of the existing PA network underrepresented 32 of 60 threatened wildlife species and 6 of 8 forest types, with mangroves being the least represented. Spatial prioritisation revealed that by protecting an additional 4032 km2 (8.4\% of Tanintharyi's land area), 31\% of which were adjacent to the existing PA network, the target representation for all wildlife species and forest types can be achieved. Enhancing the effectiveness of the existing network entails modest expansion by establishing additional conservation areas through various area-based conservation strategies, specifically targeting mangrove forests. Large oil palm agribusiness concessions, however, overlapped with almost 12\% of priority conservation areas (consisting of additional areas and parts of the existing PA network), thereby competing with conservation interests. Expanding the area of representation will only succeed if the species and their habitats are adequately protected. Efforts therefore must prioritise the involvement and leadership of local communities and reflect local realities in negotiations among stakeholders.
 authors:
-- Sean E H Pang
 - admin
+- Bryan Leong Po Ian
+- Ruben Venegas-Li
+- Grant M Connette
+- Johanness Jamaludin
+- Kyaw Thinn Latt
+- Patrick Oswald
+- Carl Reeder
 - Edward L Webb
-date: "2021-01-11T00:00:00Z"
-doi: "10.1038/s41598-020-79491-9"
+date: "2021-04-17T00:00:00Z"
+doi: "10.1016/j.biocon.2021.109105"
 featured: true
 image:
-  caption: "Model prediction of Dipterocarpaceae richness in Luzon, Philippines for 19 dipterocarps. Left: the initial model output showing total species richness based on climate suitability only. Middle: the predicted species richness when removing deforested areas. Right: Projections of species richness in the year 2070, considering only forested areas. Red polygons show the current protected area network. The figure shows huge losses of dipterocarp ranges owing to deforestation and that much of the most species-rich areas projected in 2070 remain outside of the current protected area network."
+  caption: "Priority conservation areas (left map panel) and irreplaceable areas (right map panel), identified using Marxan to enhance the effectiveness of the existing protected area network. Note that planning units with very high selection frequencies (90–100%) are regarded as irreplaceable areas. Map inset (A) shows identified conservation areas within and around established protected areas by the Karen National Union; map inset (B) shows identified conservation areas over mangrove forests along the coastline of Myeik District, Tanintharyi Region. Protected areas include: (1) Tanintharyi Nature Reserve, (2) Ler Nu Htee National Park, (3) Moscos Kyun Wildlife Reserve, (4) Ta Mae Klo Herbal Forest, (5) Kser Doh Wildlife Sanctuary, (6) Tanintharyi National Park (or Lem Muh Lah Conservation Area), (7) Lenya National Park (or Lenya Reserved Forest), (8) Lampi Island Marine National Park, and (9) Pakchan Nature Reserve."
   focal_point: ""
   preview_only: false
 projects:
-publication: '*Scientific Reports*'
+publication: '*Biological Conservation*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-01-11T00:00:00Z"
+publishDate: "2021-04-17T00:00:00Z"
 slides: ""
 summary: In this paper, we modelled species distributions of dipterocarps in the Philippines, an important tree family that are key to maintaining structure and function of tropical forests in Southeast Asia, to understand potential impacts of deforestation and climate change on their current and future distributions.
 tags:
