@@ -18,6 +18,8 @@ image:
   focal_point: ""
   preview_only: false
 projects:
+- 04_myanmar-tier2
+- 05_beyond-deforestation
 publication: '*Biological Conservation*'
 publication_short: ""
 publication_types:
