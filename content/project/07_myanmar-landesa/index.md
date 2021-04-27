@@ -2,7 +2,7 @@
 date: "2021-04-22T00:00:00Z"
 external_link: ""
 image:
-  caption: ""
+  caption: A pristine mangrove forest dominated by *Rhizophora mucronata* at Lampi Island, Tanintharyi, Myanmar (c) Maung Maung Than
   focal_point: Smart
 links: ""
 summary: Assessing outcomes in certified community mangrove forests in Myanmar.
