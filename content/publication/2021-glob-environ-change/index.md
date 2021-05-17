@@ -1,49 +1,42 @@
 ---
-abstract: Adequate representation of species and habitats is a critical aspect of an effective protected area (PA) network. Here, we evaluate the representation of focal wildlife species and forest types within the existing 11,241-km2 PA network of the Tanintharyi Region in southern Myanmar, a frontier forest landscape and global biodiversity hotspot, and use spatial prioritisation tools to identify additional priority areas for conservation outside the existing network that contribute towards meeting a 30\% representation target. Our study showed that the current configuration of the existing PA network underrepresented 32 of 60 threatened wildlife species and 6 of 8 forest types, with mangroves being the least represented. Spatial prioritisation revealed that by protecting an additional 4032 km2 (8.4\% of Tanintharyi's land area), 31\% of which were adjacent to the existing PA network, the target representation for all wildlife species and forest types can be achieved. Enhancing the effectiveness of the existing network entails modest expansion by establishing additional conservation areas through various area-based conservation strategies, specifically targeting mangrove forests. Large oil palm agribusiness concessions, however, overlapped with almost 12\% of priority conservation areas (consisting of additional areas and parts of the existing PA network), thereby competing with conservation interests. Expanding the area of representation will only succeed if the species and their habitats are adequately protected. Efforts therefore must prioritise the involvement and leadership of local communities and reflect local realities in negotiations among stakeholders.
+abstract: Mountains are critical ecosystems that have a strong influence far beyond their topographic boundaries. More than 50 million people inhabit the Himalayas, and more than one billion people depend on the ecosystem services they provide. Anthropogenic activities have driven concurrent deforestation and regeneration in the Himalayas, and interventions to reduce forest loss and promote forest recovery require a synthetic understanding of the complex and interacting drivers of forest change. We conducted a systematic review of case studies from 1984 to 2020 (n=137) and combined a system dynamics approach with a causal network analysis to identify, map and articulate the relationships between the drivers, actors and mechanisms of forest change across the entirety of the Himalayan mountain range. In total, the analysis revealed five proximate drivers, 12 underlying drivers, two institutional factors and five ‘other’ factors connected by a total of 221 linkages. Forest change dynamics have been dominated by widespread smallholder agriculture, extensive non-timber forest product extraction, widespread commercial and non-commercial timber extraction, and high rates of agricultural abandonment. Underlying drivers include population growth, poor agricultural productivity, international support for development projects, and successful community forest management systems. Contradictory linkages emerge from a combination of contextual factors, which can have negative impacts on conservation goals. Global processes such as shifts in governance, transnational infrastructure-development programs, economic slowdowns, labor migrations and climate change threaten to destabilize established dynamics and change forest trajectories. The underlying and proximate drivers interact through multiple pathways that can be utilized to achieve conservation goals. Based on this analysis, we highlight five thematic focus areas to curtail forest loss and promote recovery: (1) decreasing the population pressure, (2) sustainable increase of agricultural productivity, (3) strengthening of forest management institutions, (4) leveraging tourism growth and sustainable infrastructure expansion, and (5) fuel transition and establishing firewood plantations on degraded land. The broader adoption of systems thinking, and specifically a system dynamics approach and causal network analysis, will greatly enhance the rigour of policy development, help design site-specific interventions at multiple spatial scales which can respond to local and global changes, and guide deeper inquiry to enhance our understanding of driver-forest dynamics.
 authors:
+- Akash Verma
+- Dietrich Schmidt-Vogt
 - admin
-- Bryan Leong Po Ian
-- Ruben Venegas-Li
-- Grant M Connette
-- Johanness Jamaludin
-- Kyaw Thinn Latt
-- Patrick Oswald
-- Carl Reeder
+- Cheng Ling Lim
 - Edward L Webb
-date: "2021-04-17T00:00:00Z"
-doi: "10.1016/j.biocon.2021.109105"
+date: "2021-05-11T00:00:00Z"
+doi: "10.1016/j.gloenvcha.2021.102244"
 featured: true
 image:
-  caption: "Priority conservation areas (left map panel) and irreplaceable areas (right map panel), identified using Marxan to enhance the effectiveness of the existing protected area network. Note that planning units with very high selection frequencies (90–100%) are regarded as irreplaceable areas. Map inset (A) shows identified conservation areas within and around established protected areas by the Karen National Union; map inset (B) shows identified conservation areas over mangrove forests along the coastline of Myeik District, Tanintharyi Region. Protected areas include: (1) Tanintharyi Nature Reserve, (2) Ler Nu Htee National Park, (3) Moscos Kyun Wildlife Reserve, (4) Ta Mae Klo Herbal Forest, (5) Kser Doh Wildlife Sanctuary, (6) Tanintharyi National Park (or Lem Muh Lah Conservation Area), (7) Lenya National Park (or Lenya Reserved Forest), (8) Lampi Island Marine National Park, and (9) Pakchan Nature Reserve."
+  caption: "Causal network diagram showing the relationships between proximate and underlying drivers, institutional factors, and other factors of forest change in the Himalayas. The arrows indicate the direction of influence, from driver to effect and the boxed number indicates the frequency of occurrence of the relationship in the case studies. The colour of the arrows indicates whether the effect is directly associated (black) or inversely associated (red). Relationships occurring in four or more case studies are represented here. Thicker lines represent most prevalent relationships (10 or more case studies). Definitions of acronyms are given in Table 2. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)"
   focal_point: ""
   preview_only: false
-projects:
-- 04_myanmar-tier2
-- 05_beyond-deforestation
-publication: '*Biological Conservation*'
+projects: ""
+publication: '*Global Environmental Change*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-04-17T00:00:00Z"
+publishDate: "2021-05-11T00:00:00Z"
 slides: ""
 summary: In this paper, we evaluated the representation of wildlife and forest types within protected areas. Current protected area network underrepresented wildlife species and forest types. Spatial prioritisation identified additional priority areas to meet representation targets. Modest expansion via area-based conservation strategies can enhance protected area effectiveness. Conservation efforts must prioritise involvement and leadership of local communities.
 tags:
-- agribusiness concession
-- community-based conservation
-- Indo-Burma
-- Marxan
-- Southeast Asia
-- systematic conservation planning
-title: Conservation beyond the existing protected area network is required to improve species and habitat representation in a global biodiversity hotspot
-url_code: https://ars.els-cdn.com/content/image/1-s2.0-S0006320721001579-mmc1.pdf
+- community forest management
+- deforestation
+- regeneration
+- Sustainable Development Goals
+- system dynamics
+title: Drivers and mechanisms of forest change in the Himalayas
+url_code: ""
 url_dataset: ""
-url_pdf: https://reader.elsevier.com/reader/sd/pii/S0006320721001579?token=DCA182E6DCC112005562DCCA84E4D473DD735170333A0F7803289B75CD0630D0EF1B2B071000A86223A46B799861F58F&originRegion=eu-west-1&originCreation=20210420053911
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
 ---
-<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1016/j.biocon.2021.109105" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1016/j.gloenvcha.2021.102244" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biocon.2021.109105" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.gloenvcha.2021.102244" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
