@@ -20,7 +20,7 @@ publication_types:
 - "2"
 publishDate: "2021-05-11T00:00:00Z"
 slides: ""
-summary: In this paper, we evaluated the representation of wildlife and forest types within protected areas. Current protected area network underrepresented wildlife species and forest types. Spatial prioritisation identified additional priority areas to meet representation targets. Modest expansion via area-based conservation strategies can enhance protected area effectiveness. Conservation efforts must prioritise involvement and leadership of local communities.
+summary: In this paper, we conducted a systematic review of case studies and a causal network analysis to identify, map, and articulate the relationships between the drivers, actors, and mechanisms of forest change across Himalayas.
 tags:
 - community forest management
 - deforestation
