@@ -7,13 +7,13 @@ image:
 links: ""
 summary: Assessing outcomes in certified community mangrove forests in Myanmar.
 tags:
-- community forestry
 - community-based forest management 
+- community forest certification
+- community forestry
 - land use/land cover change
 - mangroves
 - Myanmar
 - remote sensing
-- rubber
 - Southeast Asia
 title: Mangrove Outcomes in Certified Community Forests in Myanmar.
 url_code: ""
