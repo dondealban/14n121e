@@ -10,6 +10,7 @@ tags:
 - community-based forest management 
 - community forest certification
 - community forestry
+- ecosystem services
 - land use/land cover change
 - mangroves
 - Myanmar
@@ -24,4 +25,6 @@ url_video: ""
 
 **MANGROVE OUTCOMES IN CERTIFIED COMMUNITY FORESTS IN MYANMAR (2021—2022).**
 
-Under construction. Watch this space.
+It is recognised that community-based forest management is a potential mechanism to both prevent forest cover loss whilst securing the livelihoods of communities that depend on them. In Myanmar, community forest certification (CFC) for mangrove forests is gaining traction as a mechanism to protect valuable coastal forests whilst allowing communities to enjoy greater land tenure security and benefits from their numerous ecosystem services.
+
+
