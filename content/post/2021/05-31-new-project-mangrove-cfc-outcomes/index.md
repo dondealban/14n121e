@@ -27,4 +27,4 @@ tags:
 - Southeast Asia
 title: 'New project on assessing outcomes in certified community mangrove forests.'
 ---
-
+This month, we started a new [research project](https://dondealban.netlify.app/project/07_myanmar-landesa/) that intends to assess the outcomes of certified community mangrove forests in Myanmar.
