@@ -12,7 +12,9 @@ image:
   placement: ""
   preview_only: true
 lastmod: "2021-04-14T00:00:00Z"
-projects: ""
+projects:
+- 04_myanmar-tier2
+- 05_beyond-deforestation
 subtitle:
 summary:
 tags:
