@@ -12,7 +12,8 @@ image:
   placement: ""
   preview_only: true
 lastmod: "2021-05-31T00:00:00Z"
-projects: ""
+projects:
+- 07_myanmar-landesa
 subtitle:
 summary:
 tags:
