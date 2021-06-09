@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: land change | conservation | political ecology | sustainability | Southeast Asia
+bio: land change | remote sensing | conservation | political ecology | sustainability | Southeast Asia
 education:
   courses:
   - course: ""
@@ -16,6 +16,7 @@ education:
 email: ""
 interests:
 - Land Change
+- Remote Sensing
 - Conservation
 - Political Ecology
 - Sustainability
@@ -62,4 +63,4 @@ In 2016, I joined the [National University of Singapore](http://www.nus.edu.sg) 
 
 Prior to joining academia, I was a conservation practitioner-scientist from 2000–2015, and worked with international, national, and local conservation organisations including [Fauna & Flora International](https://www.fauna-flora.org), [Foundation for the Philippine Environment](https://fpe.ph), and [Haribon Foundation](https://haribon.org.ph).
 
-I am a member of the [Global Land Programme](https://glp.earth/users/jose-don-de-alban), the [Biodiversity Conservation Society of the Philippines](http://www.biodiversity.ph), and the [Philippine Geographical Society](https://phgeographicalsociety.org), and a science team member of the [ALOS Kyoto & Carbon Initiative](https://www.eorc.jaxa.jp/ALOS/en/kyoto/kyoto_index.htm).
+I am a member of the [Global Land Programme](https://glp.earth/users/jose-don-de-alban), the [Biodiversity Conservation Society of the Philippines](http://www.biodiversity.ph), and the [Philippine Geographical Society](https://phgeographicalsociety.org), and a former science team member of the [ALOS Kyoto & Carbon Initiative](https://www.eorc.jaxa.jp/ALOS/en/kyoto/kyoto_index.htm).
