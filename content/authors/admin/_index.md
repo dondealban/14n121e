@@ -62,7 +62,7 @@ I am a geographer and engineer interested in understanding land change as couple
 
 Presently, I am a researcher at the [Centre for Nature-based Climate Solutions](https://www.nus.edu.sg/cncs/) at the [National University of Singapore](http://www.nus.edu.sg), working on projects applying remote sensing and geospatial technologies and techniques for forest measurement, monitoring, reporting, and verification (M & MRV) and [nature-based solutions](https://www.nus.edu.sg/cncs/research/overview/).
 
-Between 2016–mid-2021, I was a researcher at the [Applied Plant Ecology Lab](https://www.appliedplantecology.org), studying the processes and impacts—both biophysical and socio-econo-political—of the profound agricultural transformation of tropical forest landscapes in Southeast Asia by integrating various quantitative and qualitative approaches in geographical research studies. 
+Between 2016–mid-2021, I was a researcher at the [Applied Plant Ecology Lab](https://www.appliedplantecology.org), also at the [National University of Singapore](http://www.nus.edu.sg), studying the processes and impacts—both biophysical and socio-econo-political—of the profound agricultural transformation of tropical forest landscapes in Southeast Asia by integrating various quantitative and qualitative approaches in geographical research studies. 
 
 Prior to joining academia (c. 2000–2015), I was a conservation practitioner-scientist and worked with international, national, and local conservation organisations including [Fauna & Flora International](https://www.fauna-flora.org), [Foundation for the Philippine Environment](https://fpe.ph), and [Haribon Foundation](https://haribon.org.ph).
 
