@@ -58,8 +58,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-I am a geographer and engineer interested in understanding land change as coupled human-natural systems toward achieving a sustainable future.
+I am a geographer and engineer interested in understanding land change as coupled human-natural systems, with an aim to develop solutions to address sustainability challenges in Southeast Asia.
 
 Presently, I am a researcher at the [Centre for Nature-based Climate Solutions](https://www.nus.edu.sg/cncs/) at the [National University of Singapore](http://www.nus.edu.sg) working on projects applying remote sensing and geospatial technologies and techniques for forest measurement, monitoring, reporting, and verification (M & MRV) and [nature-based solutions](https://www.nus.edu.sg/cncs/research/overview/).
 
