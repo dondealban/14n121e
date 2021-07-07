@@ -24,9 +24,9 @@ interests:
 name: Jose Don T De Alban
 organizations:
 - name: Centre for Nature-based Climate Solutions
-  url: "http://www.nus.edu.sg"
-- name: National University of Singapore
   url: "https://www.nus.edu.sg/cncs/"
+- name: National University of Singapore
+  url: "http://www.nus.edu.sg"
 role: Research Associate
 social:
 - icon: twitter
