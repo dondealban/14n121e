@@ -30,7 +30,7 @@ tags:
 - land use change
 - woody encroachment
 title: Greater loss and fragmentation of savannas than forests over the last three decades in Yunnan Province, China
-url_code: https://iopscience.iop.org/article/10.1088/1748-9326/ac3aa2
+url_code: https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1748-9326/17/1/014003/revision2/erlac3aa2supp1.pdf?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1652059104&Signature=9O9ExioYx5ZTcmOpZKW8%2FDu2eA4%3D
 url_dataset: ""
 url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/ac3aa2/pdf
 url_poster: ""
