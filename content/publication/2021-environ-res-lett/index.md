@@ -20,7 +20,7 @@ publication_types:
 - "2"
 publishDate: "2021-12-21T00:00:00Z"
 slides: ""
-summary: In this paper, we modelled species distributions of dipterocarps in the Philippines, an important tree family that are key to maintaining structure and function of tropical forests in Southeast Asia, to understand potential impacts of deforestation and climate change on their current and future distributions.
+summary: Here, we assessed how much savanna had changed in Yunnan over three decades in terms of area and fragmentation, and how much of these changes were due to human intervention versus vegetation transition. We also assessed how climate, landscape accessibility, and fire had altered transition rates.
 tags:
 - climate-vegetation interactions
 - fire
