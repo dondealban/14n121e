@@ -12,7 +12,7 @@ authors:
 - Edward L Webb
 date: "2021-04-17T00:00:00Z"
 doi: "10.1016/j.biocon.2021.109105"
-featured: true
+featured: false
 image:
   caption: "Priority conservation areas (left map panel) and irreplaceable areas (right map panel), identified using Marxan to enhance the effectiveness of the existing protected area network. Note that planning units with very high selection frequencies (90–100%) are regarded as irreplaceable areas. Map inset (A) shows identified conservation areas within and around established protected areas by the Karen National Union; map inset (B) shows identified conservation areas over mangrove forests along the coastline of Myeik District, Tanintharyi Region. Protected areas include: (1) Tanintharyi Nature Reserve, (2) Ler Nu Htee National Park, (3) Moscos Kyun Wildlife Reserve, (4) Ta Mae Klo Herbal Forest, (5) Kser Doh Wildlife Sanctuary, (6) Tanintharyi National Park (or Lem Muh Lah Conservation Area), (7) Lenya National Park (or Lenya Reserved Forest), (8) Lampi Island Marine National Park, and (9) Pakchan Nature Reserve."
   focal_point: ""
