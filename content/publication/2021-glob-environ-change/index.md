@@ -8,7 +8,7 @@ authors:
 - Edward L Webb
 date: "2021-05-11T00:00:00Z"
 doi: "10.1016/j.gloenvcha.2021.102244"
-featured: true
+featured: false
 image:
   caption: "Causal network diagram showing the relationships between proximate and underlying drivers, institutional factors, and other factors of forest change in the Himalayas. The arrows indicate the direction of influence, from driver to effect and the boxed number indicates the frequency of occurrence of the relationship in the case studies. The colour of the arrows indicates whether the effect is directly associated (black) or inversely associated (red). Relationships occurring in four or more case studies are represented here. Thicker lines represent most prevalent relationships (10 or more case studies). Definitions of acronyms are given in Table 2. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)"
   focal_point: ""
