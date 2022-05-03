@@ -1,5 +1,5 @@
 ---
-abstract: I was invited by Prof Janice Ser Huay Lee to give a guest lecture for her students studying Coupled Human and Natural Systems at the Asian School of Environment of the Nanyang Technological University. I shared about my ongoing research on understanding land-system change in Myanmar, as well as scale-up work in mainland Southeast Asia, which was particularly aligned to her course topic for the week on forests and agriculture.
+abstract: I gave a talk on how science can help inform policies and decisions on climate and biodiversity to science school teachers during an online webinar during the STEMchat webinar series hosted by the Science Centre Singapore.
 address:
   city: []
   country: []
@@ -8,13 +8,13 @@ address:
   street: []
 all_day: false
 authors: []
-date: "2020-04-07T15:30:00Z"
-date_end: "2020-04-07T17:30:00Z"
-event: NTU ASE Online Zoom Guest Lecture 
+date: "2021-10-14T16:00:00Z"
+date_end: "2021-10-14T17:00:00Z"
+event: STEMchat Webinar Series 
 event_url: 
 featured: false
 image:
-  caption: 'Image credit: Janice Ser Huay Lee'
+  caption: 'Image credit: Yao Tek Ong'
   focal_point: Right
 links:
 - icon: twitter
@@ -25,18 +25,18 @@ location: Singapore
 math: true
 projects:
 - 04_myanmar-tier2
-publishDate: "2020-04-08T16:00:00Z"
+publishDate: "2021-10-14T17:00:00Z"
 slides: ""
-summary: Online Zoom lecture about my research on understanding land change in Myanmar and the rest of Southeast Asia given to undergraduate and postgraduate students of Prof Janice Ser Huay Lee at the Asian School of Environment of Nanyang Technological University.
+summary: Online talk about how science can help inform policies and decisions on climate and biodiversity during the STEMchat webinar series by Science Centre Singapore.
 tags:
-- CHANS
-- land change
+- biodiversity
 - lecture
+- nature-based climate solutions
+- nature-based solutions
 - scicomm
-title: NTU ASE Online Zoom Guest Lecture
+title: Science Centre Singapore STEMchat Webinar Series 
 url_code: ""
 url_pdf: ""
-url_slides: https://www.dropbox.com/s/2pn30yf9w8c3pl5/De%20Alban_NTU%20ASE%20Online%20Zoom%20Lecture_Lecture%20Slides.pdf?dl=0
+url_slides: https://www.dropbox.com/s/jd0zyip9m39pymt/De%20Alban_Science%20Centre%20STEMChat%20Webinar%20Series_Slides.pdf?dl=0
 url_video: ""
 ---
-{{< tweet 1247571635428683777 >}}
