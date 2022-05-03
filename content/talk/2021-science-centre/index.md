@@ -26,7 +26,7 @@ math: true
 projects: ""
 publishDate: "2021-10-14T17:00:00Z"
 slides: ""
-summary: Online talk about how science can help inform policies and decisions on climate and biodiversity during the STEMchat webinar series by Science Centre Singapore.
+summary: Online talk about how science can help inform policies and decisions on climate and biodiversity during the STEMchat webinar series by [Science Centre Singapore](https://www.science.edu.sg).
 tags:
 - biodiversity
 - lecture
