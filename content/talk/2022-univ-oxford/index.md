@@ -12,7 +12,7 @@ date: "2022-07-05T08:00:00Z"
 date_end: "2022-07-07T17:00:00Z"
 event: Nature-based Solutions Conference 2022 
 event_url: https://www.naturebasedsolutionsoxford.org
-featured: false
+featured: true
 image:
   caption: ""
   focal_point: Right
