@@ -27,7 +27,7 @@ projects:
 - 04_myanmar-tier2
 publishDate: "2020-04-08T16:00:00Z"
 slides: ""
-summary: Online Zoom lecture about my research on understanding land change in Myanmar and the rest of Southeast Asia given to undergraduate and postgraduate students of Prof Janice Ser Huay Lee at the Asian School of Environment of Nanyang Technological University.
+summary: Online Zoom lecture about my land change research for students of Prof Janice Ser Huay Lee at the Asian School of Environment of Nanyang Technological University.
 tags:
 - CHANS
 - land change
