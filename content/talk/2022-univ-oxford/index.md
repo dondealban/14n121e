@@ -10,8 +10,8 @@ all_day: false
 authors: []
 date: "2021-10-14T16:00:00Z"
 date_end: "2021-10-14T17:00:00Z"
-event: STEMchat Webinar Series 
-event_url: 
+event: Nature-based Solutions Conference 2022 
+event_url: https://www.naturebasedsolutionsoxford.org
 featured: false
 image:
   caption: 'Image credit: Yao Tek Ong'
