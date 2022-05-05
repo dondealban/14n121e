@@ -8,8 +8,8 @@ address:
   street: Oxford University Museum of Natural History, Parks Road
 all_day: false
 authors: []
-date: "2022-07-05T00:00:00Z"
-date_end: "2022-07-07T24:00:00Z"
+date: "2022-07-05T08:00:00Z"
+date_end: "2022-07-07T17:00:00Z"
 event: Nature-based Solutions Conference 2022 
 event_url: https://www.naturebasedsolutionsoxford.org
 featured: true
