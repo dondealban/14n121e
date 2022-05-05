@@ -26,7 +26,7 @@ math: true
 projects: ""
 publishDate: "2022-05-05T09:00:00Z"
 slides: ""
-summary: Upcoming poster presentation at the [Nature-based Solutions Conference 2022](https://www.naturebasedsolutionsoxford.org).
+summary: Upcoming poster presentation at the [Nature-based Solutions Conference 2022](https://www.naturebasedsolutionsoxford.org). Watch this space.
 tags:
 - biodiversity
 - lecture
