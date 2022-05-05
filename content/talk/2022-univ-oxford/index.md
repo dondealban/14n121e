@@ -28,10 +28,13 @@ publishDate: "2022-05-05T00:00:00Z"
 slides: ""
 summary: Online talk about how science can help inform policies and decisions on climate and biodiversity during the STEMchat webinar series by [Science Centre Singapore](https://www.science.edu.sg).
 tags:
-- biodiversity
-- lecture
+- conference
+- M & MRV
+- measurement, monitoring, reporting, verification
 - nature-based climate solutions
 - nature-based solutions
+- poster session
+- remote sensing
 - scicomm
 title: Nature-based Solutions Conference 2022 
 url_code: ""
