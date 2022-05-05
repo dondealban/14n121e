@@ -21,10 +21,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/dondealban
-location: Singapore
+location: United Kingdom
 math: true
 projects: ""
-publishDate: "2022-05-05T09:00:00Z"
+publishDate: "2022-05-05T00:00:00Z"
 slides: ""
 summary: Online talk about how science can help inform policies and decisions on climate and biodiversity during the STEMchat webinar series by [Science Centre Singapore](https://www.science.edu.sg).
 tags:
