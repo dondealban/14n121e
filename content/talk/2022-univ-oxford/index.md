@@ -1,11 +1,11 @@
 ---
 abstract: I gave a talk on how science can help inform policies and decisions on climate and biodiversity to science school teachers during an online webinar during the STEMchat webinar series hosted by the Science Centre Singapore.
 address:
-  city: []
-  country: []
-  postcode: []
+  city: Oxford
+  country: United Kingdom
+  postcode: OX1 3PW
   region: []
-  street: []
+  street: Oxford University Museum of Natural History, Parks Road
 all_day: false
 authors: []
 date: "2022-07-05T08:00:00Z"
@@ -14,7 +14,7 @@ event: Nature-based Solutions Conference 2022
 event_url: https://www.naturebasedsolutionsoxford.org
 featured: false
 image:
-  caption: 'Image credit: Yao Tek Ong'
+  caption: ""
   focal_point: Right
 links:
 - icon: twitter
