@@ -33,9 +33,9 @@ tags:
 - nature-based climate solutions
 - nature-based solutions
 - scicomm
-title: Science Centre Singapore STEMchat Webinar Series 
+title: Nature-based Solutions Conference 2022 
 url_code: ""
 url_pdf: ""
-url_slides: https://www.dropbox.com/s/jd0zyip9m39pymt/De%20Alban_Science%20Centre%20STEMChat%20Webinar%20Series_Slides.pdf?dl=0
+url_slides: ""
 url_video: ""
 ---
