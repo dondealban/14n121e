@@ -21,18 +21,19 @@ publishDate: "2022-05-09T00:00:00Z"
 slides: ""
 summary: In this paper, we modelled species distributions of dipterocarps in the Philippines, an important tree family that are key to maintaining structure and function of tropical forests in Southeast Asia, to understand potential impacts of deforestation and climate change on their current and future distributions.
 tags:
-- deforestation
-- Dipterocarpaceae
-- MaxEnt
-- Philippines
-- protected areas
-- refugia
-- species distribution modeling
-- Southeast Asia
-title: Effects of climate change and land cover on the distributions of a critical tree family in the Philippines
-url_code: https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-79491-9/MediaObjects/41598_2020_79491_MOESM1_ESM.docx
+- data quality
+- ecological niche model
+- habitat loss
+- land cover change
+- model performance
+- niche reduction
+- species distribution model
+- temporal misalignment
+- temporal sampling bias
+title: Occurrence–habitat mismatching and niche truncation when modelling distributions affected by anthropogenic range contractions
+url_code: https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fddi.13544&file=ddi13544-sup-0001-Supinfo.docx
 url_dataset: ""
-url_pdf: https://www.nature.com/articles/s41598-020-79491-9.pdf
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/ddi.13544
 url_poster: ""
 url_project: ""
 url_slides: ""
