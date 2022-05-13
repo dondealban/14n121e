@@ -19,7 +19,7 @@ publication_types:
 - "2"
 publishDate: "2022-05-09T00:00:00Z"
 slides: ""
-summary: In this paper, we modelled species distributions of dipterocarps in the Philippines, an important tree family that are key to maintaining structure and function of tropical forests in Southeast Asia, to understand potential impacts of deforestation and climate change on their current and future distributions.
+summary: Here, we showed how data misrepresentations can degrade the performance of species distribution models, undermining their use for empirial research and conservation science.
 tags:
 - data quality
 - ecological niche model
