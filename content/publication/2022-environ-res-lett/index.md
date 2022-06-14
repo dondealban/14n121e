@@ -17,7 +17,7 @@ publication: '*Environmental Research Letters*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-06-13T00:00:00Z"
+publishDate: "2022-05-10T00:00:00Z"
 slides: ""
 summary: Here, we applied Emergent Threat Analysis a process—integrating Emerging Hot Spot Analysis of deforestation, visual classification of deforestation outcomes over time, and spatial quantification of contemporary forest condition—to tropical Southeast Asia, a global epicentre of biodiversity threatened by deforestation.
 tags:
