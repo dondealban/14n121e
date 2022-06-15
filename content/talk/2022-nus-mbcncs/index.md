@@ -1,5 +1,5 @@
 ---
-abstract: A guest lecture about LIDAR remote sensing for forest carbon mapping and monitoring for postgraduate students under the Master of Science in Biodiversity Conservation and Nature-based Climate Solutions (MBCNCS) at National University of Singapore.
+abstract: I was invited by Prof L Roman Carrasco to give a guest lecture for his postgraduate students taking the BL5323 module (Spatial Modeling in Environmental Sustainability) under the Master of Science in Biodiversity Conservation and Nature-based Climate Solutions (MBCNCS) Programme at National University of Singapore. My talk was about the application of LIDAR remote sensing for forest carbon mapping and monitoring.
 address:
   city: Singapore
   country: Singapore
