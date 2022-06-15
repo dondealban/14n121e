@@ -26,7 +26,7 @@ math: true
 projects: ""
 publishDate: "2022-06-14T00:00:00Z"
 slides: ""
-summary: I did a guest lecture for the BL5323 modeule of the NUS MBCNCS programme.
+summary: Guest lecture for the BL5323 module of the NUS MBCNCS Programme.
 tags:
 - forests
 - M & MRV
