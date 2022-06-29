@@ -4,6 +4,7 @@ external_link: https://fr.news.yahoo.com/mangroves-pourquoi-pourraient-sauver-pl
 summary: Our 2020 Environmental Research Letters paper featured in Yahoo! Actualités.
 tags:
 - outlets
+- recent
 title: Yahoo! Actualités
 url_code: ""
 url_pdf: ""
