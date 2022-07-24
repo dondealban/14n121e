@@ -1,7 +1,7 @@
 ---
-date: "2022-07-12T00:00:00Z"
-external_link: https://glp.earth/news-events/news/spatiotemporal-analysis-deforestation-patterns-and-drivers-reveals-emergent-threats
-summary: Our analysis of deforestation hotspots in Southeast Asia is in the GLP News.
+date: "2022-07-13T00:00:00Z"
+external_link: https://glp.earth/news-events/news/greater-loss-and-fragmentation-savannas-forests-over-last-three-decades-yunnan
+summary: GLP News featured our historical savanna cover change analysis in Yunnan.
 tags:
 - GLP
 - recent
