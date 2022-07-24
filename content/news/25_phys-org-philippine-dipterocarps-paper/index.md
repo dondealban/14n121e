@@ -1,7 +1,7 @@
 ---
 date: "2021-01-27T19:00:00Z"
 external_link: https://phys.org/news/2021-01-philippine-forest-trees-threatened-deforestation.html
-summary: Our 2021 Scientific Reports paper featured in Phys.org.
+summary: Our paper on the effects of climate change on Philippine dipterocarps featured in Phys.org.
 tags:
 - recent
 - outlets
