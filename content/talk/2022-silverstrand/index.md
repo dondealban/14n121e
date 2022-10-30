@@ -43,3 +43,5 @@ url_slides: https://www.dropbox.com/s/tmgzmhrvaf96etw/De%20Alban_Silverstrand%20
 url_video: ""
 ---
 {{< tweet 1559070479444754432 >}}
+
+{{< figure src="nus-cncs-team-photo.png" title="The NUS CNCS research team (from left to right of photo) including Sreekar Rachakonda, Jose Don De Alban, Aakash Lamba, Ada Quek, Melissa Low, and Kelly Siman (Photo credit: Lim Rachel Ashton)" >}}
