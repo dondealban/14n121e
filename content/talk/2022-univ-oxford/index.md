@@ -42,3 +42,4 @@ url_pdf: ""
 url_slides: https://www.dropbox.com/s/d7ccbf0wzpdvq2b/De%20Alban%20et%20al_Univ%20Oxford%20NbS%202022_Poster.pdf?dl=0
 url_video: ""
 ---
+{{< figure src="conference-poster.png" title="My poster on our review of terrestrial aboveground biomass estimation using remote sensing, which I presented during the Nature-based Solutions Conference 2022 organised by the University of Oxford." >}}
