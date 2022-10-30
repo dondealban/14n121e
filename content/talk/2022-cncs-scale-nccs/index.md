@@ -28,7 +28,7 @@ math: true
 projects: ""
 publishDate: "2022-10-30T00:00:00Z"
 slides: ""
-summary: An upcoming lecture on **Getting to Net-Zero with Science, Research, and Partnerships** for Singapore public officers.
+summary: An upcoming lecture on 'Getting to Net-Zero with Science, Research, and Partnerships' for Singapore public officers.
 tags:
 - achieving net-zero
 - land change
