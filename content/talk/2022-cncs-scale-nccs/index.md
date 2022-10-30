@@ -29,6 +29,8 @@ slides: ""
 summary: An upcoming lecture on **Getting to Net-Zero with Science, Research, and Partnerships** for Singapore public officers.
 tags:
 - achieving net-zero
+- AFOLU
+- Agriculture, Forestry, and Other Land Use
 - land change
 - land use/land cover change
 - LUCC
