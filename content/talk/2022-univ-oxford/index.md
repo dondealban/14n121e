@@ -26,7 +26,7 @@ math: true
 projects: ""
 publishDate: "2022-05-05T00:00:00Z"
 slides: ""
-summary: Upcoming poster presentation at the [Nature-based Solutions Conference 2022](https://www.naturebasedsolutionsoxford.org). Watch this space.
+summary: Poster presentation at the [Nature-based Solutions Conference 2022](https://www.naturebasedsolutionsoxford.org).
 tags:
 - conference
 - M & MRV
@@ -39,6 +39,6 @@ tags:
 title: Nature-based Solutions Conference 2022 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: https://www.dropbox.com/s/d7ccbf0wzpdvq2b/De%20Alban%20et%20al_Univ%20Oxford%20NbS%202022_Poster.pdf?dl=0
 url_video: ""
 ---
