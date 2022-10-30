@@ -1,5 +1,5 @@
 ---
-abstract: I gave a brief research talk on carbon measurement, monitoring, reporting, and verification (M & MRV) during the [Biodiversity Accelerator+ Programme](https://www.silverstrand.capital/the-biodiversity-accelerator) organised by [Silverstrand Capital](https://www.silverstrand.capital). My talk was part of a series of of lectures by a team of senior researchers of the Centre for Nature-based Climate Solutions, which was capped by an 'Ecosystem Speed Dating' session where programme participants asked questions to our team in support of the development of their projects. 
+abstract: I gave a brief research talk on carbon measurement, monitoring, reporting, and verification (M & MRV) during the [Biodiversity Accelerator+ Programme](https://www.silverstrand.capital/the-biodiversity-accelerator) organised by [Silverstrand Capital](https://www.silverstrand.capital). My talk was part of a series of of lectures by a team of senior researchers from the Centre for Nature-based Climate Solutions, which was capped by an 'Ecosystem Speed Dating' session where programme participants asked questions to our team in support of the development of their projects. 
 address:
   city: Singapore
   country: Singapore
@@ -26,7 +26,7 @@ math: true
 projects: ""
 publishDate: "2022-08-15T16:00:00Z"
 slides: ""
-summary: A brief research talk on carbon measurement, monitoring, reporting, and verification (M & MRV) during the [Biodiversity Accelerator+ Programme](https://www.silverstrand.capital/the-biodiversity-accelerator) organised by [Silverstrand Capital](https://www.silverstrand.capital).
+summary: A brief research talk on carbon M & MRV during the [Biodiversity Accelerator+ Programme](https://www.silverstrand.capital/the-biodiversity-accelerator) organised by [Silverstrand Capital](https://www.silverstrand.capital).
 tags:
 - biodiversity
 - carbon
