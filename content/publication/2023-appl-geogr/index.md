@@ -6,9 +6,9 @@ authors:
 - admin
 - Edward L Webb
 - L Roman Carrasco
-date: "2022-12-05T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 doi: "10.1016/j.apgeog.2022.102838"
-featured: false
+featured: true
 image:
   caption: "Example for one sampling plot where rubber plantations have been cleared for oil palm in Indonesia. (a) satellite images of the plot in 2005, (b) 2014, (c) 2018 and (d) the surrounding area in 2018."
   focal_point: ""
@@ -18,7 +18,7 @@ publication: '*Applied Geography*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: "2022-12-05T00:00:00Z"
 slides: ""
 summary: In Southeast Asia, we found that existing rubber plantations were being converted to oil palm, with 1.9% and 2.6% for Indonesia and Malaysia, respectively—this conversion was estimated at 10500 ha per year. 
 tags:
