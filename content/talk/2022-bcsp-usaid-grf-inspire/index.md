@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/dondealban
-location: Singapore
+location: Philippines
 math: true
 projects: ""
 publishDate: "2022-12-09T00:00:00Z"
@@ -42,3 +42,4 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+{{< figure src="bcsp-symposium-banner.jpg" >}}
