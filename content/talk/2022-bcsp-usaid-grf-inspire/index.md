@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: I gave an online talk on nature-based climate solutions and our research programmes at the [Centre for Nature-based Climate Solutions](https://www.nus.edu.sg/cncs/), National University of Singapore. 
 address:
   city: Butuan City
   country: Philippines
@@ -26,7 +26,7 @@ math: true
 projects: ""
 publishDate: "2022-12-09T00:00:00Z"
 slides: ""
-summary: A talk on **Nature-based Climate Solutions** during the Annual Symposium of the Biodiversity Conservation Society of the Philippines.
+summary: A talk on **Nature-based Climate Solutions** during the [Annual Symposium of the Biodiversity Conservation Society of the Philippines](https://sites.google.com/biodiversity.ph/30pbs/home?pli=1).
 tags:
 - carbon
 - co-benefits
