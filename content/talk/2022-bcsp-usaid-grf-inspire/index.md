@@ -1,5 +1,5 @@
 ---
-abstract: I gave an online talk on nature-based climate solutions and our research programmes at the [Centre for Nature-based Climate Solutions](https://www.nus.edu.sg/cncs/) at the National University of Singapore. The talk was part of the parallel workshop entitled, **Conversations on Conservation: a roundtable discussion with the private sector on natural climate solutions, the turn-out of the latest Conference of Parties (COP 27), climate smart agriculture, carbon markets and INSPIRE’s private-sector engagement funding**, organised by the Gerry Roxas Foundation's USAID-funded INSPIRE Project. 
+abstract: ""
 address:
   city: Butuan City
   country: Philippines
@@ -26,7 +26,7 @@ math: true
 projects: ""
 publishDate: "2022-12-09T00:00:00Z"
 slides: ""
-summary: A talk on **Nature-based Climate Solutions** for Singapore public officers.
+summary: A talk on **Nature-based Climate Solutions** during the Annual Symposium of the Biodiversity Conservation Society of the Philippines.
 tags:
 - carbon
 - co-benefits
