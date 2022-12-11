@@ -43,6 +43,6 @@ tags:
 title: Sustainability 101 Course for Public Officers
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: https://www.dropbox.com/s/c69jw9a82spx3r0/De%20Alban_Sustainability%20101%20Lecture_Slides.pdf?dl=0
 url_video: ""
 ---
