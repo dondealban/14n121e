@@ -39,7 +39,7 @@ tags:
 title: Annual Symposium of the Biodiversity Conservation Society of the Philippines
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: https://www.dropbox.com/s/yhwbzuy90mx0g76/De%20Alban_NUS%20CNCS%20NbCS_BCSP%20USAID-GRF-INSPIRE%20RTD%202022_Slides.pdf?dl=0
 url_video: ""
 ---
 {{< figure src="bcsp-symposium-banner.jpg" >}}
