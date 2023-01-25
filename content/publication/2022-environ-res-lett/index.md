@@ -13,6 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects:
+- 05_beyond-deforestation
 publication: '*Environmental Research Letters*'
 publication_short: ""
 publication_types:
