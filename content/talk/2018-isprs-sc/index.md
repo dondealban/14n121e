@@ -24,6 +24,7 @@ links:
 location: Space Krenovation Park, Sriracha, Chonburi, Thailand
 math: true
 projects:
+- 03_myanmar-tier1
 - 04_myanmar-tier2
 publishDate: "2018-08-09T18:00:00Z"
 slides: ""
