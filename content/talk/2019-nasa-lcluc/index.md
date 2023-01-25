@@ -1,11 +1,11 @@
 ---
 abstract: I presented a poster about our study on investigating land-cover regime shifts by integrating complementary analytical frameworks in the Tanintharyi Region, southern Myanmar, which was based on our [paper](https://www.mdpi.com/2071-1050/11/4/1139/htm) published earlier this year in a special issue of Sustainability journal.
 address:
-  city: []
-  country: []
-  postcode: []
-  region: []
-  street: []
+  city: Johor Bahru
+  country: Malaysia
+  postcode: 80000
+  region: Johor
+  street: Double Tree by Hilton, 12 Jalan Ngee Heng
 all_day: false
 authors: []
 date: "2019-07-22T17:00:00Z"
@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/dondealban
-location: Double Tree by Hilton, Johor Bahru, Malaysia
+location: Malaysia
 math: true
 projects:
 - 04_myanmar-tier2
