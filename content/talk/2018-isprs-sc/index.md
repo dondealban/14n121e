@@ -1,11 +1,11 @@
 ---
 abstract: For this lecture, I shared about my on-going research on understanding land-system change dynamics in Myanmar, specifically about a newly-developed protocol for investigating land-system regime shifts, on combining optical and radar satellite data for land cover classification and change detection. I also demonstrated a flavor of Google Earth Engine‘s many applications, particularly for land-system change studies.
 address:
-  city: []
-  country: []
-  postcode: []
-  region: []
-  street: []
+  city: Sri Racha
+  country: Thailand
+  postcode: 20230
+  region: Chonburi
+  street: Space Krenovation Park, 88 Moo 9 
 all_day: false
 authors: []
 date: "2018-08-09T08:00:00Z"
@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/dondealban
-location: Space Krenovation Park, Sriracha, Chonburi, Thailand
+location: Thailand
 math: true
 projects:
 - 03_myanmar-tier1
