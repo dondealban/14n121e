@@ -21,15 +21,17 @@ publishDate: "2005-01-01T00:00:00Z"
 slides: ""
 summary: The paper demonstrated the overlaps of Important Bird Areas with various land use instruments, and discussed how conservation policy could be affected by competing land uses. 
 tags:
-- rubber conversion
-- oil palm expansion
-- indirect land-use
-- environmental sustainability
-- displacement
-title: The conversion of rubber to oil palm and other landcover types in Southeast Asia
+- forest habitats
+- Endemic Bird Areas
+- mining
+- conflicting tenurial arrangements
+- geographic information systems
+- trigger species
+- Key Biodiversity Areas
+title: "Spatial analysis of Important Bird Areas in the Philippines: gaps and recommendations"
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0143622822002090?via%3Dihub
+url_pdf: https://www.researchgate.net/publication/270956568_Spatial_analysis_of_Important_Bird_Area_boundaries_in_the_Philippines_gaps_and_recommendations
 url_poster: ""
 url_project: ""
 url_slides: ""
