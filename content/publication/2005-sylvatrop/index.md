@@ -4,13 +4,13 @@ authors:
 - admin
 date: "2005-01-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
-  caption: "Example for one sampling plot where rubber plantations have been cleared for oil palm in Indonesia. (a) satellite images of the plot in 2005, (b) 2014, (c) 2018 and (d) the surrounding area in 2018."
+  caption: "Overlapping boundaries of Important Bird Areas, mining claims, and forest cover within Endemic Bird Areas."
   focal_point: ""
   preview_only: false
 projects:
-publication: '*Applied Geography*'
+publication: '*Sylvatrop*'
 publication_short: ""
 publication_types:
 - "2"
