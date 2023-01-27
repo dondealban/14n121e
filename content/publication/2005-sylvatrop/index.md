@@ -25,10 +25,10 @@ tags:
 - geographic information systems
 - trigger species
 - Key Biodiversity Areas
-title: Spatial analysis of Important Bird Areas in the Philippines: gaps and recommendations
+title: "Spatial analysis of Important Bird Areas in the Philippines: gaps and recommendations""
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0143622822002090?via%3Dihub
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
