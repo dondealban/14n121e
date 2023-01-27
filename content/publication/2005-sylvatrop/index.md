@@ -9,6 +9,9 @@ image:
   caption: "Overlapping boundaries of Important Bird Areas, mining claims, and forest cover within Endemic Bird Areas."
   focal_point: ""
   preview_only: false
+links:
+- name: Website
+  url: https://sylvatrop.denr.gov.ph/abstract_page/read_article?id=1019
 projects:
 publication: '*Sylvatrop*'
 publication_short: ""
