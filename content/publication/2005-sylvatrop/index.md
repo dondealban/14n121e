@@ -19,7 +19,7 @@ publication_types:
 - "2"
 publishDate: "2005-01-01T00:00:00Z"
 slides: ""
-summary: In Southeast Asia, we found that existing rubber plantations were being converted to oil palm, with 1.9% and 2.6% for Indonesia and Malaysia, respectively—this conversion was estimated at 10500 ha per year. 
+summary: The paper demonstrated the overlaps of Important Bird Areas with various land use instruments, and discussed how conservation policy could be affected by competing land uses. 
 tags:
 - rubber conversion
 - oil palm expansion
