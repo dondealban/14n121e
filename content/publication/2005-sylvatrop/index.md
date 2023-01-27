@@ -31,7 +31,7 @@ tags:
 title: "Spatial analysis of Important Bird Areas in the Philippines: gaps and recommendations""
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: https://www.researchgate.net/publication/270956568_Spatial_analysis_of_Important_Bird_Area_boundaries_in_the_Philippines_gaps_and_recommendations
 url_poster: ""
 url_project: ""
 url_slides: ""
