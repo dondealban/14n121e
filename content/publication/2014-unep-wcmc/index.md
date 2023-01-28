@@ -33,7 +33,7 @@ publishDate: "2014-09-01T00:00:00Z"
 slides: ""
 summary: This report explores the synergies between the Aichi Biodiversity Targets and REDD+ in the Philippines using spatial analysis.
 tags: ""
-title: Using spatial analysis to explore synergies between the Aichi Biodiversity Targets and REDD+ in the Philippines—a preliminary analysis
+title: "Using spatial analysis to explore synergies between the Aichi Biodiversity Targets and REDD+ in the Philippines: a preliminary analysis"
 url_code: ""
 url_dataset: ""
 url_pdf: http://www.unep-wcmc.org/system/dataset_file_fields/files/000/000/261/original/Philippines_Report_141021_10mb.pdf?1414667975
