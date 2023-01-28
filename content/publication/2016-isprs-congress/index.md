@@ -24,12 +24,17 @@ publication_types:
 - "1"
 publishDate: "2016-07-12T00:00:00Z"
 slides: ""
-summary: This report explores the synergies between the Aichi Biodiversity Targets and REDD+ in the Philippines using spatial analysis.
-tags: ""
-title: "Using spatial analysis to explore synergies between the Aichi Biodiversity Targets and REDD+ in the Philippines: a preliminary analysis"
+summary: A preliminary analysis of combining SAR and optical imagery with field-based observations for detecting mangrove cover extent and changes through a straightforward graphical approach.
+tags:
+- ALOS PALSAR
+- R
+- image segmentation
+- mangroves
+- forest monitoring
+title: "Synergy of optical and SAR data for mapping and monitoring mangroves"
 url_code: ""
 url_dataset: ""
-url_pdf: http://www.unep-wcmc.org/system/dataset_file_fields/files/000/000/261/original/Philippines_Report_141021_10mb.pdf?1414667975
+url_pdf: https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B6/259/2016/isprs-archives-XLI-B6-259-2016.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
