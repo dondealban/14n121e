@@ -10,7 +10,7 @@ date: "2016-07-12T00:00:00Z"
 doi: "10.5194/isprsarchives-XLI-B6-259-2016"
 featured: false
 image:
-  caption: ""
+  caption: "False colour composite of ALOS/PALSAR images (RGB: 1996-2007-2010) and mangrove field validation sites in the Philippines."
   focal_point: ""
   preview_only: false
 links:
@@ -41,3 +41,6 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.5194/isprsarchives-XLI-B6-259-2016" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.5194/isprsarchives-XLI-B6-259-2016" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
