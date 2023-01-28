@@ -20,7 +20,7 @@ featured: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 links:
 - name: Website
   url: https://www.researchgate.net/publication/270957021_Using_spatial_analysis_to_explore_synergies_between_the_Aichi_Biodiversity_Targets_and_REDD_in_the_Philippines_A_preliminary_analysis
