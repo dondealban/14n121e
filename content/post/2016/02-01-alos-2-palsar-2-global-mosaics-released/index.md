@@ -20,6 +20,7 @@ tags:
 - ALOS-2 PALSAR-2
 - Earth observation
 - JAXA ALOS K&C
+- SAR
 title: 'ALOS-2/PALSAR-2 global mosaics released.'
 ---
 A few days ago, the Japan Aerospace Exploration Agency finally released the long-awaited global mosaics from the ALOS-2/PALSAR-2 satellite, which was launched in 24 May 2014.
