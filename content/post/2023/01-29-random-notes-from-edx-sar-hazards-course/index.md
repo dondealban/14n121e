@@ -25,7 +25,7 @@ tags:
 - SAR
 title: 'Random notes from edX Synthetic Aperture Radar: Hazards course.'
 ---
-I thought I'd put together some random notes while learning from the Synthetic Aperture Radar: Hazards course taught by Dr Franz Meyer, the Chief Scientist of the Alaska Satellite Facility and Professor of Radar Remote Sensing at the Geophysical Institute at University of Alaska Fairbanks, through edX's massive open online course platform.
+I thought I'd put together some random notes while learning from the [Synthetic Aperture Radar: Hazards course](https://courses.edx.org/courses/course-v1:AlaskaX+SAR-401+3T2020/89e9f34aa5d14551915c89e8443a8f6c/) taught by Dr Franz Meyer, the Chief Scientist of the Alaska Satellite Facility and Professor of Radar Remote Sensing at the Geophysical Institute at University of Alaska Fairbanks, through edX's massive open online course platform.
 
 My main motivation for enrolling in the online course was to refresh my foundational knowledge and understanding of synthetic aperture radar (SAR), and enhance my skills on utilising more advanced techniques including interferometric SAR (InSAR), polarimetric interferometric SAR (PolInSAR), and SAR tomography—all of which are quite very exciting technologies to employ in my research.
 
@@ -35,11 +35,9 @@ To anyone else other than myself reading this post however, these notes might no
 
 ### Module 2: Introduction to Synthetic Aperture Radar Remote Sensing.
 
-#### Properties of Microwaves.
+#### On the properties of microwaves.
 
 {{< figure src="microwave_spectrum-s.jpg" title="An image of the electromagnetic spectrum that explains the weather-independence of radar imaging." >}}
-<br/>
-This is a fantastic graphic showing the "radar window" where imaging radar systems utilise a window of high atmospheric transmittance to achieve surface imaging capabilities even during cloud cover. In contrast, notice the variable atmospheric opacities for the visible/optical and shorter infrared wavelengths, and the poor transmittance thereof of other parts of the EM spectrum such as the gamma/x/ultraviolet rays, most of the longer infrared signals, and long-wavelength radio waves.
 
-The image can be quite handy in my slidedeck for future talks on the topic. 
+This is a fantastic graphic showing the "radar window" where imaging radar systems utilise a window of high atmospheric transmittance to achieve surface imaging capabilities even during cloud cover. In contrast, notice the variable atmospheric opacities for the visible/optical and shorter infrared wavelengths, and the poor transmittance thereof of other parts of the EM spectrum such as the gamma/x/ultraviolet rays, most of the longer infrared signals, and long-wavelength radio waves. The image would be a good addition in my slidedeck for future talks on the topic. 
 
