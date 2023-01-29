@@ -11,7 +11,7 @@ image:
   focal_point: ""
   placement: 3
   preview_only: false
-lastmod: "2023-01-29T11:30:00Z"
+lastmod: "2023-01-29T12:00:00Z"
 projects:
 subtitle:
 summary:
@@ -39,5 +39,10 @@ To anyone else other than myself reading this post however, these notes might no
 
 {{< figure src="microwave_spectrum-s.jpg" title="An image of the electromagnetic spectrum that explains the weather-independence of radar imaging." >}}
 
-This is a fantastic graphic showing the "radar window" where imaging radar systems utilise a window of high atmospheric transmittance to achieve surface imaging capabilities even during cloud cover. In contrast, notice the variable atmospheric opacities for the visible/optical and shorter infrared wavelengths, and the poor transmittance thereof of other parts of the EM spectrum such as the gamma/x/ultraviolet rays, most of the longer infrared signals, and long-wavelength radio waves. The image would be a good addition in my slidedeck for future talks on the topic. 
+This is a fantastic graphic showing the "radar window" where imaging radar systems utilise a window of high atmospheric transmittance to achieve surface imaging capabilities even during cloud cover. In contrast, notice the variable atmospheric opacities for the visible/optical and shorter infrared wavelengths, and the poor transmittance thereof of other parts of the EM spectrum such as the gamma/x/ultraviolet rays, most of the longer infrared signals, and long-wavelength radio waves. The image would be a good addition in my slidedeck for future talks on the topic too. 
 
+#### On geometric distortions in SAR images.
+
+{{< figure src="foreshortening-layover-shadow.png" title="The typical geometric distortions in SAR images due to the oblique observation geometry inherent to all imaging radar systems." >}}
+
+{{< figure src="match-image-distortions-to-sar-samples.png" title="Well, it seems I did well on visually matching the image distortions to the respective SAR image samples." >}}
