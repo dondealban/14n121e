@@ -1,6 +1,6 @@
 ---
 title: "Random notes from edX Synthetic Aperture Radar: Hazards course."
-subtitle: "Part of my blog series documenting my journey to rediscover my love of radar remote sensing."
+subtitle: "A blog series on rediscovering my love of radar remote sensing."
 authors: 
 - admin
 categories: 
@@ -37,7 +37,7 @@ To anyone else other than myself reading this post however, these notes might no
 
 #### On the properties of microwaves.
 
-{{< figure src="microwave_spectrum-s.jpg" title="**An image of the electromagnetic spectrum that explains the weather-independence of radar imaging.** This is a fantastic graphic showing the 'radar window' where imaging radar systems utilise a window of high atmospheric transmittance to achieve surface imaging capabilities even during cloud cover. In contrast, notice the variable atmospheric opacities for the visible/optical and shorter infrared wavelengths, and the poor transmittance thereof of other parts of the EM spectrum such as the gamma/x/ultraviolet rays, most of the longer infrared signals, and long-wavelength radio waves. The image would be a good addition in my slidedeck for future talks on the topic too." >}}
+{{< figure src="microwave_spectrum-s.jpg" title="**An image of the electromagnetic spectrum that explains the weather-independence of radar imaging.** This is a fantastic graphic showing the 'radar window' where imaging radar systems utilise a window of high atmospheric transmittance to achieve surface imaging capabilities even during cloud cover. In contrast, notice the variable atmospheric opacities for the visible/optical and shorter infrared wavelengths, and the poor transmittance thereof of other parts of the EM spectrum such as the gamma/x/ultraviolet rays, most of the longer infrared signals, and long-wavelength radio waves. The image would be a good addition in my slidedeck for future talks on the topic too." align="left" >}}
 
 #### On geometric distortions in SAR images.
 
