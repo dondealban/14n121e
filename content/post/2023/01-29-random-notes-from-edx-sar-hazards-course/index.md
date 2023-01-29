@@ -1,6 +1,6 @@
 ---
 title: "Random notes from edX Synthetic Aperture Radar: Hazards course."
-subtitle: "Just testing what a subtitle looks like here"
+subtitle: "Part of my blog series documenting my journey to rediscover my love of radar remote sensing."
 authors: 
 - admin
 categories: 
@@ -39,24 +39,15 @@ To anyone else other than myself reading this post however, these notes might no
 
 #### On the properties of microwaves.
 
-{{< figure src="microwave_spectrum-s.jpg" title="An image of the electromagnetic spectrum that explains the weather-independence of radar imaging." >}}
-
-This is a fantastic graphic showing the "radar window" where imaging radar systems utilise a window of high atmospheric transmittance to achieve surface imaging capabilities even during cloud cover. In contrast, notice the variable atmospheric opacities for the visible/optical and shorter infrared wavelengths, and the poor transmittance thereof of other parts of the EM spectrum such as the gamma/x/ultraviolet rays, most of the longer infrared signals, and long-wavelength radio waves. The image would be a good addition in my slidedeck for future talks on the topic too.
+{{< figure src="microwave_spectrum-s.jpg" title="**An image of the electromagnetic spectrum that explains the weather-independence of radar imaging.** This is a fantastic graphic showing the "radar window" where imaging radar systems utilise a window of high atmospheric transmittance to achieve surface imaging capabilities even during cloud cover. In contrast, notice the variable atmospheric opacities for the visible/optical and shorter infrared wavelengths, and the poor transmittance thereof of other parts of the EM spectrum such as the gamma/x/ultraviolet rays, most of the longer infrared signals, and long-wavelength radio waves. The image would be a good addition in my slidedeck for future talks on the topic too." >}}
 
 #### On geometric distortions in SAR images.
 
-{{< figure src="foreshortening-layover-shadow.png" title="The typical geometric distortions in SAR images due to the oblique observation geometry inherent to all imaging radar systems." >}}
+{{< figure src="foreshortening-layover-shadow.png" title="**The typical geometric distortions in SAR images due to the oblique observation geometry inherent to all imaging radar systems.** **Important note:** Both foreshortening and layover can be reduced if the look angle θ is increased; however, larger θ will produce more image shadow. Hence, topography-related image distortions cannot be entirely removed, and image acquisitions from more than one vantage point may be necessary to jointly minimise all three imaging effects." >}}
 
-**Important note:** Both foreshortening and layover can be reduced if the look angle θ is increased; however, larger θ will produce more image shadow. Hence, topography-related image distortions cannot be entirely removed, and image acquisitions from more than one vantage point may be necessary to jointly minimise all three imaging effects.
+{{< figure src="match-image-distortions-to-sar-samples.png" title="Well, it seems I did well on visually matching the image distortions to the respective SAR image samples." >}}
 
-{{< figure src="match-image-distortions-to-sar-samples.png" >}}
+{{< figure src="gtc-s.gif" title="**The impact of geometric terrain correction on the appearance of a SAR image.** So, which effects did geometric terrain correction (GTC) processing have on the SAR image artifacts? Foreshortening was corrected and mountains now look symmetric and in the geometrically correct location. A number of pixels were also moved to map the SAR image to the correct geographic location." >}}
 
-Well, it seems I did well on visually matching the image distortions to the respective SAR image samples.
+{{< figure src="gtc-and-rtc.gif" title="Now this example image shows the results of geometric and radiometric terrain corrections (GTC, and RTC, respectively) on a geometrically distorted image. GTC processing removes the geometric image distortions. Notice the mountains that used to appear as if leaning, now appear symmetric as the position of image pixels is corrected to coincide with their correct geographic locations. Then, RTC processing corrects for the topographic shading in the image, removing the over-brightening of sensor facing slopes." >}}
 
-{{< figure src="gtc-s.gif" title="The impact of geometric terrain correction on the appearance of a SAR image." >}}
-
-Which effects did geometric terrain correction (GTC) processing have on the SAR image artifacts? Foreshortening was corrected and mountains now look symmetric and in the geometrically correct location. A number of pixels were also moved to map the SAR image to the correct geographic location.
-
-{{< figure src="gtc-and-rtc.gif" >}}
-
-Well, it seems I did well on visually matching the image distortions to the respective SAR image samples.
