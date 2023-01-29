@@ -17,7 +17,7 @@ tags:
 - ALOS PALSAR
 - ALOS-2 PALSAR-2
 - DInSAR
-- "#GoldenAgeOfSAR""
+- "#GoldenAgeOfSAR"
 - InSAR
 - MOOC
 - SAR
