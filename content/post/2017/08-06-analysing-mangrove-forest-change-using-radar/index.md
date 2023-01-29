@@ -19,6 +19,7 @@ tags:
 - Big Data
 - cloud computing
 - Google Earth Engine
+- SAR
 - software
 title: 'Analysing mangrove forest change using radar.'
 ---
