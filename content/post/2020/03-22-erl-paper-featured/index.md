@@ -9,7 +9,7 @@ featured: false
 image:
   caption: ""
   focal_point: ""
-  placement: ""
+  placement: 3
   preview_only: false
 lastmod: "2020-03-22T00:00:00Z"
 projects:
