@@ -13,7 +13,7 @@ image:
   focal_point: ""
   placement: 3
   preview_only: false
-lastmod: "2023-01-29T12:00:00Z"
+lastmod: "2023-01-29T15:25:00Z"
 projects: ""
 summary: ""
 tags:
@@ -27,7 +27,7 @@ tags:
 ---
 I thought I'd put together some random notes while learning from the [Synthetic Aperture Radar: Hazards course](https://courses.edx.org/courses/course-v1:AlaskaX+SAR-401+3T2020/89e9f34aa5d14551915c89e8443a8f6c/) taught by Dr Franz Meyer, the Chief Scientist of the Alaska Satellite Facility and Professor of Radar Remote Sensing at the Geophysical Institute at University of Alaska Fairbanks, through edX's massive open online course platform.
 
-My main motivation for enrolling in the online course was to refresh my foundational knowledge and understanding of synthetic aperture radar (SAR), and enhance my skills on utilising more advanced techniques including interferometric SAR (InSAR), polarimetric interferometric SAR (PolInSAR), and SAR tomography---all of which are quite very exciting technologies to employ in my research.
+My main motivation for enrolling in the online course was to refresh my foundational knowledge and understanding of polarimetric synthetic aperture radar (PolSAR), and enhance my skills on utilising more advanced techniques including interferometric SAR (InSAR), polarimetric interferometric SAR (PolInSAR), and SAR tomography (TomoSAR)—all of which are quite very exciting technologies to employ in my research.
 
 To anyone else other than myself reading this post however, these notes might not really make any cohesive sense but I suppose each snippet would still be a valuable nugget of information for learning about synthetic aperture radar.
 
@@ -53,5 +53,13 @@ To anyone else other than myself reading this post however, these notes might no
 
 #### On radar brightness and signal polarisation.
 {{< figure src="scatterer-type-rule-of-thumb.jpg" title="**Polarimetric scattering rules of thumb.** Scattering types do not contribute to all polarimetric channels equally. Instead, each polarimetric channel 'prefers' certain scattering types such that the scattering power |S| in the individual polarimetric channels follows the scheme shown above. These general rules should help when comparing the radar cross-section in different polarimetric channels, which can be applied to perform an automatic classification of scattering types if data with all relevant polarisations (i.e., quad-polarisation data) are available. " >}}
+
+#### On polarimetric signatures for different environments.
+{{< figure src="polsar-example-peru.jpg" title="**This example over the Pacaya-Samiria forest reserve in Peru demonstrates how different environments have different polarimetric scattering signatures.** On the right, the individual SAR images acquired in VV, HH, and HV polarisations are shown. On the left, an RGB composite of these images is shown where the VV band is displayed as blue, the HH band is used as the red channel, and the HV band is shown in green. **Some signatures of note:** (i) green signatures indicate dense vegetation (HV), where extensive areas appear green in the RGB composite. The strong HV scattering in these areas is caused by dense vegetation; (ii) dark blue corresponds to open water (VV), where smooth open water appears dark with a slight blue hue caused by slight surface roughness on the water surface; and (iii) red and pink patches show inundated vegetation (HH), where inundated vegetation shows enhanced double bounce scattering (scattering of smooth water and tree stems). Slight surface roughness is mixed in with the areas showing a pink hue." >}}
+
+### Module 2: Introduction to Interferometric SAR.
+
+#### On representing the interferometric phase.
+{{< figure src="insar-phase-colorwheel.jpg" title="**Pictorial representation of the interferometric phase.** The color wheel is more appropriate for representing the ambiguous interferometric phase than the grey-value scheme because the color wheel is better for distinguishing small phase variations." >}}
 
 
