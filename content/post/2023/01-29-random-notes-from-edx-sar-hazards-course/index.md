@@ -31,15 +31,13 @@ My main motivation for enrolling in the online course was to refresh my foundati
 
 To anyone else other than myself reading this post however, these notes might not really make any cohesive sense but I suppose each snippet would still be a valuable nugget of information for learning about synthetic aperture radar.
 
-<div align="center">-oOo-</div>
-
-<br/>
+<div align="center">-oOo-</div><br/>
 
 ### Module 2: Introduction to Synthetic Aperture Radar Remote Sensing.
 
 #### On the properties of microwaves.
 
-{{< figure src="microwave_spectrum-s.jpg" title="**An image of the electromagnetic spectrum that explains the weather-independence of radar imaging.** This is a fantastic graphic showing the "radar window" where imaging radar systems utilise a window of high atmospheric transmittance to achieve surface imaging capabilities even during cloud cover. In contrast, notice the variable atmospheric opacities for the visible/optical and shorter infrared wavelengths, and the poor transmittance thereof of other parts of the EM spectrum such as the gamma/x/ultraviolet rays, most of the longer infrared signals, and long-wavelength radio waves. The image would be a good addition in my slidedeck for future talks on the topic too." >}}
+{{< figure src="microwave_spectrum-s.jpg" title="**An image of the electromagnetic spectrum that explains the weather-independence of radar imaging.** This is a fantastic graphic showing the 'radar window' where imaging radar systems utilise a window of high atmospheric transmittance to achieve surface imaging capabilities even during cloud cover. In contrast, notice the variable atmospheric opacities for the visible/optical and shorter infrared wavelengths, and the poor transmittance thereof of other parts of the EM spectrum such as the gamma/x/ultraviolet rays, most of the longer infrared signals, and long-wavelength radio waves. The image would be a good addition in my slidedeck for future talks on the topic too." >}}
 
 #### On geometric distortions in SAR images.
 
