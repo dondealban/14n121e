@@ -11,7 +11,7 @@ featured: false
 image:
   caption: "The suite of Open Foris software tools for environmental monitoring."
   focal_point: ""
-  placement: ""
+  placement: 3
   preview_only: false
 lastmod: "2017-08-29T21:00:00Z"
 projects:
