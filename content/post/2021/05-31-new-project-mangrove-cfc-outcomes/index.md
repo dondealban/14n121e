@@ -7,9 +7,9 @@ date: "2021-05-31T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: ""
+  caption: "Mangrove accretion around the community forest area in Ayeyarwady Delta, Myanmar over 18 years, as seen from Google Earth."
   focal_point: ""
-  placement: ""
+  placement: 3
   preview_only: false
 lastmod: "2021-05-31T00:00:00Z"
 projects:
