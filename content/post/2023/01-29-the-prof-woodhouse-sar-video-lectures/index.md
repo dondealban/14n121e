@@ -29,6 +29,7 @@ Here's a treasure trove of video lectures by Prof Iain Woodhouse, Professor of A
 {{< youtube e4vCYcMbFyg >}}<br/>
 
 Take-home messages:
+
 - Radar remote sensing is all about the time dimension
 
 
@@ -36,6 +37,7 @@ Take-home messages:
 {{< youtube NGkICs3hApg >}}<br/>
 
 Take-home messages:
+
 - Incidence angle is important! Radar backscatter changes with incidence angle
 - 'Roughness' is a matter of scale relative to the wavelength 
 
