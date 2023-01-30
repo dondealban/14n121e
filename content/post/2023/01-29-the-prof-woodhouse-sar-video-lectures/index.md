@@ -7,7 +7,7 @@ categories:
 - Research
 - Resources
 date: "2023-01-29T00:00:00Z"
-draft: true
+draft: false
 featured: false
 image:
   caption: ""
@@ -36,7 +36,7 @@ Take-home messages:
 {{< youtube NGkICs3hApg >}}<br/>
 
 Take-home messages:
-* Incidence angle is important! Radar backscatter changes with incidence angle.
+* Incidence angle is important! Radar backscatter changes with incidence angle
 * 'Roughness' is a matter of scale relative to the wavelength 
 
 
