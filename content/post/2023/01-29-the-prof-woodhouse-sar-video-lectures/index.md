@@ -10,7 +10,7 @@ date: "2023-01-30T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: "The United States frequency allocation of the radio spectrum (Source: [NTCA-USDC](https://ntia.gov/page/united-states-frequency-allocation-chart)."
+  caption: "The United States frequency allocation of the radio spectrum (Source: [NTCA-USDC](https://ntia.gov/page/united-states-frequency-allocation-chart))."
   focal_point: ""
   placement: 3
   preview_only: false
@@ -24,6 +24,7 @@ tags:
 Here's a treasure trove of video lectures by Prof Iain Woodhouse, Professor of Applied Earth Observation at the University of Edinburgh and Co-founder of Carbomap Ltd, Econometrica, and Earth Blox, on understanding and using synthetic aperture radar (SAR) data. The video lectures were organised online by the Joint Nature Conservation Committee on November 2020 during the COVID-19 pandemic.
 
 <div align="center">-oOo-</div><br/>
+
 
 #### Day 1: Brief history, fundamentals of electromagentic waves, polarisation, combination of waves, some core principles
 {{< youtube e4vCYcMbFyg >}}<br/>
@@ -42,7 +43,9 @@ Take-home messages:
 - 'Roughness' is a matter of scale relative to the wavelength 
 
 
-
 #### Day 3: How radar builds an image, data properties, unique challenges of radar, speckle,  geometric distortions
+{{< youtube 1oigOVgSTqE >}}<br/>
+
+Take-home messages:
 
 #### Day 4: Practical: how to find data; Split into two groups: SNAP practical and EO browser practical
