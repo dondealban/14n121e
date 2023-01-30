@@ -30,7 +30,7 @@ Here's a treasure trove of video lectures by Prof Iain Woodhouse, Professor of A
 Take-home messages:
 
 - Radar remote sensing is all about the time dimension
-
+<br/>
 
 ### Day 2: How microwaves interact with surface features, surface roughness, moisture content, vegetation
 {{< youtube NGkICs3hApg >}}<br/>
@@ -38,14 +38,15 @@ Take-home messages:
 
 - Incidence angle is important! Radar backscatter changes with incidence angle
 - 'Roughness' is a matter of scale relative to the wavelength 
-
+<br/>
 
 ### Day 3: How radar builds an image, data properties, unique challenges of radar, speckle,  geometric distortions
 {{< youtube 1oigOVgSTqE >}}<br/>
-
 Take-home messages:
 
+<br/>
+
 ### Day 4: Practical: how to find data; Split into two groups: SNAP practical and EO browser practical
-{{< youtube 5y2aNjmXGbM >}}
+{{< youtube 5y2aNjmXGbM >}}<br/>
 
 Take-home messages:
