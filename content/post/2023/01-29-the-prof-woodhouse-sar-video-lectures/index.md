@@ -6,7 +6,7 @@ authors:
 categories: 
 - Research
 - Resources
-date: "2023-01-31T00:00:00Z"
+date: "2023-01-30T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -14,7 +14,7 @@ image:
   focal_point: ""
   placement: 3
   preview_only: false
-lastmod: "2023-01-31T00:00:00Z"
+lastmod: "2023-01-30T00:00:00Z"
 projects: ""
 summary: ""
 tags:
