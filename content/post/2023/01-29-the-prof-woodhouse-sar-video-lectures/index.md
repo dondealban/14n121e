@@ -10,7 +10,7 @@ date: "2023-01-30T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: "The United States frequency allocation of the radio spectrum."
+  caption: "The United States frequency allocation of the radio spectrum (Source: [NTCA-USDC](https://ntia.gov/page/united-states-frequency-allocation-chart)."
   focal_point: ""
   placement: 3
   preview_only: false
