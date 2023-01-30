@@ -6,15 +6,15 @@ authors:
 categories: 
 - Research
 - Resources
-date: "2023-01-29T00:00:00Z"
+date: "2023-01-31T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: ""
+  caption: "The United States frequency allocation of the radio spectrum."
   focal_point: ""
   placement: 3
   preview_only: false
-lastmod: "2023-01-29T17:30:00Z"
+lastmod: "2023-01-31T00:00:00Z"
 projects: ""
 summary: ""
 tags:
