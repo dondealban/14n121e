@@ -25,27 +25,24 @@ Here's a treasure trove of video lectures by Prof Iain Woodhouse, Professor of A
 
 <div align="center">-oOo-</div><br/>
 
-
-#### Day 1: Brief history, fundamentals of electromagentic waves, polarisation, combination of waves, some core principles
+### Day 1: Brief history, fundamentals of electromagentic waves, polarisation, combination of waves, some core principles
 {{< youtube e4vCYcMbFyg >}}<br/>
-
 Take-home messages:
 
 - Radar remote sensing is all about the time dimension
 
 
-#### Day 2: How microwaves interact with surface features, surface roughness, moisture content, vegetation
+### Day 2: How microwaves interact with surface features, surface roughness, moisture content, vegetation
 {{< youtube NGkICs3hApg >}}<br/>
-
 Take-home messages:
 
 - Incidence angle is important! Radar backscatter changes with incidence angle
 - 'Roughness' is a matter of scale relative to the wavelength 
 
 
-#### Day 3: How radar builds an image, data properties, unique challenges of radar, speckle,  geometric distortions
+### Day 3: How radar builds an image, data properties, unique challenges of radar, speckle,  geometric distortions
 {{< youtube 1oigOVgSTqE >}}<br/>
 
 Take-home messages:
 
-#### Day 4: Practical: how to find data; Split into two groups: SNAP practical and EO browser practical
+### Day 4: Practical: how to find data; Split into two groups: SNAP practical and EO browser practical
