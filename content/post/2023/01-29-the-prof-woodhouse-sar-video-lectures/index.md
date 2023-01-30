@@ -46,3 +46,6 @@ Take-home messages:
 Take-home messages:
 
 ### Day 4: Practical: how to find data; Split into two groups: SNAP practical and EO browser practical
+{{< youtube 5y2aNjmXGbM >}}
+
+Take-home messages:
