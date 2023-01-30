@@ -16,7 +16,7 @@ image:
   preview_only: false
 lastmod: "2023-01-30T00:00:00Z"
 projects: ""
-summary: ""
+summary: "A series of video lectures by Prof Iain Woodhouse on understanding and using SAR data."
 tags:
 - GoldenAgeOfSAR
 - SAR
