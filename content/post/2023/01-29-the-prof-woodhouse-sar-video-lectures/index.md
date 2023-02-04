@@ -44,6 +44,7 @@ Take-home messages:
 {{< youtube 1oigOVgSTqE >}}<br/>
 Take-home messages:
 
+- The P-band BIOMASS mission is one of the most exciting things happening to radar remote sensing. However, one of the key challenges is the spatial resolution due to the limited frequencies in the microwave/radio part of the electromagnetic spectrum that the mission can use. Hence, the spatial resolution would be in the range of 100 meters.
 <br/>
 
 ### Day 4: Practical: how to find data; Split into two groups: SNAP practical and EO browser practical
