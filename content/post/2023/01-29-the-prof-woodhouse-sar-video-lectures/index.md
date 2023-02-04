@@ -45,6 +45,9 @@ Take-home messages:
 Take-home messages:
 
 - The P-band BIOMASS mission is one of the most exciting things happening to radar remote sensing. However, one of the key challenges is the spatial resolution due to the limited frequencies in the microwave/radio part of the electromagnetic spectrum that the mission can use. Hence, the spatial resolution would be in the range of 100 meters.
+- Saturation levels for AGB: L-band -> 50-70 tha-1 and P-band -> 150-200 tha-1, hence okay for regrowth and transition zones
+- Why does aboveground biomass saturate? Water cloud model explanation! But also the structural properties of the forest have a big impact on the trend of saturation?
+- We know that scaterrers are progressively smaller and more numerous with increasing height into the canopy
 <br/>
 
 ### Day 4: Practical: how to find data; Split into two groups: SNAP practical and EO browser practical
