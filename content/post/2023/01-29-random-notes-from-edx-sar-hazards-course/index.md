@@ -13,7 +13,7 @@ image:
   focal_point: ""
   placement: 3
   preview_only: false
-lastmod: "2023-01-29T15:25:00Z"
+lastmod: "2023-02-05T15:25:00Z"
 projects: ""
 summary: ""
 tags:
@@ -74,3 +74,8 @@ To anyone else other than myself reading this post however, these notes might no
 
 #### On the limitations of single-pair InSAR techniques.
 {{< figure src="phase-decorrelation.gif" title="**InSAR limitations brought by phase decorrelation.** The main limitations of InSAR relate to ***phase decorrelation*** (amount of decorrelation: X-band > C-band > L-band) and ***atmosphere-induced distortions*** of the interferometric phase. The 12-day Sentinel-1 interferogram time-series over Sierra Negra volcano on the Galapagos Islands demonstrate both limitations. Several fringes related to surface uplift can be observed near the center of the image. However, the interferograms also show time varying phase screens caused by the atmosphere and areas of significant coherence loss, which are more prevalent in highly vegetated environments. Both of these main limitations can be partially mitigated using advanced InSAR time series techniques." >}}
+
+### Module 4: InSAR Time Series Analysis Techniques.
+
+#### On the motivations for InSAR time series analysis.
+{{< figure src="insar-time-series-analysis-motivation.jpg" title="**Motivations for InSAR time series analysis.** The image above showcases how InSAR time series analysis is able to reveal variable surface deformation in the Los Angeles area induced by groundwater extraction. There are two compelling reasons to move from traditional InSAR (based on a single image pair) to InSAR time series analysis. First, ***InSAR time series analysis enables the study of temporarily extended (and varying) phenomena*** such as many surface deformation phenomena that develop over time. A comparison to GPS (above image) demonstrates the high accuracy InSAR can achieve while exceeding the capabilities of GPS in the spatial sampling of the phenomenon of interest. Second, ***InSAR time series improves the precision with which surface displacements can be measured***. As most deformation phenomena develop slowly, we can exploit the redundancy in InSAR time series stacks to mitigate noise and nuisance signals such as atmospheric effects, residual topography, and decorrelation." >}}
