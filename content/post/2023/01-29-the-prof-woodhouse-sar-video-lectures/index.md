@@ -52,5 +52,12 @@ Take-home messages:
 
 ### Day 4: Practical: how to find data; Split into two groups: SNAP practical and EO browser practical
 {{< youtube 5y2aNjmXGbM >}}<br/>
-
 Take-home messages:
+
+- Speckle is not noise; it is a "noise-like" pattern over homogeneous targets
+- A Single Look Complex (SLC) SAR file has two numbers per pixel composed of the amplitude and the phase
+- "Looks" — strictly speaking, the number of sub-images averaged to create a final SAR image
+- Looks are traded against: spatial resolution (averaging over space such as the Lee filter), and temporal resolution (averaging over time)
+- Multilook processing helps get rid of the speckle
+- Conclusion from his paper, Woodhouse et al. (2011) in Int J Remote Sens, showed that to resolve ground targets, you could use 3-4 looks if the target has high contrast (e.g., ships that are bright against water that are dark due to double-bounce and surface scattering mechanisms, respectively); however, they suggest using at least 9 looks for lower contrast targets like vegetation
+<br/>
