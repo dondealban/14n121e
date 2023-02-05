@@ -14,7 +14,7 @@ image:
   focal_point: ""
   placement: 3
   preview_only: false
-lastmod: "2023-01-30T00:00:00Z"
+lastmod: "2023-02-05T00:00:00Z"
 projects: ""
 summary: "A series of video lectures by Prof Iain Woodhouse on understanding and using SAR data."
 tags:
