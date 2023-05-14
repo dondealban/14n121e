@@ -15,19 +15,17 @@ education:
     year: 2000
 email: ""
 interests:
+- Carbon M & MRV
 - Land Change
 - Remote Sensing
 - Conservation
-- Political Ecology
 - Sustainability
 - Southeast Asia
 name: Jose Don T De Alban
 organizations:
-- name: Centre for Nature-based Climate Solutions
-  url: "https://www.nus.edu.sg/cncs/"
-- name: National University of Singapore
-  url: "http://www.nus.edu.sg"
-role: Research Associate
+- name: ClearWind
+  url: "https://www.linkedin.com/company/clearwindearth"
+role: Global Head of Remote Sensing and Geospatial Analysis
 social:
 - icon: twitter
   icon_pack: fab
