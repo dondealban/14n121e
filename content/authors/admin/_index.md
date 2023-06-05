@@ -23,7 +23,7 @@ interests:
 - Southeast Asia
 name: Jose Don T De Alban
 organizations:
-- name: ClearWind
+- name: ClearWind Pte Ltd
   url: "https://www.linkedin.com/company/clearwindearth"
 role: Global Head of Remote Sensing and Geospatial Analysis
 social:
