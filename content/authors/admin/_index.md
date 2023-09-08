@@ -58,7 +58,7 @@ user_groups:
 ---
 I am a geographer and engineer interested in understanding land change as coupled human-natural systems, with an aim to develop solutions to address sustainability challenges in Southeast Asia.
 
-Presently, I am the Global Head of Remote Sensing and Geospatial Analysis at [ClearWind](https://www.linkedin.com/company/clearwindearth), a Singapore-based company developing carbon projects and nature-based climate solutions across Southeast Asia. 
+Presently, I am the Global Head of Remote Sensing and Geospatial Analysis at [ClearWind](https://www.linkedin.com/company/clearwindearth), a Singapore-based company developing nature-based carbon projects across Southeast Asia. 
 
 Previously, I was a senior researcher at the [National University of Singapore](http://www.nus.edu.sg) (2016–2023), most notably at the [Centre for Nature-based Climate Solutions](https://www.nus.edu.sg/cncs/jose-don-de-alban/) where I led, managed, and coordinated its regional Carbon Market Integrity R&D programme in Southeast Asia.
 
