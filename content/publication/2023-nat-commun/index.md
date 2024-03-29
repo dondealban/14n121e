@@ -1,5 +1,5 @@
 ---
-abstract: Carbon credits generated through jurisdictional-scale avoided deforestation projects require accurate estimates of deforestation emission baselines, but there are serious challenges to their robustness.
+abstract: Carbon credits generated through jurisdictional-scale avoided deforestation projects require accurate estimates of deforestation emission baselines, but there are serious challenges to their robustness. We assessed the variability, accuracy, and uncertainty of baselining methods by applying sensitivity and variable importance analysis on a range of typically-used methods and parameters for 2,794 jurisdictions worldwide.
 authors:
 - Hoong Chen Teo
 - Nicole Hui Li Tan 
