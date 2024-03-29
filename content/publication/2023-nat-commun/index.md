@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: Carbon credits generated through jurisdictional-scale avoided deforestation projects require accurate estimates of deforestation emission baselines, but there are serious challenges to their robustness.
 authors:
 - Hoong Chen Teo
 - Nicole Hui Li Tan 
@@ -27,7 +27,7 @@ publication_types:
 - "2"
 publishDate: "2023-12-13T00:00:00Z"
 slides: ""
-summary: The findings in the study provide a roadmap for improving baseline estimations to enhance carbon market integrity and trust.. 
+summary: The findings in the study provide a roadmap for improving baseline estimations to enhance carbon market integrity and trust. 
 tags:
 - avoided deforestation
 - baseline emissions
