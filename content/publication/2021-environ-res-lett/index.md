@@ -8,7 +8,7 @@ authors:
 - Kyle W Tomlinson
 date: "2021-12-21T00:00:00Z"
 doi: "10.1088/1748-9326/ac3aa2"
-featured: true
+featured: false
 image:
   caption: "Sankey diagram of the land cover transitions in Yunnan Province, China from 1986 to 2016. Nodes indicate the land cover percentage for each particular time step, while the ribbons depict the transitions between land cover types. Colours follow that of the land cover map. Note: PRK: parkland, WDL: woodland, FOR: forest, CRO: cropland, TRP: tree plantations, BAG: bare ground, BUR: built-up area and bare rock, WAT: water bodies, SNO: snow."
   focal_point: ""
