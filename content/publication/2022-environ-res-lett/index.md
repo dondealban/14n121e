@@ -7,7 +7,7 @@ authors:
 - Edward L Webb
 date: "2022-06-13T00:00:00Z"
 doi: "10.1088/1748-9326/ac68fa"
-featured: true
+featured: false
 image:
   caption: "State of SE Asia's remaining forest in emergent hot spots (EHS). Regional map (top) showing the amount of remaining 2018 ESA forest that occur inside and outside EHS, where each map unit is a 5 km circumradius hexagon (∼65 km2). Insets show the distribution of high, med (medium), and low integrity forest using the 2019 Forest Landscape Integrity Index (FLII) data for hot spots in (a) Papua, (b) Borneo, (c) Sulawesi, (d) Sumatra, (e) Tenasserim, and (f) southern Laos and central Vietnam."
   focal_point: ""
