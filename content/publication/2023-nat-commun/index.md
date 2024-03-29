@@ -1,5 +1,5 @@
 ---
-abstract: Carbon credits generated through jurisdictional-scale avoided deforestation projects require accurate estimates of deforestation emission baselines, but there are serious challenges to their robustness. We assessed the variability, accuracy, and uncertainty of baselining methods by applying sensitivity and variable importance analysis on a range of typically-used methods and parameters for 2,794 jurisdictions worldwide. The median jurisdiction’s deforestation emission baseline varied by 171% (90% range: 87%-440%) of its mean, with a median forecast error of 0.778 times (90% range: 0.548-3.56) the actual deforestation rate. Moreover, variable importance analysis emphasised the strong influence of the deforestation projection approach. For the median jurisdiction, 68.0% of possible methods (90% range: 61.1%-85.6%) exceeded 15% uncertainty. Tropical and polar biomes exhibited larger uncertainties in carbon estimations. The use of sensitivity analyses, multi-model, and multi-source ensemble approaches could reduce variabilities and biases. These findings provide a roadmap for improving baseline estimations to enhance carbon market integrity and trust.
+abstract: ""
 authors:
 - Hoong Chen Teo
 - Nicole Hui Li Tan 
