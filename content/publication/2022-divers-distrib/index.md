@@ -7,7 +7,7 @@ authors:
 - Edward L Webb
 date: "2022-05-12T00:00:00Z"
 doi: "10.1111/ddi.13544"
-featured: true
+featured: false
 image:
   caption: "Concept chart illustrating the processes through which differential sampling across time, relative to when anthropogenic range contraction had occurred, can lead to occurrence–habitat mismatching or niche truncation within an occurrence dataset."
   focal_point: center
