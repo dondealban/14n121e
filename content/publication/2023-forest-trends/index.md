@@ -17,7 +17,8 @@ image:
 links:
 - name: Website
   url: http://mekonglandforum.org/node/3246
-projects: 06_rubber-dynamics
+projects: 
+- 06_rubber-dynamics
 publication: ""
 publication_short: ""
 publication_types:
