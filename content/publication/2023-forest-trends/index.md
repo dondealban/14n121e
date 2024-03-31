@@ -1,5 +1,5 @@
 ---
-abstract: The entire rubber sector suffered a downturn after rubber prices peaked in 2011. Yet no study in Cambodia has examined how this downturn of the last decade has affected the dynamic of smallholder rubber as it relates to the land-use/land cover dynamics, smallholder livelihoods, and the value chain to which smallholders contribute. The report aims to fill this knowledge gap. It brings together the findings of a field-based research project conducted in 2020 and 2021 in three smallholder rubber hotspots in Cambodia (Kampong Cham/ Tbong Khmum, Kratie, and Ratanak Kiri provinces).
+abstract: The entire rubber sector suffered a downturn after rubber prices peaked in 2011. Yet no study in Cambodia has examined how this downturn of the last decade has affected the dynamic of smallholder rubber as it relates to the land use and land cover dynamics, smallholder livelihoods, and the value chain to which smallholders contribute. The report aims to fill this knowledge gap. It brings together the findings of a field-based research project conducted in 2020 and 2021 in three smallholder rubber hotspots in Cambodia (Kampong Cham/Tbong Khmum, Kratie, and Ratanak Kiri provinces).
 authors:
 - Jean-Christophe Diepart
 - Rada Kong
