@@ -23,9 +23,9 @@ interests:
 - Southeast Asia
 name: Jose Don T De Alban
 organizations:
-- name: ClearWind Pte Ltd
+- name: EcoCaraga Pte Ltd
   url: "https://www.linkedin.com/company/clearwindearth"
-role: Global Head of Remote Sensing and Geospatial Analysis
+role: Chief Technical Officer 
 social:
 - icon: twitter
   icon_pack: fab
