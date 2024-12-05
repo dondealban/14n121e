@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: land change | remote sensing | conservation | political ecology | sustainability | Southeast Asia
+bio: carbon markets | redd+ | nbs | conservation | geospatial | land change | sustainability | Southeast Asia
 education:
   courses:
   - course: ""
@@ -15,11 +15,11 @@ education:
     year: 2000
 email: ""
 interests:
-- Carbon M & MRV
-- Land Change
-- Remote Sensing
+- Carbon Markets
+- REDD+ and Nature-based Solutions
 - Conservation
-- Sustainability
+- Geospatial and Remote Sensing
+- Land Change and Sustainability
 - Southeast Asia
 name: Jose Don T De Alban
 organizations:
