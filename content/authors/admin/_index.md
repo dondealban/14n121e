@@ -24,7 +24,7 @@ interests:
 name: Jose Don T De Alban
 organizations:
 - name: EcoCaraga Pte Ltd
-  url: "https://www.linkedin.com/company/clearwindearth"
+  url: "https://www.linkedin.com/company/ecocaraga"
 role: Chief Technical Officer 
 social:
 - icon: twitter
